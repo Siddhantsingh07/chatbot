@@ -1,0 +1,1300 @@
+[
+  {
+    "id": 1,
+    "category": "small_talk",
+    "intent": "greeting",
+    "questions": [
+      "hi",
+      "hello",
+      "hey there",
+      "good morning",
+      "good evening",
+      "namaste",
+      "namaskar",
+      "नमस्ते",
+      "हैलो",
+      "सुप्रभात",
+      "hello bot",
+      "kya haal hai"
+    ],
+    "answer_en": "Hello! 👋 Welcome to the ABES Student Support Help Desk. You can ask me about admissions, fees, exams, hostel, scholarships, placements and more.",
+    "answer_hi": "नमस्ते! 👋 ABES इंजीनियरिंग कॉलेज ABES स्टूडेंट हेल्प डेस्क में आपका स्वागत है। आप मुझसे एडमिशन, फीस, परीक्षा, हॉस्टल, स्कॉलरशिप, प्लेसमेंट आदि के बारे में पूछ सकते हैं।",
+    "answer": "Hello! 👋 Welcome to the ABES Student Support Help Desk. You can ask me about admissions, fees, exams, hostel, scholarships, placements and more."
+  },
+  {
+    "id": 2,
+    "category": "small_talk",
+    "intent": "how_are_you",
+    "questions": [
+      "how are you",
+      "how are you doing",
+      "how is it going",
+      "what's up",
+      "aap kaise ho",
+      "tum kaise ho",
+      "kaise ho",
+      "आप कैसे हैं",
+      "आप कैसे हो",
+      "कैसे हो",
+      "sab theek hai"
+    ],
+    "answer_en": "I'm doing great, thank you for asking! How can I help you today?",
+    "answer_hi": "मैं बिल्कुल ठीक हूँ, पूछने के लिए धन्यवाद! बताइए, मैं आपकी क्या मदद कर सकता हूँ?",
+    "answer": "I'm doing great, thank you for asking! How can I help you today?"
+  },
+  {
+    "id": 3,
+    "category": "small_talk",
+    "intent": "bot_identity",
+    "questions": [
+      "who are you",
+      "what are you",
+      "what is your name",
+      "are you a robot",
+      "are you human",
+      "tum kaun ho",
+      "aap kaun hain",
+      "tumhara naam kya hai",
+      "आप कौन हैं",
+      "तुम कौन हो",
+      "आपका नाम क्या है"
+    ],
+    "answer_en": "I'm the ABES Student Support Help Desk, a virtual assistant that answers common student questions 24/7.",
+    "answer_hi": "मैं ABES स्टूडेंट सपोर्ट हेल्प डेस्क हूँ, एक वर्चुअल असिस्टेंट जो छात्रों के सामान्य सवालों के जवाब 24x7 देता है।",
+    "answer": "I'm the ABES Student Support Help Desk, a virtual assistant that answers common student questions 24/7."
+  },
+  {
+    "id": 4,
+    "category": "small_talk",
+    "intent": "bot_capabilities",
+    "questions": [
+      "what can you do",
+      "how can you help me",
+      "what do you know",
+      "what topics can you answer",
+      "tum kya kar sakte ho",
+      "aap kya kar sakte hain",
+      "aap meri kya madad kar sakte ho",
+      "आप क्या कर सकते हैं",
+      "तुम क्या कर सकते हो",
+      "आप किन विषयों पर जवाब दे सकते हैं"
+    ],
+    "answer_en": "I can help with admissions, fees, scholarships, exams, timetable, hostel, library, placements, documents and contact details. Just type your question in English, Hindi or Hinglish.",
+    "answer_hi": "मैं एडमिशन, फीस, स्कॉलरशिप, परीक्षा, टाइमटेबल, हॉस्टल, लाइब्रेरी, प्लेसमेंट, दस्तावेज़ और संपर्क जानकारी में मदद कर सकता हूँ। अपना सवाल हिंदी, अंग्रेज़ी या हिंग्लिश में लिखिए।",
+    "answer": "I can help with admissions, fees, scholarships, exams, timetable, hostel, library, placements, documents and contact details. Just type your question in English, Hindi or Hinglish."
+  },
+  {
+    "id": 5,
+    "category": "small_talk",
+    "intent": "thanks",
+    "questions": [
+      "thanks",
+      "thank you",
+      "thank you so much",
+      "thanks a lot",
+      "that was helpful",
+      "dhanyavad",
+      "shukriya",
+      "bahut shukriya",
+      "thank you bhai",
+      "धन्यवाद",
+      "शुक्रिया",
+      "बहुत बहुत धन्यवाद"
+    ],
+    "answer_en": "You're most welcome! 😊 Let me know if you need help with anything else.",
+    "answer_hi": "आपका बहुत स्वागत है! 😊 अगर किसी और चीज़ में मदद चाहिए तो बेझिझक पूछिए।",
+    "answer": "You're most welcome! 😊 Let me know if you need help with anything else."
+  },
+  {
+    "id": 6,
+    "category": "small_talk",
+    "intent": "goodbye",
+    "questions": [
+      "bye",
+      "goodbye",
+      "see you later",
+      "good night",
+      "talk to you later",
+      "alvida",
+      "chalo bye",
+      "milte hain",
+      "shubh ratri",
+      "अलविदा",
+      "फिर मिलेंगे",
+      "शुभ रात्रि",
+      "बाय"
+    ],
+    "answer_en": "Goodbye! Take care and all the best for your studies. 👋",
+    "answer_hi": "अलविदा! अपना ध्यान रखिए और पढ़ाई के लिए ढेर सारी शुभकामनाएँ। 👋",
+    "answer": "Goodbye! Take care and all the best for your studies. 👋"
+  },
+  {
+    "id": 7,
+    "category": "small_talk",
+    "intent": "compliment",
+    "questions": [
+      "you are great",
+      "good job",
+      "you are smart",
+      "nice bot",
+      "well done",
+      "tum bahut acche ho",
+      "aap bahut accha kaam karte ho",
+      "bahut badhiya",
+      "आप बहुत अच्छे हैं",
+      "शाबाश",
+      "बहुत बढ़िया"
+    ],
+    "answer_en": "Thank you, that's kind of you! I'm happy to help. 😊",
+    "answer_hi": "धन्यवाद, यह आपकी महानता है! मुझे आपकी मदद करके खुशी होती है। 😊",
+    "answer": "Thank you, that's kind of you! I'm happy to help. 😊"
+  },
+  {
+    "id": 8,
+    "category": "small_talk",
+    "intent": "apology",
+    "questions": [
+      "sorry",
+      "my bad",
+      "i am sorry",
+      "apologies",
+      "maaf kijiye",
+      "sorry yaar",
+      "galti ho gayi",
+      "माफ़ कीजिए",
+      "क्षमा करें",
+      "सॉरी"
+    ],
+    "answer_en": "No problem at all! How can I help you?",
+    "answer_hi": "कोई बात नहीं! बताइए, मैं आपकी कैसे मदद कर सकता हूँ?",
+    "answer": "No problem at all! How can I help you?"
+  },
+  {
+    "id": 9,
+    "category": "small_talk",
+    "intent": "affirmation",
+    "questions": [
+      "ok",
+      "okay",
+      "alright",
+      "got it",
+      "fine",
+      "cool",
+      "theek hai",
+      "thik hai",
+      "accha",
+      "samajh gaya",
+      "ठीक है",
+      "अच्छा",
+      "समझ गया"
+    ],
+    "answer_en": "Great! Feel free to ask me anything else about ABES Engineering College.",
+    "answer_hi": "बहुत बढ़िया! ABES इंजीनियरिंग कॉलेज के बारे में कुछ और पूछना हो तो बेझिझक पूछिए।",
+    "answer": "Great! Feel free to ask me anything else about ABES Engineering College."
+  },
+  {
+    "id": 10,
+    "category": "small_talk",
+    "intent": "joke",
+    "questions": [
+      "tell me a joke",
+      "say something funny",
+      "make me laugh",
+      "joke sunao",
+      "koi mazedar baat batao",
+      "mujhe hasao",
+      "कोई जोक सुनाओ",
+      "चुटकुला सुनाइए",
+      "मुझे हँसाओ"
+    ],
+    "answer_en": "Why did the student eat his homework? Because the teacher said it was a piece of cake! 😄 Now, how can I help with yABES Engineering College queries?",
+    "answer_hi": "टीचर ने कहा, 'होमवर्क बहुत आसान है, केक का टुकड़ा है' तो स्टूडेंट ने सच में होमवर्क खा लिया! 😄 अब बताइए, ABES इंजीनियरिंग कॉलेज के बारे में क्या जानना है?",
+    "answer": "Why did the student eat his homework? Because the teacher said it was a piece of cake! 😄 Now, how can I help with yABES Engineering College queries?"
+  },
+  {
+    "id": 11,
+    "category": "small_talk",
+    "intent": "creator",
+    "questions": [
+      "who made you",
+      "who created you",
+      "who built this chatbot",
+      "who developed you",
+      "tumhe kisne banaya",
+      "aapko kisne banaya hai",
+      "tumhara creator kaun hai",
+      "तुम्हें किसने बनाया",
+      "आपको किसने बनाया है",
+      "आपका निर्माता कौन है"
+    ],
+    "answer_en": "I was built as a student support project using React, FastAPI, SQLite and TF-IDF-based intent matching.",
+    "answer_hi": "मुझे एक स्टूडेंट सपोर्ट प्रोजेक्ट के रूप में React, FastAPI, SQLite और TF-IDF आधारित इंटेंट मैचिंग से बनाया गया है।",
+    "answer": "I was built as a student support project using React, FastAPI, SQLite and TF-IDF-based intent matching."
+  },
+  {
+    "id": 12,
+    "category": "small_talk",
+    "intent": "need_help",
+    "questions": [
+      "help",
+      "i need help",
+      "can you help me",
+      "please help",
+      "help me please",
+      "madad chahiye",
+      "meri madad karo",
+      "mujhe help chahiye",
+      "mujhe madad chahiye",
+      "मदद चाहिए",
+      "मेरी मदद कीजिए",
+      "मुझे सहायता चाहिए"
+    ],
+    "answer_en": "Of course, I'm here to help! Please tell me your question, for example: 'What is the fee structure?' or 'How do I apply for a hostel?'",
+    "answer_hi": "ज़रूर, मैं आपकी मदद के लिए हूँ! अपना सवाल बताइए, जैसे: 'फीस कितनी है?' या 'हॉस्टल के लिए आवेदन कैसे करें?'",
+    "answer": "Of course, I'm here to help! Please tell me your question, for example: 'What is the fee structure?' or 'How do I apply for a hostel?'"
+  },
+  {
+    "id": 13,
+    "category": "small_talk",
+    "intent": "frustration",
+    "questions": [
+      "you are useless",
+      "this is not helpful",
+      "you are stupid",
+      "bad bot",
+      "worst chatbot",
+      "tum bekaar ho",
+      "tum kuch nahi jaante",
+      "yeh kaam ka nahi hai",
+      "आप बेकार हैं",
+      "यह मददगार नहीं है",
+      "तुम कुछ नहीं जानते"
+    ],
+    "answer_en": "I'm sorry I couldn't help as expected. Please rephrase your question, or ask for 'human support' and I'll share the helpline details.",
+    "answer_hi": "क्षमा कीजिए, मैं आपकी अपेक्षा के अनुसार मदद नहीं कर पाया। कृपया अपना सवाल दूसरे शब्दों में पूछें, या 'ह्यूमन सपोर्ट' लिखें, मैं हेल्पलाइन की जानकारी दे दूँगा।",
+    "answer": "I'm sorry I couldn't help as expected. Please rephrase your question, or ask for 'human support' and I'll share the helpline details."
+  },
+  {
+    "id": 14,
+    "category": "small_talk",
+    "intent": "human_agent",
+    "questions": [
+      "talk to a human",
+      "i want to speak to a person",
+      "connect me to staff",
+      "human support",
+      "real person please",
+      "mujhe kisi insaan se baat karni hai",
+      "staff se baat karwao",
+      "kisi se baat karni hai",
+      "मुझे किसी इंसान से बात करनी है",
+      "स्टाफ से बात कराइए",
+      "ह्यूमन सपोर्ट"
+    ],
+    "answer_en": "Sure. You can reach the Student Help Desk at 1800-000-0000 (Mon-Sat, 9:30 AM to 5:30 PM) or email helpdesk@college.edu.in.",
+    "answer_hi": "ज़रूर। आप स्टूडेंट हेल्प डेस्क से 1800-000-0000 (सोम-शनि, सुबह 9:30 से शाम 5:30) पर संपर्क कर सकते हैं या helpdesk@college.edu.in पर ईमेल करें।",
+    "answer": "Sure. You can reach the Student Help Desk at 1800-000-0000 (Mon-Sat, 9:30 AM to 5:30 PM) or email helpdesk@college.edu.in."
+  },
+  {
+    "id": 15,
+    "category": "admissions",
+    "intent": "admission_process",
+    "questions": [
+      "how to apply for admission",
+      "what is the admission process",
+      "how can i take admission",
+      "admission procedure",
+      "admission kaise le",
+      "admission process kya hai",
+      "admission ke liye apply kaise kare",
+      "एडमिशन कैसे लें",
+      "प्रवेश प्रक्रिया क्या है",
+      "दाखिला कैसे होता है",
+      "admission ke liye form kahan bharna hai"
+    ],
+    "answer_en": "Admission steps: 1) Register on ABES Engineering College admission portal (or the common admission portal of the affiliated university / state counselling, where applicable), 2) Fill in the application form and upload documents, 3) Pay the application fee online, 4) Check the merit list or counselling result, 5) Report to ABES Engineering College with original documents and pay the admission fee to confirm your seat.",
+    "answer_hi": "एडमिशन के चरण: 1) ABES इंजीनियरिंग कॉलेज एडमिशन पोर्टल पर रजिस्टर करें (या जहाँ लागू हो वहाँ संबद्ध यूनिवर्सिटी के कॉमन पोर्टल / राज्य काउंसलिंग में), 2) आवेदन फॉर्म भरें और दस्तावेज़ अपलोड करें, 3) आवेदन शुल्क ऑनलाइन जमा करें, 4) मेरिट लिस्ट या काउंसलिंग परिणाम देखें, 5) मूल दस्तावेज़ों के साथ ABES इंजीनियरिंग कॉलेज में रिपोर्ट करें और सीट पक्की करने के लिए एडमिशन फीस जमा करें।",
+    "answer": "Admission steps: 1) Register on ABES Engineering College admission portal (or the common admission portal of the affiliated university / state counselling, where applicable), 2) Fill in the application form and upload documents, 3) Pay the application fee online, 4) Check the merit list or counselling result, 5) Report to ABES Engineering College with original documents and pay the admission fee to confirm your seat."
+  },
+  {
+    "id": 16,
+    "category": "admissions",
+    "intent": "eligibility_criteria",
+    "questions": [
+      "what is the eligibility for admission",
+      "eligibility criteria for undergraduate",
+      "minimum marks required for admission",
+      "who can apply",
+      "admission ke liye eligibility kya hai",
+      "kitne percent chahiye admission ke liye",
+      "kaun apply kar sakta hai",
+      "पात्रता क्या है",
+      "एडमिशन के लिए कितने प्रतिशत चाहिए",
+      "न्यूनतम अंक कितने चाहिए"
+    ],
+    "answer_en": "For undergraduate programmes you need to pass 10+2 with at least 45% marks (40% for reserved categories) from a recognised board, as per the affiliated university's norms. Postgraduate programmes require a relevant bachelor's degree with at least 50% marks.",
+    "answer_hi": "अंडरग्रेजुएट कोर्स के लिए संबद्ध यूनिवर्सिटी के नियमों के अनुसार मान्यता प्राप्त बोर्ड से 12वीं में कम से कम 45% अंक (आरक्षित वर्ग के लिए 40%) चाहिए। पोस्टग्रेजुएट के लिए संबंधित विषय में स्नातक डिग्री और कम से कम 50% अंक ज़रूरी हैं।",
+    "answer": "For undergraduate programmes you need to pass 10+2 with at least 45% marks (40% for reserved categories) from a recognised board, as per the affiliated university's norms. Postgraduate programmes require a relevant bachelor's degree with at least 50% marks."
+  },
+  {
+    "id": 17,
+    "category": "admissions",
+    "intent": "last_date",
+    "questions": [
+      "what is the last date to apply",
+      "admission deadline",
+      "when do admissions close",
+      "last date of admission form",
+      "admission ki last date kya hai",
+      "form bharne ki antim tithi kab hai",
+      "admission kab tak khula hai",
+      "आवेदन की अंतिम तिथि क्या है",
+      "एडमिशन की लास्ट डेट कब है",
+      "प्रवेश कब तक खुले हैं"
+    ],
+    "answer_en": "The last date is announced on ABES Engineering College admission portal and notice board each year. Please check the 'Admissions' section for the current deadline.",
+    "answer_hi": "अंतिम तिथि हर साल ABES इंजीनियरिंग कॉलेज एडमिशन पोर्टल और नोटिस बोर्ड पर घोषित की जाती है। मौजूदा तिथि के लिए 'Admissions' सेक्शन देखें।",
+    "answer": "The last date is announced on ABES Engineering College admission portal and notice board each year. Please check the 'Admissions' section for the current deadline."
+  },
+  {
+    "id": 18,
+    "category": "admissions",
+    "intent": "documents_required",
+    "questions": [
+      "what documents are required for admission",
+      "documents needed for admission",
+      "list of documents for admission",
+      "which certificates to bring",
+      "admission ke liye kaun se documents chahiye",
+      "kaunse documents lagenge",
+      "documents ki list batao",
+      "एडमिशन के लिए कौन से दस्तावेज़ चाहिए",
+      "ज़रूरी दस्तावेज़ों की सूची",
+      "कौन से कागज़ात लगेंगे"
+    ],
+    "answer_en": "Required documents: 10th and 12th marksheets, transfer certificate, migration certificate, passport-size photographs, Aadhaar card, category certificate (if applicable), and income certificate (for scholarships).",
+    "answer_hi": "ज़रूरी दस्तावेज़: 10वीं और 12वीं की मार्कशीट, ट्रांसफर सर्टिफिकेट, माइग्रेशन सर्टिफिकेट, पासपोर्ट साइज़ फोटो, आधार कार्ड, जाति प्रमाण पत्र (यदि लागू हो) और आय प्रमाण पत्र (स्कॉलरशिप के लिए)।",
+    "answer": "Required documents: 10th and 12th marksheets, transfer certificate, migration certificate, passport-size photographs, Aadhaar card, category certificate (if applicable), and income certificate (for scholarships)."
+  },
+  {
+    "id": 19,
+    "category": "admissions",
+    "intent": "entrance_exam",
+    "questions": [
+      "is there an entrance exam",
+      "do i need to give entrance test",
+      "which entrance exam is accepted",
+      "entrance exam details",
+      "entrance exam hota hai kya",
+      "entrance test dena padega kya",
+      "kaun sa entrance exam accept hota hai",
+      "क्या प्रवेश परीक्षा होती है",
+      "प्रवेश परीक्षा देनी पड़ेगी क्या",
+      "कौन सी एंट्रेंस परीक्षा मान्य है"
+    ],
+    "answer_en": "Most BA, BCom and BSc seats are filled on merit. Some programmes use CUET scores or state counselling, and professional courses may require JEE / state CET (BTech) or CAT / MAT / CMAT (MBA). Check the programme page for details.",
+    "answer_hi": "अधिकांश BA, BCom और BSc सीटें मेरिट पर भरी जाती हैं। कुछ कोर्स में CUET स्कोर या राज्य काउंसलिंग लागू होती है, और प्रोफेशनल कोर्स के लिए JEE / राज्य CET (BTech) या CAT / MAT / CMAT (MBA) चाहिए। विवरण के लिए कोर्स पेज देखें।",
+    "answer": "Most BA, BCom and BSc seats are filled on merit. Some programmes use CUET scores or state counselling, and professional courses may require JEE / state CET (BTech) or CAT / MAT / CMAT (MBA). Check the programme page for details."
+  },
+  {
+    "id": 20,
+    "category": "admissions",
+    "intent": "courses_offered",
+    "questions": [
+      "what courses are offered",
+      "list of programmes",
+      "which courses are available",
+      "do you offer mba",
+      "btech courses available",
+      "kaun se courses available hain",
+      "kaunse course milte hain",
+      "college mein kya kya padhai hoti hai",
+      "कौन से कोर्स उपलब्ध हैं",
+      "कोर्स की सूची बताइए",
+      "कॉलेज में कौन-कौन से कोर्स हैं"
+    ],
+    "answer_en": "ABES Engineering College offers undergraduate programmes (BA, BCom, BSc, BBA, BCA) and selected postgraduate programmes (MA, MCom, MSc), affiliated to [Affiliated University Name]. See the 'Courses' page on ABES Engineering College website for the full list and seats.",
+    "answer_hi": "ABES इंजीनियरिंग कॉलेज [संबद्ध यूनिवर्सिटी का नाम] से संबद्ध UG कोर्स (BA, BCom, BSc, BBA, BCA) और चुनिंदा PG कोर्स (MA, MCom, MSc) कराता है। पूरी सूची और सीटों के लिए ABES इंजीनियरिंग कॉलेज वेबसाइट का 'Courses' पेज देखें।",
+    "answer": "ABES Engineering College offers undergraduate programmes (BA, BCom, BSc, BBA, BCA) and selected postgraduate programmes (MA, MCom, MSc), affiliated to [Affiliated University Name]. See the 'Courses' page on ABES Engineering College website for the full list and seats."
+  },
+  {
+    "id": 21,
+    "category": "fees",
+    "intent": "fee_structure",
+    "questions": [
+      "what is the fee structure",
+      "how much is the tuition fee",
+      "course fees",
+      "what are the fees for btech",
+      "fees kitni hai",
+      "fee structure kya hai",
+      "btech ki fees kitni hai",
+      "फीस कितनी है",
+      "फीस स्ट्रक्चर क्या है",
+      "ट्यूशन फीस कितनी लगती है",
+      "course ki fees batao"
+    ],
+    "answer_en": "Fees vary by programme. For example, annual tuition is about Rs 25,000 for BA/BCom, Rs 35,000 for BSc, Rs 60,000 for BBA/BCA and Rs 45,000 for MA/MCom/MSc. Examination and enrolment fees of the affiliated university are paid separately. Please check the official fee notice.",
+    "answer_hi": "फीस कोर्स के अनुसार अलग-अलग होती है। उदाहरण के लिए, BA/BCom की वार्षिक ट्यूशन फीस लगभग 25,000 रुपये, BSc की 35,000 रुपये, BBA/BCA की 60,000 रुपये और MA/MCom/MSc की 45,000 रुपये है। संबद्ध यूनिवर्सिटी की परीक्षा और एनरोलमेंट फीस अलग से देनी होती है। आधिकारिक फीस सूचना देखें।",
+    "answer": "Fees vary by programme. For example, annual tuition is about Rs 25,000 for BA/BCom, Rs 35,000 for BSc, Rs 60,000 for BBA/BCA and Rs 45,000 for MA/MCom/MSc. Examination and enrolment fees of the affiliated university are paid separately. Please check the official fee notice."
+  },
+  {
+    "id": 22,
+    "category": "fees",
+    "intent": "payment_modes",
+    "questions": [
+      "how can i pay the fees",
+      "fee payment methods",
+      "can i pay fees online",
+      "payment options for fees",
+      "fees kaise bhare",
+      "fees online kaise jama kare",
+      "kya fees online bhar sakte hain",
+      "फीस कैसे जमा करें",
+      "फीस ऑनलाइन कैसे भरें",
+      "फीस भुगतान के तरीके"
+    ],
+    "answer_en": "You can pay fees online through the student portal using UPI, net banking, debit/credit card, or by demand draft or cash at the accounts office counter.",
+    "answer_hi": "आप स्टूडेंट पोर्टल पर UPI, नेट बैंकिंग, डेबिट/क्रेडिट कार्ड से ऑनलाइन फीस जमा कर सकते हैं, या अकाउंट्स ऑफिस काउंटर पर डिमांड ड्राफ्ट या नकद दे सकते हैं।",
+    "answer": "You can pay fees online through the student portal using UPI, net banking, debit/credit card, or by demand draft or cash at the accounts office counter."
+  },
+  {
+    "id": 23,
+    "category": "fees",
+    "intent": "fee_installment",
+    "questions": [
+      "can i pay fees in installments",
+      "fee installment option",
+      "semester wise fee payment",
+      "is partial payment allowed",
+      "fees kishton mein de sakte hain",
+      "installment mein fees bhar sakte hain kya",
+      "semester wise fees kaise bharni hai",
+      "क्या फीस किस्तों में जमा कर सकते हैं",
+      "फीस किश्त में भरने की सुविधा",
+      "सेमेस्टर के हिसाब से फीस"
+    ],
+    "answer_en": "Yes, fees can be paid semester-wise. A two-instalment option per semester is available on request to the accounts office, subject to approval.",
+    "answer_hi": "हाँ, फीस सेमेस्टर के अनुसार जमा की जा सकती है। अकाउंट्स ऑफिस में अनुरोध करने पर, स्वीकृति के बाद प्रति सेमेस्टर दो किस्तों की सुविधा भी मिलती है।",
+    "answer": "Yes, fees can be paid semester-wise. A two-instalment option per semester is available on request to the accounts office, subject to approval."
+  },
+  {
+    "id": 24,
+    "category": "fees",
+    "intent": "fee_refund",
+    "questions": [
+      "can i get a refund",
+      "fee refund policy",
+      "refund after cancelling admission",
+      "how to get my fees back",
+      "fees refund hogi kya",
+      "admission cancel karne par paisa wapas milega",
+      "refund policy kya hai",
+      "फीस वापस मिलेगी क्या",
+      "रिफंड पॉलिसी क्या है",
+      "एडमिशन रद्द करने पर पैसे वापस"
+    ],
+    "answer_en": "If you cancel your admission before the semester starts, a refund is given after deducting a processing fee. Refund requests must be submitted in writing to the accounts office, and processing takes 15 to 20 working days.",
+    "answer_hi": "सेमेस्टर शुरू होने से पहले एडमिशन रद्द करने पर प्रोसेसिंग शुल्क काटकर रिफंड दिया जाता है। रिफंड का आवेदन अकाउंट्स ऑफिस में लिखित रूप से देना होता है, और प्रक्रिया में 15 से 20 कार्य दिवस लगते हैं।",
+    "answer": "If you cancel your admission before the semester starts, a refund is given after deducting a processing fee. Refund requests must be submitted in writing to the accounts office, and processing takes 15 to 20 working days."
+  },
+  {
+    "id": 25,
+    "category": "fees",
+    "intent": "late_fee",
+    "questions": [
+      "what if i miss the fee deadline",
+      "late fee charges",
+      "fine for late fee payment",
+      "fee due date passed",
+      "fees late bharne par kya hoga",
+      "late fee kitni lagti hai",
+      "last date nikal gayi fees ki",
+      "देर से फीस भरने पर क्या होगा",
+      "लेट फीस कितनी लगेगी",
+      "फीस की अंतिम तिथि निकल गई"
+    ],
+    "answer_en": "A late fee of Rs 100 per day (up to a maximum of Rs 2,000) is charged after the due date. If fees remain unpaid beyond 30 days, you may not be allowed to sit for the examinations.",
+    "answer_hi": "नियत तिथि के बाद प्रतिदिन 100 रुपये (अधिकतम 2,000 रुपये) लेट फीस लगती है। 30 दिन से अधिक फीस बकाया रहने पर परीक्षा में बैठने की अनुमति नहीं मिल सकती।",
+    "answer": "A late fee of Rs 100 per day (up to a maximum of Rs 2,000) is charged after the due date. If fees remain unpaid beyond 30 days, you may not be allowed to sit for the examinations."
+  },
+  {
+    "id": 26,
+    "category": "scholarships",
+    "intent": "scholarships_available",
+    "questions": [
+      "what scholarships are available",
+      "do you offer scholarships",
+      "scholarship details",
+      "types of scholarships",
+      "scholarship milti hai kya",
+      "kaun kaun si scholarship available hai",
+      "scholarship ke baare mein batao",
+      "कौन सी स्कॉलरशिप उपलब्ध हैं",
+      "क्या स्कॉलरशिप मिलती है",
+      "स्कॉलरशिप की जानकारी दीजिए"
+    ],
+    "answer_en": "We offer merit scholarships, need-based scholarships, sports quota scholarships, and government schemes (such as NSP and state scholarships) for eligible students.",
+    "answer_hi": "हम योग्य छात्रों के लिए मेरिट स्कॉलरशिप, ज़रूरत आधारित स्कॉलरशिप, खेल कोटा स्कॉलरशिप और सरकारी योजनाएँ (जैसे NSP और राज्य स्कॉलरशिप) उपलब्ध कराते हैं।",
+    "answer": "We offer merit scholarships, need-based scholarships, sports quota scholarships, and government schemes (such as NSP and state scholarships) for eligible students."
+  },
+  {
+    "id": 27,
+    "category": "scholarships",
+    "intent": "scholarship_eligibility",
+    "questions": [
+      "who is eligible for scholarship",
+      "scholarship eligibility criteria",
+      "marks needed for scholarship",
+      "income limit for scholarship",
+      "scholarship ke liye kaun eligible hai",
+      "scholarship ke liye kitne marks chahiye",
+      "income limit kitni honi chahiye",
+      "स्कॉलरशिप के लिए कौन पात्र है",
+      "स्कॉलरशिप के लिए कितने अंक चाहिए",
+      "आय सीमा क्या है"
+    ],
+    "answer_en": "Merit scholarships need 85% or above in the qualifying exam. Need-based scholarships require a family income below Rs 3,00,000 per year. Government schemes have their own criteria.",
+    "answer_hi": "मेरिट स्कॉलरशिप के लिए क्वालीफाइंग परीक्षा में 85% या अधिक अंक चाहिए। ज़रूरत आधारित स्कॉलरशिप के लिए पारिवारिक वार्षिक आय 3,00,000 रुपये से कम होनी चाहिए। सरकारी योजनाओं के अपने नियम होते हैं।",
+    "answer": "Merit scholarships need 85% or above in the qualifying exam. Need-based scholarships require a family income below Rs 3,00,000 per year. Government schemes have their own criteria."
+  },
+  {
+    "id": 28,
+    "category": "scholarships",
+    "intent": "scholarship_apply",
+    "questions": [
+      "how to apply for scholarship",
+      "scholarship application process",
+      "where to submit scholarship form",
+      "scholarship documents required",
+      "scholarship ke liye apply kaise kare",
+      "scholarship form kahan jama kare",
+      "scholarship ke liye kya documents chahiye",
+      "स्कॉलरशिप के लिए आवेदन कैसे करें",
+      "स्कॉलरशिप फॉर्म कहाँ जमा करें",
+      "स्कॉलरशिप के लिए कौन से दस्तावेज़ चाहिए"
+    ],
+    "answer_en": "Apply through the scholarship section of the student portal and upload your marksheet, income certificate, category certificate and bank details. Submit the printed form at the scholarship cell before the deadline.",
+    "answer_hi": "स्टूडेंट पोर्टल के स्कॉलरशिप सेक्शन में आवेदन करें और मार्कशीट, आय प्रमाण पत्र, जाति प्रमाण पत्र और बैंक विवरण अपलोड करें। अंतिम तिथि से पहले प्रिंटेड फॉर्म स्कॉलरशिप सेल में जमा करें।",
+    "answer": "Apply through the scholarship section of the student portal and upload your marksheet, income certificate, category certificate and bank details. Submit the printed form at the scholarship cell before the deadline."
+  },
+  {
+    "id": 29,
+    "category": "exams",
+    "intent": "exam_schedule",
+    "questions": [
+      "when are the exams",
+      "exam date sheet",
+      "exam schedule",
+      "when will semester exams start",
+      "exam kab hai",
+      "exams kab se shuru honge",
+      "date sheet kab aayegi",
+      "परीक्षा कब है",
+      "परीक्षा की तिथि क्या है",
+      "डेट शीट कब आएगी"
+    ],
+    "answer_en": "ABES Engineering College conducts internal tests and mid-term exams. Semester or annual exams are conducted by the affiliated university, usually in December and May. The date sheet is published on the university website and ABES Engineering College notice board.",
+    "answer_hi": "ABES इंजीनियरिंग कॉलेज इंटरनल टेस्ट और मिड-टर्म परीक्षाएँ कराता है। सेमेस्टर या वार्षिक परीक्षाएँ संबद्ध यूनिवर्सिटी द्वारा आमतौर पर दिसंबर और मई में होती हैं। डेट शीट यूनिवर्सिटी वेबसाइट और ABES इंजीनियरिंग कॉलेज नोटिस बोर्ड पर जारी की जाती है।",
+    "answer": "ABES Engineering College conducts internal tests and mid-term exams. Semester or annual exams are conducted by the affiliated university, usually in December and May. The date sheet is published on the university website and ABES Engineering College notice board."
+  },
+  {
+    "id": 30,
+    "category": "exams",
+    "intent": "exam_results",
+    "questions": [
+      "how to check my result",
+      "when will results be declared",
+      "semester result",
+      "where can i see my marks",
+      "result kab aayega",
+      "result kaise dekhe",
+      "mere marks kahan dekhe",
+      "रिज़ल्ट कब आएगा",
+      "रिज़ल्ट कैसे देखें",
+      "मेरे अंक कहाँ देखें"
+    ],
+    "answer_en": "Final results are declared by the affiliated university, usually within 30 to 60 days of the last exam, and are available on its website. Internal marks and attendance can be checked on ABES Engineering College portal.",
+    "answer_hi": "फाइनल रिज़ल्ट संबद्ध यूनिवर्सिटी द्वारा आमतौर पर आखिरी परीक्षा के 30 से 60 दिन में घोषित होता है और उसकी वेबसाइट पर उपलब्ध रहता है। इंटरनल अंक और उपस्थिति ABES इंजीनियरिंग कॉलेज पोर्टल पर देखी जा सकती है।",
+    "answer": "Final results are declared by the affiliated university, usually within 30 to 60 days of the last exam, and are available on its website. Internal marks and attendance can be checked on ABES Engineering College portal."
+  },
+  {
+    "id": 31,
+    "category": "exams",
+    "intent": "admit_card",
+    "questions": [
+      "how to download admit card",
+      "admit card kab milega",
+      "hall ticket download",
+      "where to get exam hall ticket",
+      "admit card kaise download kare",
+      "hall ticket kahan se milega",
+      "admit card nahi mil raha",
+      "एडमिट कार्ड कैसे डाउनलोड करें",
+      "हॉल टिकट कहाँ से मिलेगा",
+      "एडमिट कार्ड कब मिलेगा"
+    ],
+    "answer_en": "After you fill the university exam form through ABES Engineering College exam cell, admit cards are issued about 7 days before the exam. Download it from the university portal or collect it from ABES Engineering College exam cell. Fee dues or low attendance can block the exam form.",
+    "answer_hi": "ABES इंजीनियरिंग कॉलेज परीक्षा सेल के माध्यम से यूनिवर्सिटी का परीक्षा फॉर्म भरने के बाद एडमिट कार्ड परीक्षा से लगभग 7 दिन पहले जारी होता है। इसे यूनिवर्सिटी पोर्टल से डाउनलोड करें या ABES इंजीनियरिंग कॉलेज परीक्षा सेल से ले लें। फीस बकाया या कम उपस्थिति होने पर परीक्षा फॉर्म रुक सकता है।",
+    "answer": "After you fill the university exam form through ABES Engineering College exam cell, admit cards are issued about 7 days before the exam. Download it from the university portal or collect it from ABES Engineering College exam cell. Fee dues or low attendance can block the exam form."
+  },
+  {
+    "id": 32,
+    "category": "exams",
+    "intent": "revaluation",
+    "questions": [
+      "how to apply for revaluation",
+      "re-evaluation of answer sheet",
+      "i am not satisfied with my marks",
+      "recheck my paper",
+      "revaluation kaise karwaye",
+      "copy dekhne ka process kya hai",
+      "marks se satisfied nahi hu recheck karwana hai",
+      "पुनर्मूल्यांकन कैसे कराएँ",
+      "उत्तर पुस्तिका दोबारा जँचवानी है",
+      "री-चेकिंग का आवेदन कैसे करें"
+    ],
+    "answer_en": "Apply for revaluation through ABES Engineering College exam cell within the deadline set by the affiliated university (usually 10 to 15 days after the result). The fee is as per university rules, and the revised result is declared by the university.",
+    "answer_hi": "संबद्ध यूनिवर्सिटी द्वारा तय अंतिम तिथि (आमतौर पर रिज़ल्ट के 10 से 15 दिन के भीतर) से पहले ABES इंजीनियरिंग कॉलेज परीक्षा सेल के माध्यम से पुनर्मूल्यांकन का आवेदन करें। शुल्क यूनिवर्सिटी के नियमों के अनुसार है और संशोधित रिज़ल्ट यूनिवर्सिटी घोषित करती है।",
+    "answer": "Apply for revaluation through ABES Engineering College exam cell within the deadline set by the affiliated university (usually 10 to 15 days after the result). The fee is as per university rules, and the revised result is declared by the university."
+  },
+  {
+    "id": 33,
+    "category": "exams",
+    "intent": "attendance_requirement",
+    "questions": [
+      "what is the minimum attendance",
+      "attendance criteria for exams",
+      "75 percent attendance rule",
+      "can i sit in exam with low attendance",
+      "minimum attendance kitni honi chahiye",
+      "kam attendance hone par exam de sakte hain kya",
+      "attendance short hai kya karu",
+      "न्यूनतम उपस्थिति कितनी चाहिए",
+      "कम उपस्थिति पर परीक्षा दे सकते हैं क्या",
+      "अटेंडेंस कम है तो क्या करें"
+    ],
+    "answer_en": "A minimum of 75% attendance is required to be eligible for the university exam form. In case of medical emergencies, you can apply to the Principal for condonation with valid documents.",
+    "answer_hi": "यूनिवर्सिटी परीक्षा फॉर्म भरने के लिए कम से कम 75% उपस्थिति अनिवार्य है। मेडिकल आपातकाल में वैध दस्तावेज़ों के साथ प्राचार्य को छूट के लिए आवेदन दिया जा सकता है।",
+    "answer": "A minimum of 75% attendance is required to be eligible for the university exam form. In case of medical emergencies, you can apply to the Principal for condonation with valid documents."
+  },
+  {
+    "id": 34,
+    "category": "exams",
+    "intent": "backlog_exam",
+    "questions": [
+      "how to clear backlog",
+      "backlog exam form",
+      "i failed in a subject what to do",
+      "supplementary exam details",
+      "backlog kaise clear kare",
+      "fail ho gaya to kya karna hoga",
+      "supplementary exam kab hota hai",
+      "बैकलॉग कैसे क्लियर करें",
+      "किसी विषय में फेल हो गया तो क्या करें",
+      "सप्लीमेंट्री परीक्षा कब होती है"
+    ],
+    "answer_en": "If you fail a subject, you can appear in the backlog or supplementary exam conducted by the affiliated university. Fill in the backlog form through ABES Engineering College exam cell and pay the per-subject exam fee.",
+    "answer_hi": "किसी विषय में फेल होने पर आप संबद्ध यूनिवर्सिटी द्वारा आयोजित बैकलॉग या सप्लीमेंट्री परीक्षा दे सकते हैं। ABES इंजीनियरिंग कॉलेज परीक्षा सेल के माध्यम से बैकलॉग फॉर्म भरें और प्रति विषय परीक्षा शुल्क जमा करें।",
+    "answer": "If you fail a subject, you can appear in the backlog or supplementary exam conducted by the affiliated university. Fill in the backlog form through ABES Engineering College exam cell and pay the per-subject exam fee."
+  },
+  {
+    "id": 35,
+    "category": "timetable",
+    "intent": "class_timetable",
+    "questions": [
+      "where can i see my class timetable",
+      "class schedule",
+      "timetable of my section",
+      "what are the class timings",
+      "class timetable kahan milega",
+      "meri class kab hai",
+      "college ka timing kya hai",
+      "क्लास टाइमटेबल कहाँ मिलेगा",
+      "कक्षाओं का समय क्या है",
+      "मेरी क्लास कब है"
+    ],
+    "answer_en": "Classes run from 9:00 AM to 4:00 PM, Monday to Saturday. Your department-wise timetable is available on the student portal under 'Academics' then 'Timetable'.",
+    "answer_hi": "कक्षाएँ सोमवार से शनिवार, सुबह 9:00 से शाम 4:00 बजे तक चलती हैं। आपका विभाग-वार टाइमटेबल स्टूडेंट पोर्टल में 'Academics' और फिर 'Timetable' में उपलब्ध है।",
+    "answer": "Classes run from 9:00 AM to 4:00 PM, Monday to Saturday. Your department-wise timetable is available on the student portal under 'Academics' then 'Timetable'."
+  },
+  {
+    "id": 36,
+    "category": "timetable",
+    "intent": "academic_calendar",
+    "questions": [
+      "academic calendar",
+      "when does the semester start",
+      "semester dates",
+      "session start date",
+      "academic calendar kahan milega",
+      "semester kab shuru hoga",
+      "session kab se start hai",
+      "शैक्षणिक कैलेंडर",
+      "सेमेस्टर कब शुरू होगा",
+      "सत्र कब से शुरू है"
+    ],
+    "answer_en": "ABES Engineering College calendar follows the affiliated university's session. The odd semester usually starts in July/August and the even semester in January. The full calendar is available on ABES Engineering College website under 'Academics'.",
+    "answer_hi": "ABES इंजीनियरिंग कॉलेज का कैलेंडर संबद्ध यूनिवर्सिटी के सत्र के अनुसार चलता है। विषम सेमेस्टर आमतौर पर जुलाई/अगस्त में और सम सेमेस्टर जनवरी में शुरू होता है। पूरा कैलेंडर ABES इंजीनियरिंग कॉलेज वेबसाइट पर 'Academics' में उपलब्ध है।",
+    "answer": "ABES Engineering College calendar follows the affiliated university's session. The odd semester usually starts in July/August and the even semester in January. The full calendar is available on ABES Engineering College website under 'Academics'."
+  },
+  {
+    "id": 37,
+    "category": "timetable",
+    "intent": "holidays",
+    "questions": [
+      "list of holidays",
+      "is tomorrow a holiday",
+      "college holiday calendar",
+      "winter vacation dates",
+      "chhutti kab hai",
+      "holiday list batao",
+      "summer vacation kab se hai",
+      "छुट्टियों की सूची",
+      "कल छुट्टी है क्या",
+      "गर्मी की छुट्टियाँ कब से हैं"
+    ],
+    "answer_en": "The holiday list is part of the academic calendar. Winter break is usually in late December and summer vacation from mid-May to June. Sudden holidays are announced on the notice board and student portal.",
+    "answer_hi": "छुट्टियों की सूची शैक्षणिक कैलेंडर में दी गई है। शीतकालीन अवकाश आमतौर पर दिसंबर के अंत में और ग्रीष्मकालीन अवकाश मई के मध्य से जून तक होता है। अचानक हुई छुट्टियों की सूचना नोटिस बोर्ड और स्टूडेंट पोर्टल पर दी जाती है।",
+    "answer": "The holiday list is part of the academic calendar. Winter break is usually in late December and summer vacation from mid-May to June. Sudden holidays are announced on the notice board and student portal."
+  },
+  {
+    "id": 38,
+    "category": "hostel",
+    "intent": "hostel_availability",
+    "questions": [
+      "is hostel available",
+      "how to apply for hostel",
+      "hostel admission process",
+      "hostel for girls and boys",
+      "hostel milega kya",
+      "hostel ke liye apply kaise kare",
+      "ladkiyon ke liye hostel hai kya",
+      "हॉस्टल उपलब्ध है क्या",
+      "हॉस्टल के लिए आवेदन कैसे करें",
+      "लड़कियों के लिए हॉस्टल है क्या"
+    ],
+    "answer_en": "Separate hostels are available for boys and girls. Apply through the 'Hostel' section of the student portal after confirming admission. Rooms are allotted on a first-come, first-served basis.",
+    "answer_hi": "लड़कों और लड़कियों के लिए अलग-अलग हॉस्टल उपलब्ध हैं। एडमिशन कन्फर्म होने के बाद स्टूडेंट पोर्टल के 'Hostel' सेक्शन से आवेदन करें। कमरे पहले आओ, पहले पाओ के आधार पर आवंटित होते हैं।",
+    "answer": "Separate hostels are available for boys and girls. Apply through the 'Hostel' section of the student portal after confirming admission. Rooms are allotted on a first-come, first-served basis."
+  },
+  {
+    "id": 39,
+    "category": "hostel",
+    "intent": "hostel_fees",
+    "questions": [
+      "what is the hostel fee",
+      "hostel charges per year",
+      "hostel and mess fees",
+      "cost of staying in hostel",
+      "hostel ki fees kitni hai",
+      "hostel ka kharcha kitna hai",
+      "mess ke saath hostel fees kitni hai",
+      "हॉस्टल की फीस कितनी है",
+      "हॉस्टल का सालाना खर्च",
+      "मेस के साथ हॉस्टल की फीस"
+    ],
+    "answer_en": "Hostel fees are approximately Rs 45,000 per year for a double-sharing room and Rs 65,000 for a single room, including mess charges. A refundable security deposit of Rs 5,000 is also collected.",
+    "answer_hi": "हॉस्टल फीस डबल-शेयरिंग कमरे के लिए लगभग 45,000 रुपये प्रति वर्ष और सिंगल रूम के लिए 65,000 रुपये है, जिसमें मेस शुल्क शामिल है। इसके अलावा 5,000 रुपये की वापसी योग्य सिक्योरिटी राशि ली जाती है।",
+    "answer": "Hostel fees are approximately Rs 45,000 per year for a double-sharing room and Rs 65,000 for a single room, including mess charges. A refundable security deposit of Rs 5,000 is also collected."
+  },
+  {
+    "id": 40,
+    "category": "hostel",
+    "intent": "hostel_rules",
+    "questions": [
+      "hostel rules",
+      "hostel timings",
+      "what is the hostel curfew",
+      "can visitors enter hostel",
+      "hostel ke niyam kya hain",
+      "hostel mein gate kab band hota hai",
+      "hostel ka timing kya hai",
+      "हॉस्टल के नियम",
+      "हॉस्टल का समय क्या है",
+      "हॉस्टल का गेट कब बंद होता है"
+    ],
+    "answer_en": "Hostel gates close at 9:00 PM for girls and 10:00 PM for boys. Visitors are allowed only in the visitor lounge between 10:00 AM and 6:00 PM. Ragging, smoking and alcohol are strictly prohibited.",
+    "answer_hi": "हॉस्टल का गेट लड़कियों के लिए रात 9:00 बजे और लड़कों के लिए रात 10:00 बजे बंद हो जाता है। मेहमानों को केवल सुबह 10:00 से शाम 6:00 बजे तक विज़िटर लाउंज में मिलने की अनुमति है। रैगिंग, धूम्रपान और शराब सख्त मना है।",
+    "answer": "Hostel gates close at 9:00 PM for girls and 10:00 PM for boys. Visitors are allowed only in the visitor lounge between 10:00 AM and 6:00 PM. Ragging, smoking and alcohol are strictly prohibited."
+  },
+  {
+    "id": 41,
+    "category": "hostel",
+    "intent": "mess_food",
+    "questions": [
+      "what food is served in the mess",
+      "mess timings",
+      "is veg food available",
+      "mess menu",
+      "mess mein khana kaisa milta hai",
+      "mess ka time kya hai",
+      "veg khana milta hai kya",
+      "मेस में खाना कैसा मिलता है",
+      "मेस का समय क्या है",
+      "शाकाहारी खाना मिलता है क्या"
+    ],
+    "answer_en": "The mess serves breakfast (7:30-9:00), lunch (12:30-2:30), snacks (5:00-6:00) and dinner (8:00-9:30). Both vegetarian and non-vegetarian options are offered, and the weekly menu is displayed at the mess.",
+    "answer_hi": "मेस में नाश्ता (7:30-9:00), दोपहर का खाना (12:30-2:30), शाम का नाश्ता (5:00-6:00) और रात का खाना (8:00-9:30) मिलता है। शाकाहारी और मांसाहारी दोनों विकल्प हैं, और साप्ताहिक मेन्यू मेस में लगा होता है।",
+    "answer": "The mess serves breakfast (7:30-9:00), lunch (12:30-2:30), snacks (5:00-6:00) and dinner (8:00-9:30). Both vegetarian and non-vegetarian options are offered, and the weekly menu is displayed at the mess."
+  },
+  {
+    "id": 42,
+    "category": "library",
+    "intent": "library_timing",
+    "questions": [
+      "library timing",
+      "when does the library open",
+      "is the library open on sunday",
+      "library closing time",
+      "library kitne baje khulti hai",
+      "library ka time kya hai",
+      "kya library sunday ko khuli rehti hai",
+      "लाइब्रेरी का समय क्या है",
+      "लाइब्रेरी कब खुलती है",
+      "क्या लाइब्रेरी रविवार को खुली रहती है"
+    ],
+    "answer_en": "The central library is open from 8:00 AM to 8:00 PM on weekdays and 9:00 AM to 5:00 PM on Saturdays. During exams it stays open until 10:00 PM, and it is closed on Sundays.",
+    "answer_hi": "सेंट्रल लाइब्रेरी सोमवार से शुक्रवार सुबह 8:00 से रात 8:00 बजे तक और शनिवार को सुबह 9:00 से शाम 5:00 बजे तक खुली रहती है। परीक्षा के दौरान रात 10:00 बजे तक खुलती है और रविवार को बंद रहती है।",
+    "answer": "The central library is open from 8:00 AM to 8:00 PM on weekdays and 9:00 AM to 5:00 PM on Saturdays. During exams it stays open until 10:00 PM, and it is closed on Sundays."
+  },
+  {
+    "id": 43,
+    "category": "library",
+    "intent": "borrow_books",
+    "questions": [
+      "how many books can i borrow",
+      "library membership",
+      "book issue rules",
+      "fine for late return of books",
+      "library se kitni books mil sakti hain",
+      "book kitne din ke liye milti hai",
+      "book late return karne par fine kitna hai",
+      "लाइब्रेरी से कितनी किताबें मिल सकती हैं",
+      "किताब कितने दिन के लिए मिलती है",
+      "किताब देर से लौटाने पर जुर्माना"
+    ],
+    "answer_en": "Undergraduate students can borrow 3 books for 14 days and postgraduate students 5 books for 21 days using their ID card. A late fine of Rs 2 per day per book applies.",
+    "answer_hi": "आईडी कार्ड दिखाकर UG छात्र 14 दिन के लिए 3 किताबें और PG छात्र 21 दिन के लिए 5 किताबें ले सकते हैं। देर से लौटाने पर प्रति किताब प्रतिदिन 2 रुपये जुर्माना लगता है।",
+    "answer": "Undergraduate students can borrow 3 books for 14 days and postgraduate students 5 books for 21 days using their ID card. A late fine of Rs 2 per day per book applies."
+  },
+  {
+    "id": 44,
+    "category": "library",
+    "intent": "digital_library",
+    "questions": [
+      "is there an e-library",
+      "online journals access",
+      "digital library login",
+      "how to access e-books",
+      "e-library hai kya",
+      "online books kaise padhe",
+      "digital library ka login kaise kare",
+      "ई-लाइब्रेरी है क्या",
+      "ऑनलाइन किताबें कैसे पढ़ें",
+      "डिजिटल लाइब्रेरी में लॉगिन कैसे करें"
+    ],
+    "answer_en": "Yes. Access ABES Engineering College e-library and the National Digital Library of India through the link on ABES Engineering College portal using your enrolment number. E-books and journals can be read on campus Wi-Fi.",
+    "answer_hi": "हाँ। ABES इंजीनियरिंग कॉलेज पोर्टल पर दिए लिंक से अपने एनरोलमेंट नंबर द्वारा ABES इंजीनियरिंग कॉलेज ई-लाइब्रेरी और नेशनल डिजिटल लाइब्रेरी ऑफ इंडिया इस्तेमाल करें। ई-बुक्स और जर्नल कैंपस वाई-फाई पर पढ़े जा सकते हैं।",
+    "answer": "Yes. Access ABES Engineering College e-library and the National Digital Library of India through the link on ABES Engineering College portal using your enrolment number. E-books and journals can be read on campus Wi-Fi."
+  },
+  {
+    "id": 45,
+    "category": "placements",
+    "intent": "placement_info",
+    "questions": [
+      "tell me about placements",
+      "placement record",
+      "average package",
+      "which companies visit campus",
+      "placement kaisa hota hai",
+      "kaun si companies aati hain",
+      "average package kitna hai",
+      "प्लेसमेंट के बारे में बताइए",
+      "कौन सी कंपनियाँ कैंपस में आती हैं",
+      "औसत पैकेज कितना है"
+    ],
+    "answer_en": "The Training and Placement Cell hosts 30+ recruiters every year from IT, banking, retail and service sectors, and organises job fairs and skill-training sessions. The average package is around 3.5 LPA. Please check the latest placement report for current figures.",
+    "answer_hi": "ट्रेनिंग एंड प्लेसमेंट सेल हर साल IT, बैंकिंग, रिटेल और सर्विस सेक्टर की 30 से अधिक कंपनियाँ बुलाता है और जॉब फेयर व स्किल-ट्रेनिंग सत्र आयोजित करता है। औसत पैकेज लगभग 3.5 LPA है। ताज़ा आँकड़ों के लिए प्लेसमेंट रिपोर्ट देखें।",
+    "answer": "The Training and Placement Cell hosts 30+ recruiters every year from IT, banking, retail and service sectors, and organises job fairs and skill-training sessions. The average package is around 3.5 LPA. Please check the latest placement report for current figures."
+  },
+  {
+    "id": 46,
+    "category": "placements",
+    "intent": "placement_eligibility",
+    "questions": [
+      "who can sit for placements",
+      "placement eligibility criteria",
+      "minimum cgpa for placement",
+      "how to register for placement",
+      "placement ke liye eligibility kya hai",
+      "placement mein baithne ke liye kitna cgpa chahiye",
+      "placement ke liye register kaise kare",
+      "प्लेसमेंट के लिए पात्रता क्या है",
+      "प्लेसमेंट के लिए कितना CGPA चाहिए",
+      "प्लेसमेंट के लिए रजिस्ट्रेशन कैसे करें"
+    ],
+    "answer_en": "Final-year students with at least 55% marks and no active backlogs are eligible. Register with the Training and Placement Cell and keep your resume updated.",
+    "answer_hi": "फाइनल ईयर के वे छात्र पात्र हैं जिनके कम से कम 55% अंक हैं और कोई सक्रिय बैकलॉग नहीं है। ट्रेनिंग एंड प्लेसमेंट सेल में रजिस्टर करें और अपना रिज्यूमे अपडेट रखें।",
+    "answer": "Final-year students with at least 55% marks and no active backlogs are eligible. Register with the Training and Placement Cell and keep your resume updated."
+  },
+  {
+    "id": 47,
+    "category": "placements",
+    "intent": "internship",
+    "questions": [
+      "how to get an internship",
+      "internship opportunities",
+      "is internship mandatory",
+      "summer internship",
+      "internship kaise mil sakti hai",
+      "kya internship zaroori hai",
+      "summer internship kab hoti hai",
+      "इंटर्नशिप कैसे मिलेगी",
+      "क्या इंटर्नशिप अनिवार्य है",
+      "समर इंटर्नशिप कब होती है"
+    ],
+    "answer_en": "Internships are strongly recommended after the 4th semester and mandatory for BCA, BBA and BTech students (4 to 6 weeks). The placement cell shares openings, and you may also find your own with prior approval from your HOD.",
+    "answer_hi": "चौथे सेमेस्टर के बाद इंटर्नशिप की पुरज़ोर सिफ़ारिश है और BCA, BBA व BTech छात्रों के लिए यह अनिवार्य (4 से 6 सप्ताह) है। प्लेसमेंट सेल अवसर साझा करता है, और आप अपने HOD की पूर्व अनुमति से अपनी इंटर्नशिप भी खोज सकते हैं।",
+    "answer": "Internships are strongly recommended after the 4th semester and mandatory for BCA, BBA and BTech students (4 to 6 weeks). The placement cell shares openings, and you may also find your own with prior approval from your HOD."
+  },
+  {
+    "id": 48,
+    "category": "documents",
+    "intent": "bonafide_certificate",
+    "questions": [
+      "how to get bonafide certificate",
+      "bonafide certificate application",
+      "student certificate for bank or passport",
+      "bonafide kaise banwaye",
+      "bonafide certificate kahan se milega",
+      "bonafide ke liye kya karna hoga",
+      "बोनाफाइड सर्टिफिकेट कैसे बनवाएँ",
+      "बोनाफाइड प्रमाण पत्र कहाँ से मिलेगा",
+      "स्टूडेंट सर्टिफिकेट कैसे मिलेगा"
+    ],
+    "answer_en": "Apply for a bonafide certificate through the 'Certificates' section on the student portal or at the administrative office with your ID card. It is issued within 2 to 3 working days.",
+    "answer_hi": "बोनाफाइड सर्टिफिकेट के लिए स्टूडेंट पोर्टल के 'Certificates' सेक्शन में या अपना आईडी कार्ड लेकर प्रशासनिक कार्यालय में आवेदन करें। यह 2 से 3 कार्य दिवस में मिल जाता है।",
+    "answer": "Apply for a bonafide certificate through the 'Certificates' section on the student portal or at the administrative office with your ID card. It is issued within 2 to 3 working days."
+  },
+  {
+    "id": 49,
+    "category": "documents",
+    "intent": "id_card",
+    "questions": [
+      "i lost my id card",
+      "how to get a duplicate id card",
+      "id card not received",
+      "new student id card",
+      "mera id card kho gaya",
+      "id card kaise banwaye",
+      "duplicate id card ka process kya hai",
+      "मेरा आईडी कार्ड खो गया",
+      "आईडी कार्ड कैसे बनवाएँ",
+      "डुप्लिकेट आईडी कार्ड कैसे मिलेगा"
+    ],
+    "answer_en": "New students get an ID card within 2 weeks of admission. For a lost card, submit an application with a copy of the FIR or an affidavit and pay Rs 200 at the administrative office to get a duplicate.",
+    "answer_hi": "नए छात्रों को एडमिशन के 2 सप्ताह में आईडी कार्ड मिल जाता है। कार्ड खो जाने पर FIR की कॉपी या शपथ पत्र के साथ आवेदन दें और प्रशासनिक कार्यालय में 200 रुपये जमा कर डुप्लिकेट कार्ड पाएँ।",
+    "answer": "New students get an ID card within 2 weeks of admission. For a lost card, submit an application with a copy of the FIR or an affidavit and pay Rs 200 at the administrative office to get a duplicate."
+  },
+  {
+    "id": 50,
+    "category": "documents",
+    "intent": "transcript_marksheet",
+    "questions": [
+      "how to get transcript",
+      "duplicate marksheet",
+      "degree certificate application",
+      "original degree collection",
+      "transcript kaise milega",
+      "marksheet kho gayi duplicate kaise banwaye",
+      "degree kab milegi",
+      "ट्रांसक्रिप्ट कैसे मिलेगा",
+      "मार्कशीट खो गई डुप्लिकेट कैसे बनवाएँ",
+      "डिग्री कब मिलेगी"
+    ],
+    "answer_en": "Marksheets and degrees are issued by the affiliated university. ABES Engineering College exam cell helps you apply, and provides internal-marks statements and provisional certificates within 3 to 5 working days.",
+    "answer_hi": "मार्कशीट और डिग्री संबद्ध यूनिवर्सिटी द्वारा जारी की जाती हैं। ABES इंजीनियरिंग कॉलेज परीक्षा सेल आवेदन में मदद करता है और 3 से 5 कार्य दिवस में इंटरनल अंकों का विवरण व प्रोविजनल सर्टिफिकेट देता है।",
+    "answer": "Marksheets and degrees are issued by the affiliated university. ABES Engineering College exam cell helps you apply, and provides internal-marks statements and provisional certificates within 3 to 5 working days."
+  },
+  {
+    "id": 51,
+    "category": "documents",
+    "intent": "transfer_migration",
+    "questions": [
+      "how to get transfer certificate",
+      "migration certificate process",
+      "i want to leave the college",
+      "tc and migration for another college",
+      "transfer certificate kaise banwaye",
+      "migration certificate kahan se milega",
+      "dusre college mein jaana hai tc chahiye",
+      "ट्रांसफर सर्टिफिकेट कैसे बनवाएँ",
+      "माइग्रेशन सर्टिफिकेट कहाँ से मिलेगा",
+      "दूसरे कॉलेज में जाने के लिए टीसी चाहिए"
+    ],
+    "answer_en": "Submit a written application with no-dues clearance from the library, hostel and accounts to ABES Engineering College office to get the TC / College Leaving Certificate within 7 working days. The migration certificate is issued by the affiliated university on application through ABES Engineering College.",
+    "answer_hi": "लाइब्रेरी, हॉस्टल और अकाउंट्स से नो-ड्यूज़ क्लियरेंस के साथ ABES इंजीनियरिंग कॉलेज कार्यालय में लिखित आवेदन दें; टीसी / ABES इंजीनियरिंग कॉलेज लीविंग सर्टिफिकेट 7 कार्य दिवस में मिल जाता है। माइग्रेशन सर्टिफिकेट ABES इंजीनियरिंग कॉलेज के माध्यम से आवेदन करने पर संबद्ध यूनिवर्सिटी जारी करती है।",
+    "answer": "Submit a written application with no-dues clearance from the library, hostel and accounts to ABES Engineering College office to get the TC / College Leaving Certificate within 7 working days. The migration certificate is issued by the affiliated university on application through ABES Engineering College."
+  },
+  {
+    "id": 52,
+    "category": "contact",
+    "intent": "helpline_contact",
+    "questions": [
+      "what is the helpline number",
+      "contact number of college",
+      "phone number of admission office",
+      "how to contact the college",
+      "helpline number kya hai",
+      "college ka phone number batao",
+      "admission office se kaise sampark kare",
+      "हेल्पलाइन नंबर क्या है",
+      "कॉलेज का फोन नंबर बताइए",
+      "एडमिशन ऑफिस से संपर्क कैसे करें"
+    ],
+    "answer_en": "Student Helpline: 1800-000-0000 (toll-free), available Monday to Saturday, 9:30 AM to 5:30 PM. Admission enquiries: admissions@abes.ac.in.in.",
+    "answer_hi": "स्टूडेंट हेल्पलाइन: 1800-000-0000 (टोल-फ्री), सोमवार से शनिवार, सुबह 9:30 से शाम 5:30 बजे तक। एडमिशन संबंधी पूछताछ: admissions@college.edu.in।",
+    "answer": "Student Helpline: 1800-000-0000 (toll-free), available Monday to Saturday, 9:30 AM to 5:30 PM. Admission enquiries: admissions@abes.ac.in.in."
+  },
+  {
+    "id": 53,
+    "category": "contact",
+    "intent": "email_contact",
+    "questions": [
+      "what is the email id of the college",
+      "email address for queries",
+      "where to send complaint mail",
+      "exam section email",
+      "college ka email id kya hai",
+      "complaint kahan mail kare",
+      "exam section ka email batao",
+      "कॉलेज की ईमेल आईडी क्या है",
+      "शिकायत कहाँ मेल करें",
+      "परीक्षा विभाग का ईमेल बताइए"
+    ],
+    "answer_en": "General: info@abes.ac.in.in | Admissions: admissions@abes.ac.in.in | Exams: exams@college.edu.in | Accounts: accounts@college.edu.in | Help Desk: helpdesk@college.edu.in.",
+    "answer_hi": "सामान्य: info@college.edu.in | एडमिशन: admissions@college.edu.in | परीक्षा: exams@college.edu.in | अकाउंट्स: accounts@college.edu.in | हेल्प डेस्क: helpdesk@college.edu.in।",
+    "answer": "General: info@abes.ac.in.in | Admissions: admissions@abes.ac.in.in | Exams: exams@college.edu.in | Accounts: accounts@college.edu.in | Help Desk: helpdesk@college.edu.in."
+  },
+  {
+    "id": 54,
+    "category": "contact",
+    "intent": "office_hours_address",
+    "questions": [
+      "where is the college located",
+      "college address",
+      "office timings",
+      "administrative office hours",
+      "college kahan hai",
+      "college ka address kya hai",
+      "office ka time kya hai",
+      "कॉलेज कहाँ है",
+      "कॉलेज का पता क्या है",
+      "ऑफिस का समय क्या है"
+    ],
+    "answer_en": "The main campus is at College Road, Ghaziabad, Uttar Pradesh. Administrative offices are open Monday to Saturday, 9:30 AM to 5:30 PM, closed on Sundays and public holidays.",
+    "answer_hi": "मुख्य कैंपस ABES इंजीनियरिंग कॉलेज रोड, गाज़ियाबाद, उत्तर प्रदेश में है। प्रशासनिक कार्यालय सोमवार से शनिवार, सुबह 9:30 से शाम 5:30 बजे तक खुले रहते हैं और रविवार व सार्वजनिक अवकाश में बंद रहते हैं।",
+    "answer": "The main campus is at College Road, Ghaziabad, Uttar Pradesh. Administrative offices are open Monday to Saturday, 9:30 AM to 5:30 PM, closed on Sundays and public holidays."
+  },
+  {
+    "id": 55,
+    "category": "campus",
+    "intent": "wifi",
+    "questions": [
+      "how to connect to campus wifi",
+      "wifi password",
+      "wifi not working",
+      "internet facility in campus",
+      "wifi kaise connect kare",
+      "campus mein wifi hai kya",
+      "wifi nahi chal raha",
+      "वाईफाई कैसे कनेक्ट करें",
+      "कैंपस में वाईफाई है क्या",
+      "वाईफाई काम नहीं कर रहा"
+    ],
+    "answer_en": "Campus-wide Wi-Fi is available. Connect to the 'COLLEGE-STUDENT' network and log in with your enrolment number and portal password. If it isn't working, raise a ticket with the IT Help Desk.",
+    "answer_hi": "पूरे कैंपस में वाई-फाई उपलब्ध है। 'COLLEGE-STUDENT' नेटवर्क से जुड़ें और अपने एनरोलमेंट नंबर व पोर्टल पासवर्ड से लॉगिन करें। काम न करने पर आईटी हेल्प डेस्क में टिकट बनाएँ।",
+    "answer": "Campus-wide Wi-Fi is available. Connect to the 'COLLEGE-STUDENT' network and log in with your enrolment number and portal password. If it isn't working, raise a ticket with the IT Help Desk."
+  },
+  {
+    "id": 56,
+    "category": "campus",
+    "intent": "transport",
+    "questions": [
+      "is bus facility available",
+      "college bus routes",
+      "transport fee",
+      "how to reach the campus",
+      "bus facility hai kya",
+      "bus ka route kya hai",
+      "campus kaise pahunche",
+      "बस सुविधा उपलब्ध है क्या",
+      "बस का रूट क्या है",
+      "कैंपस तक कैसे पहुँचें"
+    ],
+    "answer_en": "ABES Engineering College runs buses on major city routes. Apply at the transport office for a pass; the annual transport fee depends on the route. The campus is also accessible by metro and auto from the nearest station.",
+    "answer_hi": "ABES इंजीनियरिंग कॉलेज शहर के प्रमुख रूट पर बसें चलाती है। पास के लिए ट्रांसपोर्ट ऑफिस में आवेदन करें; वार्षिक ट्रांसपोर्ट शुल्क रूट पर निर्भर करता है। नज़दीकी स्टेशन से मेट्रो और ऑटो द्वारा भी कैंपस पहुँचा जा सकता है।",
+    "answer": "ABES Engineering College runs buses on major city routes. Apply at the transport office for a pass; the annual transport fee depends on the route. The campus is also accessible by metro and auto from the nearest station."
+  },
+  {
+    "id": 57,
+    "category": "campus",
+    "intent": "canteen_sports",
+    "questions": [
+      "is there a canteen",
+      "sports facilities",
+      "gym in campus",
+      "clubs and societies",
+      "canteen hai kya",
+      "sports ki suvidha kya hai",
+      "campus mein gym hai kya",
+      "कैंटीन है क्या",
+      "खेल सुविधाएँ क्या हैं",
+      "कैंपस में जिम है क्या"
+    ],
+    "answer_en": "The campus has a canteen and food court, a gymnasium, cricket, football and basketball grounds, indoor games rooms, and student clubs for coding, music, dance, drama and sports.",
+    "answer_hi": "कैंपस में कैंटीन और फूड कोर्ट, जिम, क्रिकेट, फुटबॉल और बास्केटबॉल के मैदान, इनडोर गेम्स रूम, और कोडिंग, संगीत, नृत्य, ड्रामा व खेल के स्टूडेंट क्लब हैं।",
+    "answer": "The campus has a canteen and food court, a gymnasium, cricket, football and basketball grounds, indoor games rooms, and student clubs for coding, music, dance, drama and sports."
+  },
+  {
+    "id": 58,
+    "category": "campus",
+    "intent": "grievance",
+    "questions": [
+      "how to file a complaint",
+      "grievance redressal",
+      "anti ragging helpline",
+      "report harassment",
+      "complaint kaise kare",
+      "shikayat kahan darj kare",
+      "ragging ki complaint kaise kare",
+      "शिकायत कैसे दर्ज करें",
+      "रैगिंग की शिकायत कहाँ करें",
+      "उत्पीड़न की रिपोर्ट कैसे करें"
+    ],
+    "answer_en": "Submit complaints through the Grievance Redressal Cell on the student portal or at the cell office. For ragging or harassment, contact the Anti-Ragging Committee at antiragging@college.edu.in or the national helpline 1800-180-5522. Your identity is kept confidential.",
+    "answer_hi": "शिकायत स्टूडेंट पोर्टल पर शिकायत निवारण प्रकोष्ठ में या सेल कार्यालय में दर्ज करें। रैगिंग या उत्पीड़न के लिए antiragging@college.edu.in पर एंटी-रैगिंग कमेटी या राष्ट्रीय हेल्पलाइन 1800-180-5522 से संपर्क करें। आपकी पहचान गोपनीय रखी जाती है।",
+    "answer": "Submit complaints through the Grievance Redressal Cell on the student portal or at the cell office. For ragging or harassment, contact the Anti-Ragging Committee at antiragging@college.edu.in or the national helpline 1800-180-5522. Your identity is kept confidential."
+  },
+  {
+    "id": 59,
+    "category": "admissions",
+    "intent": "affiliation_recognition",
+    "questions": [
+      "which university is the college affiliated to",
+      "is the college ugc approved",
+      "college naac grade",
+      "is the degree valid",
+      "college kis university se affiliated hai",
+      "kya college ugc se recognised hai",
+      "degree valid hogi kya",
+      "कॉलेज किस यूनिवर्सिटी से संबद्ध है",
+      "क्या कॉलेज UGC से मान्यता प्राप्त है",
+      "डिग्री मान्य होगी क्या"
+    ],
+    "answer_en": "ABES Engineering College is affiliated to [Affiliated University Name], recognised by UGC and accredited by NAAC. Degrees are awarded by the affiliated university and are valid across India.",
+    "answer_hi": "ABES इंजीनियरिंग कॉलेज [संबद्ध यूनिवर्सिटी का नाम] से संबद्ध है, UGC से मान्यता प्राप्त है और NAAC से मान्यता प्राप्त (accredited) है। डिग्री संबद्ध यूनिवर्सिटी द्वारा दी जाती है और पूरे भारत में मान्य है।",
+    "answer": "ABES Engineering College is affiliated to [Affiliated University Name], recognised by UGC and accredited by NAAC. Degrees are awarded by the affiliated university and are valid across India."
+  },
+  {
+    "id": 60,
+    "category": "exams",
+    "intent": "internal_assessment",
+    "questions": [
+      "what are internal marks",
+      "how is internal assessment done",
+      "class test and assignments",
+      "weightage of internal marks",
+      "internal marks kaise milte hain",
+      "internal assessment kya hota hai",
+      "assignment aur class test ke marks",
+      "इंटरनल अंक कैसे मिलते हैं",
+      "इंटरनल असेसमेंट क्या होता है",
+      "असाइनमेंट और क्लास टेस्ट के अंक"
+    ],
+    "answer_en": "Internal assessment carries about 30% weightage and is based on class tests, assignments, presentations and attendance. The remaining 70% comes from the university exam. Internal marks are uploaded on ABES Engineering College portal.",
+    "answer_hi": "इंटरनल असेसमेंट का वेटेज लगभग 30% होता है और यह क्लास टेस्ट, असाइनमेंट, प्रेज़ेंटेशन और उपस्थिति पर आधारित है। बाकी 70% यूनिवर्सिटी परीक्षा से आते हैं। इंटरनल अंक ABES इंजीनियरिंग कॉलेज पोर्टल पर अपलोड किए जाते हैं।",
+    "answer": "Internal assessment carries about 30% weightage and is based on class tests, assignments, presentations and attendance. The remaining 70% comes from the university exam. Internal marks are uploaded on ABES Engineering College portal."
+  },
+  {
+    "id": 61,
+    "category": "campus",
+    "intent": "nss_ncc",
+    "questions": [
+      "is there nss or ncc",
+      "how to join nss",
+      "ncc cadet enrolment",
+      "social service activities",
+      "nss ya ncc hai kya",
+      "nss mein kaise join kare",
+      "ncc mein admission kaise le",
+      "NSS या NCC है क्या",
+      "NSS में कैसे जुड़ें",
+      "NCC में दाखिला कैसे लें"
+    ],
+    "answer_en": "ABES Engineering College has active NSS and NCC units. Enrol at the start of the session through the NSS/NCC coordinator. Activities include blood donation camps, cleanliness drives and the annual camp; certificates are awarded on completion.",
+    "answer_hi": "ABES इंजीनियरिंग कॉलेज में सक्रिय NSS और NCC यूनिट हैं। सत्र की शुरुआत में NSS/NCC कोऑर्डिनेटर के पास नामांकन कराएँ। गतिविधियों में रक्तदान शिविर, स्वच्छता अभियान और वार्षिक कैंप शामिल हैं; पूरा करने पर प्रमाण पत्र दिया जाता है।",
+    "answer": "ABES Engineering College has active NSS and NCC units. Enrol at the start of the session through the NSS/NCC coordinator. Activities include blood donation camps, cleanliness drives and the annual camp; certificates are awarded on completion."
+  },
+  {
+    "id": 62,
+    "category": "contact",
+    "intent": "principal_hod",
+    "questions": [
+      "how to meet the principal",
+      "principal appointment",
+      "contact my hod",
+      "meet head of department",
+      "principal sir se kaise milen",
+      "principal se appointment kaise le",
+      "hod se kaise milna hai",
+      "प्राचार्य से कैसे मिलें",
+      "प्रिंसिपल से अपॉइंटमेंट कैसे लें",
+      "HOD से कैसे मिलना है"
+    ],
+    "answer_en": "Request an appointment at the Principal's office (Monday to Friday, 11:00 AM to 1:00 PM). For academic matters, you can meet your Head of Department during department office hours or email them through the department.",
+    "answer_hi": "प्राचार्य कार्यालय में अपॉइंटमेंट का अनुरोध करें (सोमवार से शुक्रवार, सुबह 11:00 से दोपहर 1:00 बजे)। शैक्षणिक मामलों के लिए आप विभाग के कार्यालय समय में अपने विभागाध्यक्ष (HOD) से मिल सकते हैं या विभाग के माध्यम से ईमेल कर सकते हैं।",
+    "answer": "Request an appointment at the Principal's office (Monday to Friday, 11:00 AM to 1:00 PM). For academic matters, you can meet your Head of Department during department office hours or email them through the department."
+  },
+  {
+    "id": 63,
+    "category": "campus",
+    "intent": "college_fest",
+    "questions": [
+      "when is the annual fest",
+      "college fest details",
+      "cultural events",
+      "annual day function",
+      "annual fest kab hota hai",
+      "college fest kab hai",
+      "cultural program mein kaise hisa le",
+      "वार्षिक उत्सव कब होता है",
+      "कॉलेज फेस्ट कब है",
+      "सांस्कृतिक कार्यक्रम में कैसे भाग लें"
+    ],
+    "answer_en": "The annual cultural and technical fest is usually held in February or March, along with Annual Day and Sports Week. Register for events with the student council or the cultural committee.",
+    "answer_hi": "वार्षिक सांस्कृतिक और टेक्निकल फेस्ट आमतौर पर फरवरी या मार्च में होता है, इसके साथ एनुअल डे और स्पोर्ट्स वीक भी होते हैं। इवेंट्स के लिए स्टूडेंट काउंसिल या कल्चरल कमेटी के पास रजिस्टर करें।",
+    "answer": "The annual cultural and technical fest is usually held in February or March, along with Annual Day and Sports Week. Register for events with the student council or the cultural committee."
+  },
+  {
+    "id": 64,
+    "category": "campus",
+    "intent": "dress_code",
+    "questions": [
+      "is there a dress code",
+      "is uniform compulsory",
+      "can i bring mobile phone to class",
+      "college rules and discipline",
+      "uniform zaroori hai kya",
+      "dress code kya hai",
+      "class mein mobile le ja sakte hain kya",
+      "ड्रेस कोड है क्या",
+      "यूनिफॉर्म ज़रूरी है क्या",
+      "क्लास में मोबाइल ले जा सकते हैं क्या"
+    ],
+    "answer_en": "Students must wear decent attire and carry their ID card on campus; a uniform is compulsory for some professional courses. Mobile phones must be on silent in classrooms and labs. Please read the Student Code of Conduct for the full rules.",
+    "answer_hi": "कैंपस में शालीन पोशाक पहनना और आईडी कार्ड साथ रखना ज़रूरी है; कुछ प्रोफेशनल कोर्स में यूनिफॉर्म अनिवार्य है। कक्षा और लैब में मोबाइल साइलेंट पर रखें। पूरे नियमों के लिए स्टूडेंट कोड ऑफ कंडक्ट पढ़ें।",
+    "answer": "Students must wear decent attire and carry their ID card on campus; a uniform is compulsory for some professional courses. Mobile phones must be on silent in classrooms and labs. Please read the Student Code of Conduct for the full rules."
+  }
+]

@@ -1,0 +1,125 @@
+/* ============================================================
+   global.css – ABES Help Desk Modern UI
+   ============================================================ */
+
+:root {
+  /* Brand colours - Modern Purple & Deep Navy from reference UI */
+  --clr-purple:         #7047eb;
+  --clr-purple-dark:    #5b36cf;
+  --clr-purple-light:   #ede8fc;
+  --clr-purple-glow:    rgba(112, 71, 235, 0.25);
+
+  --clr-primary:        #141724;
+  --clr-sidebar-bg:     #121520;
+  --clr-sidebar-card:   #1b1f30;
+  --clr-sidebar-border: rgba(255, 255, 255, 0.08);
+
+  /* Light Theme Defaults */
+  --clr-bg:             #f7f8fc;
+  --clr-surface:        #ffffff;
+  --clr-border:         #e5e8f2;
+  --clr-text:           #191e2b;
+  --clr-text-muted:     #6e7787;
+
+  /* Chat Bubbles */
+  --clr-user-bg:        #7047eb;
+  --clr-user-text:      #ffffff;
+  --clr-bot-bg:         #ffffff;
+  --clr-bot-text:       #191e2b;
+  --clr-bot-border:     #e7eaf3;
+
+  /* Functional */
+  --clr-error:          #e53935;
+  --clr-error-bg:       #fdeeed;
+  --clr-success:        #10b981;
+  --clr-online:         #10b981;
+
+  /* Layout Widths */
+  --sidebar-left-width:  270px;
+  --sidebar-right-width: 290px;
+  --header-height:       68px;
+
+  /* Radii & Shadows */
+  --radius-sm:  8px;
+  --radius-md: 14px;
+  --radius-lg: 22px;
+  --radius-full: 9999px;
+
+  --shadow-sm:  0 1px 3px rgba(0, 0, 0, 0.05);
+  --shadow-md:  0 4px 14px rgba(0, 0, 0, 0.07);
+  --shadow-lg:  0 10px 30px rgba(0, 0, 0, 0.12);
+
+  --font-sans: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  --transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+/* ── Dark Mode ──────────────────────────────────────────────── */
+body.dark-mode {
+  --clr-bg:             #0d0f17;
+  --clr-surface:        #151824;
+  --clr-border:         #23283a;
+  --clr-text:           #f0f3fa;
+  --clr-text-muted:     #8f9bb3;
+
+  --clr-bot-bg:         #1b1f30;
+  --clr-bot-text:       #f0f3fa;
+  --clr-bot-border:     #2b3149;
+}
+
+/* ── Reset ──────────────────────────────────────────────────── */
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html, body {
+  height: 100%;
+  font-family: var(--font-sans);
+  font-size: 15px;
+  line-height: 1.5;
+  color: var(--clr-text);
+  background: var(--clr-bg);
+  -webkit-font-smoothing: antialiased;
+}
+
+#root {
+  height: 100%;
+}
+
+a {
+  color: var(--clr-purple);
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+
+button {
+  font-family: inherit;
+  cursor: pointer;
+  border: none;
+  background: none;
+  outline: none;
+}
+
+input, textarea {
+  font-family: inherit;
+  outline: none;
+}
+
+/* ── Scrollbars ─────────────────────────────────────────────── */
+::-webkit-scrollbar {
+  width: 5px;
+  height: 5px;
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+::-webkit-scrollbar-thumb {
+  background: rgba(140, 150, 175, 0.25);
+  border-radius: var(--radius-full);
+}
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(140, 150, 175, 0.45);
+}

@@ -1,0 +1,314 @@
+/* ============================================================
+   ChatInput.css – Voice-Enabled Input Row matching Reference UI
+   ============================================================ */
+
+.chat-input-wrapper {
+  flex-shrink: 0;
+  background: var(--clr-surface);
+  border-top: 1px solid var(--clr-border);
+  padding: 12px 20px 16px;
+  position: relative;
+}
+
+/* ── Voice Active Listening Banner ──────────────────────────── */
+.voice-active-banner {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  background: linear-gradient(135deg, rgba(112, 71, 235, 0.1), rgba(157, 123, 245, 0.15));
+  border: 1px solid var(--clr-purple);
+  border-radius: var(--radius-md);
+  padding: 8px 14px;
+  margin-bottom: 10px;
+  animation: slideDown 0.25s ease-out;
+}
+
+.voice-pulse-circle {
+  position: relative;
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  background: var(--clr-purple);
+  color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 16px;
+  flex-shrink: 0;
+}
+
+.pulse-ring {
+  position: absolute;
+  inset: -4px;
+  border-radius: 50%;
+  border: 2px solid var(--clr-purple);
+  animation: pulseRing 1.5s infinite;
+}
+
+@keyframes pulseRing {
+  0% {
+    transform: scale(0.9);
+    opacity: 1;
+  }
+  100% {
+    transform: scale(1.6);
+    opacity: 0;
+  }
+}
+
+.voice-active-text {
+  font-size: 12.5px;
+  color: var(--clr-text);
+  flex: 1;
+}
+
+.voice-controls {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.voice-lang-btn {
+  background: var(--clr-surface);
+  border: 1px solid var(--clr-border);
+  color: var(--clr-purple);
+  padding: 4px 10px;
+  border-radius: var(--radius-full);
+  font-size: 11px;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.voice-stop-btn {
+  background: #e53935;
+  color: #fff;
+  padding: 4px 12px;
+  border-radius: var(--radius-full);
+  font-size: 11.5px;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+/* ── Voice Error Banner ─────────────────────────────────────── */
+.voice-error-banner {
+  background: var(--clr-error-bg);
+  color: var(--clr-error);
+  font-size: 11.5px;
+  padding: 6px 12px;
+  border-radius: var(--radius-sm);
+  margin-bottom: 8px;
+}
+
+/* ── Quick Chips Popover ────────────────────────────────────── */
+.quick-chips-popover {
+  position: absolute;
+  bottom: calc(100% + 8px);
+  left: 20px;
+  right: 20px;
+  background: var(--clr-surface);
+  border: 1px solid var(--clr-border);
+  border-radius: var(--radius-md);
+  padding: 12px 14px;
+  box-shadow: var(--shadow-lg);
+  z-index: 50;
+  animation: slideUp 0.2s ease-out;
+}
+
+.popover-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-size: 12px;
+  font-weight: 700;
+  color: var(--clr-text);
+  margin-bottom: 10px;
+}
+
+.popover-close {
+  font-size: 14px;
+  color: var(--clr-text-muted);
+  cursor: pointer;
+}
+
+.chips-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  max-height: 180px;
+  overflow-y: auto;
+}
+
+.chip-btn {
+  background: var(--clr-bg);
+  border: 1px solid var(--clr-border);
+  color: var(--clr-text);
+  padding: 5px 12px;
+  border-radius: var(--radius-full);
+  font-size: 12px;
+  cursor: pointer;
+  text-transform: capitalize;
+  transition: var(--transition);
+}
+
+.chip-btn:hover {
+  background: var(--clr-purple-light);
+  color: var(--clr-purple);
+  border-color: var(--clr-purple);
+}
+
+/* ── Main Input Container matching Reference UI ────────────── */
+.input-container {
+  display: flex;
+  align-items: flex-end;
+  gap: 10px;
+  background: var(--clr-bg);
+  border: 1.5px solid var(--clr-border);
+  border-radius: var(--radius-full);
+  padding: 6px 8px 6px 14px;
+  transition: var(--transition);
+}
+
+.input-container:focus-within {
+  border-color: var(--clr-purple);
+  box-shadow: 0 0 0 3px var(--clr-purple-glow);
+  background: var(--clr-surface);
+}
+
+.input-container.listening {
+  border-color: var(--clr-purple);
+  box-shadow: 0 0 0 3px var(--clr-purple-glow);
+}
+
+/* Buttons inside input */
+.input-btn {
+  width: 36px;
+  height: 36px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  flex-shrink: 0;
+  transition: var(--transition);
+}
+
+.attach-btn {
+  font-size: 18px;
+  color: var(--clr-text-muted);
+  background: transparent;
+}
+
+.attach-btn:hover,
+.attach-btn.active {
+  color: var(--clr-purple);
+  background: var(--clr-purple-light);
+}
+
+.chat-textarea {
+  flex: 1;
+  resize: none;
+  border: none;
+  background: transparent;
+  font-size: 14.5px;
+  line-height: 1.45;
+  color: var(--clr-text);
+  min-height: 24px;
+  max-height: 150px;
+  overflow-y: auto;
+  padding: 6px 4px;
+}
+
+.chat-textarea::placeholder {
+  color: var(--clr-text-muted);
+}
+
+/* Send Button (Purple Paper Airplane) */
+.send-btn {
+  background: var(--clr-purple-light);
+  color: var(--clr-purple);
+}
+
+.send-btn:hover:not(:disabled) {
+  background: var(--clr-purple);
+  color: #fff;
+  transform: scale(1.05);
+}
+
+.send-btn:disabled {
+  opacity: 0.35;
+  cursor: not-allowed;
+}
+
+/* ── Circular Purple Voice Mic Button (Key feature from UI) ── */
+.voice-mic-btn {
+  width: 42px;
+  height: 42px;
+  border-radius: 50%;
+  background: var(--clr-purple);
+  color: #ffffff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 20px;
+  flex-shrink: 0;
+  cursor: pointer;
+  box-shadow: 0 3px 10px rgba(112, 71, 235, 0.4);
+  transition: var(--transition);
+}
+
+.voice-mic-btn:hover:not(:disabled) {
+  background: var(--clr-purple-dark);
+  transform: scale(1.08);
+  box-shadow: 0 5px 15px rgba(112, 71, 235, 0.55);
+}
+
+.voice-mic-btn.active {
+  background: #e53935;
+  box-shadow: 0 0 0 4px rgba(229, 57, 53, 0.35);
+  animation: pulseMic 1.2s infinite;
+}
+
+.voice-mic-btn:disabled {
+  opacity: 0.4;
+  cursor: not-allowed;
+  box-shadow: none;
+}
+
+@keyframes pulseMic {
+  0% { transform: scale(1); }
+  50% { transform: scale(1.1); }
+  100% { transform: scale(1); }
+}
+
+/* Hint */
+.input-hint {
+  font-size: 11px;
+  color: var(--clr-text-muted);
+  text-align: center;
+  margin-top: 6px;
+}
+
+.input-hint kbd {
+  background: var(--clr-bg);
+  border: 1px solid var(--clr-border);
+  border-radius: 4px;
+  padding: 1px 5px;
+  font-size: 10px;
+}
+
+@keyframes slideDown {
+  from { opacity: 0; transform: translateY(-8px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes slideUp {
+  from { opacity: 0; transform: translateY(8px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+@media (max-width: 600px) {
+  .chat-input-wrapper {
+    padding: 10px 12px 14px;
+  }
+}
