@@ -15,11 +15,19 @@
       "हैलो",
       "सुप्रभात",
       "hello bot",
-      "kya haal hai"
+      "kya haal hai",
+      "Hello",
+      "Hi",
+      "Good morning",
+      "Good afternoon",
+      "Good evening",
+      "Hey",
+      "हेलो",
+      "कैसे हो"
     ],
-    "answer_en": "Hello! 👋 Welcome to the ABES Student Support Help Desk. You can ask me about admissions, fees, exams, hostel, scholarships, placements and more.",
-    "answer_hi": "नमस्ते! 👋 ABES इंजीनियरिंग कॉलेज ABES स्टूडेंट हेल्प डेस्क में आपका स्वागत है। आप मुझसे एडमिशन, फीस, परीक्षा, हॉस्टल, स्कॉलरशिप, प्लेसमेंट आदि के बारे में पूछ सकते हैं।",
-    "answer": "Hello! 👋 Welcome to the ABES Student Support Help Desk. You can ask me about admissions, fees, exams, hostel, scholarships, placements and more."
+    "answer_en": "Hey! I'm here to help with ABES Engineering College-related questions.",
+    "answer_hi": "मैं आपकी मदद के लिए तैयार हूँ! बताइए, क्या जानना है?",
+    "answer": "Hey! I'm here to help with ABES Engineering College-related questions."
   },
   {
     "id": 2,
@@ -77,11 +85,13 @@
       "aap meri kya madad kar sakte ho",
       "आप क्या कर सकते हैं",
       "तुम क्या कर सकते हो",
-      "आप किन विषयों पर जवाब दे सकते हैं"
+      "आप किन विषयों पर जवाब दे सकते हैं",
+      "What can this help desk help me with?",
+      "यह हेल्प डेस्क मेरी किस-किस चीज़ में मदद कर सकती है?"
     ],
-    "answer_en": "I can help with admissions, fees, scholarships, exams, timetable, hostel, library, placements, documents and contact details. Just type your question in English, Hindi or Hinglish.",
-    "answer_hi": "मैं एडमिशन, फीस, स्कॉलरशिप, परीक्षा, टाइमटेबल, हॉस्टल, लाइब्रेरी, प्लेसमेंट, दस्तावेज़ और संपर्क जानकारी में मदद कर सकता हूँ। अपना सवाल हिंदी, अंग्रेज़ी या हिंग्लिश में लिखिए।",
-    "answer": "I can help with admissions, fees, scholarships, exams, timetable, hostel, library, placements, documents and contact details. Just type your question in English, Hindi or Hinglish."
+    "answer_en": "I can guide you to information about ABES Engineering College academics, admissions, attendance, exams, fees, facilities, offices, certificates, hostel, IT, labs, library, placements, scholarships, and student support.",
+    "answer_hi": "मैं पढ़ाई, एडमिशन, अटेंडेंस, परीक्षा, फीस, सुविधाएँ, ऑफिस, सर्टिफिकेट, हॉस्टल, IT, लैब, लाइब्रेरी, प्लेसमेंट, स्कॉलरशिप और स्टूडेंट सहायता की जानकारी दे सकता हूँ।",
+    "answer": "I can guide you to information about ABES Engineering College academics, admissions, attendance, exams, fees, facilities, offices, certificates, hostel, IT, labs, library, placements, scholarships, and student support."
   },
   {
     "id": 5,
@@ -99,11 +109,13 @@
       "thank you bhai",
       "धन्यवाद",
       "शुक्रिया",
-      "बहुत बहुत धन्यवाद"
+      "बहुत बहुत धन्यवाद",
+      "Thank you.",
+      "धन्यवाद।"
     ],
-    "answer_en": "You're most welcome! 😊 Let me know if you need help with anything else.",
-    "answer_hi": "आपका बहुत स्वागत है! 😊 अगर किसी और चीज़ में मदद चाहिए तो बेझिझक पूछिए।",
-    "answer": "You're most welcome! 😊 Let me know if you need help with anything else."
+    "answer_en": "You're welcome! If you have another question for the ABES Help Desk, feel free to ask.",
+    "answer_hi": "आपका स्वागत है! ABES हेल्प डेस्क से जुड़ा कोई और सवाल हो तो पूछ सकते हैं।",
+    "answer": "You're welcome! If you have another question for the ABES Help Desk, feel free to ask."
   },
   {
     "id": 6,
@@ -122,11 +134,13 @@
       "अलविदा",
       "फिर मिलेंगे",
       "शुभ रात्रि",
-      "बाय"
+      "बाय",
+      "Bye",
+      "धन्यवाद"
     ],
-    "answer_en": "Goodbye! Take care and all the best for your studies. 👋",
-    "answer_hi": "अलविदा! अपना ध्यान रखिए और पढ़ाई के लिए ढेर सारी शुभकामनाएँ। 👋",
-    "answer": "Goodbye! Take care and all the best for your studies. 👋"
+    "answer_en": "Goodbye! Best wishes for your studies. Come back whenever you need help.",
+    "answer_hi": "आपका स्वागत है! पढ़ाई के लिए शुभकामनाएँ।",
+    "answer": "Goodbye! Best wishes for your studies. Come back whenever you need help."
   },
   {
     "id": 7,
@@ -291,9 +305,9 @@
       "स्टाफ से बात कराइए",
       "ह्यूमन सपोर्ट"
     ],
-    "answer_en": "Sure. You can reach the Student Help Desk at 1800-000-0000 (Mon-Sat, 9:30 AM to 5:30 PM) or email helpdesk@college.edu.in.",
-    "answer_hi": "ज़रूर। आप स्टूडेंट हेल्प डेस्क से 1800-000-0000 (सोम-शनि, सुबह 9:30 से शाम 5:30) पर संपर्क कर सकते हैं या helpdesk@college.edu.in पर ईमेल करें।",
-    "answer": "Sure. You can reach the Student Help Desk at 1800-000-0000 (Mon-Sat, 9:30 AM to 5:30 PM) or email helpdesk@college.edu.in."
+    "answer_en": "Sure. You can reach the Student Help Desk at 0120-7135112 (Mon-Sat, 9:30 AM to 5:30 PM) or email helpdesk@abes.ac.in.",
+    "answer_hi": "ज़रूर। आप स्टूडेंट हेल्प डेस्क से 0120-7135112 (सोम-शनि, सुबह 9:30 से शाम 5:30) पर संपर्क कर सकते हैं या helpdesk@abes.ac.in पर ईमेल करें।",
+    "answer": "Sure. You can reach the Student Help Desk at 0120-7135112 (Mon-Sat, 9:30 AM to 5:30 PM) or email helpdesk@abes.ac.in."
   },
   {
     "id": 15,
@@ -512,11 +526,13 @@
       "last date nikal gayi fees ki",
       "देर से फीस भरने पर क्या होगा",
       "लेट फीस कितनी लगेगी",
-      "फीस की अंतिम तिथि निकल गई"
+      "फीस की अंतिम तिथि निकल गई",
+      "Is there a late fee for delayed payment?",
+      "देर से फीस देने पर लेट फीस लगती है?"
     ],
-    "answer_en": "A late fee of Rs 100 per day (up to a maximum of Rs 2,000) is charged after the due date. If fees remain unpaid beyond 30 days, you may not be allowed to sit for the examinations.",
-    "answer_hi": "नियत तिथि के बाद प्रतिदिन 100 रुपये (अधिकतम 2,000 रुपये) लेट फीस लगती है। 30 दिन से अधिक फीस बकाया रहने पर परीक्षा में बैठने की अनुमति नहीं मिल सकती।",
-    "answer": "A late fee of Rs 100 per day (up to a maximum of Rs 2,000) is charged after the due date. If fees remain unpaid beyond 30 days, you may not be allowed to sit for the examinations."
+    "answer_en": "Late-fee rules and amounts are set by the current fee notice. Check your semester notice or ask the accounts office.",
+    "answer_hi": "लेट फीस के नियम और राशि मौजूदा फीस नोटिस में होती है। सेमेस्टर नोटिस देखें या अकाउंट्स ऑफिस से पूछें।",
+    "answer": "Late-fee rules and amounts are set by the current fee notice. Check your semester notice or ask the accounts office."
   },
   {
     "id": 26,
@@ -592,11 +608,13 @@
       "date sheet kab aayegi",
       "परीक्षा कब है",
       "परीक्षा की तिथि क्या है",
-      "डेट शीट कब आएगी"
+      "डेट शीट कब आएगी",
+      "When is my exam and where is the timetable?",
+      "मेरी परीक्षा कब है और टाइमटेबल कहाँ मिलेगा?"
     ],
-    "answer_en": "ABES Engineering College conducts internal tests and mid-term exams. Semester or annual exams are conducted by the affiliated university, usually in December and May. The date sheet is published on the university website and ABES Engineering College notice board.",
-    "answer_hi": "ABES इंजीनियरिंग कॉलेज इंटरनल टेस्ट और मिड-टर्म परीक्षाएँ कराता है। सेमेस्टर या वार्षिक परीक्षाएँ संबद्ध यूनिवर्सिटी द्वारा आमतौर पर दिसंबर और मई में होती हैं। डेट शीट यूनिवर्सिटी वेबसाइट और ABES इंजीनियरिंग कॉलेज नोटिस बोर्ड पर जारी की जाती है।",
-    "answer": "ABES Engineering College conducts internal tests and mid-term exams. Semester or annual exams are conducted by the affiliated university, usually in December and May. The date sheet is published on the university website and ABES Engineering College notice board."
+    "answer_en": "Check the latest examination notice on the official website or student portal. Verify the course, semester, date, time, and exam center.",
+    "answer_hi": "आधिकारिक वेबसाइट या स्टूडेंट पोर्टल पर नया परीक्षा नोटिस देखें। विषय, सेमेस्टर, तारीख, समय और सेंटर की पुष्टि करें।",
+    "answer": "Check the latest examination notice on the official website or student portal. Verify the course, semester, date, time, and exam center."
   },
   {
     "id": 30,
@@ -632,11 +650,13 @@
       "admit card nahi mil raha",
       "एडमिट कार्ड कैसे डाउनलोड करें",
       "हॉल टिकट कहाँ से मिलेगा",
-      "एडमिट कार्ड कब मिलेगा"
+      "एडमिट कार्ड कब मिलेगा",
+      "I cannot download my admit card. What should I do?",
+      "मेरा एडमिट कार्ड डाउनलोड नहीं हो रहा, क्या करूँ?"
     ],
-    "answer_en": "After you fill the university exam form through ABES Engineering College exam cell, admit cards are issued about 7 days before the exam. Download it from the university portal or collect it from ABES Engineering College exam cell. Fee dues or low attendance can block the exam form.",
-    "answer_hi": "ABES इंजीनियरिंग कॉलेज परीक्षा सेल के माध्यम से यूनिवर्सिटी का परीक्षा फॉर्म भरने के बाद एडमिट कार्ड परीक्षा से लगभग 7 दिन पहले जारी होता है। इसे यूनिवर्सिटी पोर्टल से डाउनलोड करें या ABES इंजीनियरिंग कॉलेज परीक्षा सेल से ले लें। फीस बकाया या कम उपस्थिति होने पर परीक्षा फॉर्म रुक सकता है।",
-    "answer": "After you fill the university exam form through ABES Engineering College exam cell, admit cards are issued about 7 days before the exam. Download it from the university portal or collect it from ABES Engineering College exam cell. Fee dues or low attendance can block the exam form."
+    "answer_en": "Check whether exam forms, fees, and other requirements are complete. If the admit card is still unavailable, contact the examination office.",
+    "answer_hi": "जाँचें कि परीक्षा फॉर्म, फीस और अन्य आवश्यकताएँ पूरी हैं। फिर भी एडमिट कार्ड न मिले तो परीक्षा विभाग से संपर्क करें।",
+    "answer": "Check whether exam forms, fees, and other requirements are complete. If the admit card is still unavailable, contact the examination office."
   },
   {
     "id": 32,
@@ -652,11 +672,13 @@
       "marks se satisfied nahi hu recheck karwana hai",
       "पुनर्मूल्यांकन कैसे कराएँ",
       "उत्तर पुस्तिका दोबारा जँचवानी है",
-      "री-चेकिंग का आवेदन कैसे करें"
+      "री-चेकिंग का आवेदन कैसे करें",
+      "How do I apply for rechecking or revaluation?",
+      "रीचेकिंग या रीवैल्यूएशन के लिए आवेदन कैसे करें?"
     ],
-    "answer_en": "Apply for revaluation through ABES Engineering College exam cell within the deadline set by the affiliated university (usually 10 to 15 days after the result). The fee is as per university rules, and the revised result is declared by the university.",
-    "answer_hi": "संबद्ध यूनिवर्सिटी द्वारा तय अंतिम तिथि (आमतौर पर रिज़ल्ट के 10 से 15 दिन के भीतर) से पहले ABES इंजीनियरिंग कॉलेज परीक्षा सेल के माध्यम से पुनर्मूल्यांकन का आवेदन करें। शुल्क यूनिवर्सिटी के नियमों के अनुसार है और संशोधित रिज़ल्ट यूनिवर्सिटी घोषित करती है।",
-    "answer": "Apply for revaluation through ABES Engineering College exam cell within the deadline set by the affiliated university (usually 10 to 15 days after the result). The fee is as per university rules, and the revised result is declared by the university."
+    "answer_en": "Check the official notice for eligibility, fee, process, and deadline. Submit the request through the prescribed portal or examination office.",
+    "answer_hi": "योग्यता, फीस, प्रक्रिया और अंतिम तारीख के लिए आधिकारिक नोटिस देखें। निर्धारित पोर्टल या परीक्षा विभाग से आवेदन करें।",
+    "answer": "Check the official notice for eligibility, fee, process, and deadline. Submit the request through the prescribed portal or examination office."
   },
   {
     "id": 33,
@@ -732,11 +754,13 @@
       "session kab se start hai",
       "शैक्षणिक कैलेंडर",
       "सेमेस्टर कब शुरू होगा",
-      "सत्र कब से शुरू है"
+      "सत्र कब से शुरू है",
+      "Where can I find the academic calendar?",
+      "अकादमिक कैलेंडर कहाँ मिलेगा?"
     ],
-    "answer_en": "ABES Engineering College calendar follows the affiliated university's session. The odd semester usually starts in July/August and the even semester in January. The full calendar is available on ABES Engineering College website under 'Academics'.",
-    "answer_hi": "ABES इंजीनियरिंग कॉलेज का कैलेंडर संबद्ध यूनिवर्सिटी के सत्र के अनुसार चलता है। विषम सेमेस्टर आमतौर पर जुलाई/अगस्त में और सम सेमेस्टर जनवरी में शुरू होता है। पूरा कैलेंडर ABES इंजीनियरिंग कॉलेज वेबसाइट पर 'Academics' में उपलब्ध है।",
-    "answer": "ABES Engineering College calendar follows the affiliated university's session. The odd semester usually starts in July/August and the even semester in January. The full calendar is available on ABES Engineering College website under 'Academics'."
+    "answer_en": "Download the latest academic calendar from the official college or university website and check for revised notices.",
+    "answer_hi": "ABES इंजीनियरिंग कॉलेज या यूनिवर्सिटी की आधिकारिक वेबसाइट से नया अकादमिक कैलेंडर डाउनलोड करें और संशोधित नोटिस भी देखें।",
+    "answer": "Download the latest academic calendar from the official college or university website and check for revised notices."
   },
   {
     "id": 37,
@@ -932,11 +956,13 @@
       "placement ke liye register kaise kare",
       "प्लेसमेंट के लिए पात्रता क्या है",
       "प्लेसमेंट के लिए कितना CGPA चाहिए",
-      "प्लेसमेंट के लिए रजिस्ट्रेशन कैसे करें"
+      "प्लेसमेंट के लिए रजिस्ट्रेशन कैसे करें",
+      "What is the eligibility for campus placements?",
+      "कैंपस प्लेसमेंट की योग्यता क्या है?"
     ],
-    "answer_en": "Final-year students with at least 55% marks and no active backlogs are eligible. Register with the Training and Placement Cell and keep your resume updated.",
-    "answer_hi": "फाइनल ईयर के वे छात्र पात्र हैं जिनके कम से कम 55% अंक हैं और कोई सक्रिय बैकलॉग नहीं है। ट्रेनिंग एंड प्लेसमेंट सेल में रजिस्टर करें और अपना रिज्यूमे अपडेट रखें।",
-    "answer": "Final-year students with at least 55% marks and no active backlogs are eligible. Register with the Training and Placement Cell and keep your resume updated."
+    "answer_en": "Eligibility can differ by company and college policy. Check CGPA, active backlogs, branch, attendance, and registration requirements in the current placement notice.",
+    "answer_hi": "योग्यता कंपनी और ABES इंजीनियरिंग कॉलेज नीति के अनुसार बदलती है। मौजूदा प्लेसमेंट नोटिस में CGPA, बैकलॉग, ब्रांच, अटेंडेंस और रजिस्ट्रेशन शर्तें देखें।",
+    "answer": "Eligibility can differ by company and college policy. Check CGPA, active backlogs, branch, attendance, and registration requirements in the current placement notice."
   },
   {
     "id": 47,
@@ -952,11 +978,13 @@
       "summer internship kab hoti hai",
       "इंटर्नशिप कैसे मिलेगी",
       "क्या इंटर्नशिप अनिवार्य है",
-      "समर इंटर्नशिप कब होती है"
+      "समर इंटर्नशिप कब होती है",
+      "Where can I get internship guidance?",
+      "इंटर्नशिप के लिए मार्गदर्शन कहाँ मिलेगा?"
     ],
-    "answer_en": "Internships are strongly recommended after the 4th semester and mandatory for BCA, BBA and BTech students (4 to 6 weeks). The placement cell shares openings, and you may also find your own with prior approval from your HOD.",
-    "answer_hi": "चौथे सेमेस्टर के बाद इंटर्नशिप की पुरज़ोर सिफ़ारिश है और BCA, BBA व BTech छात्रों के लिए यह अनिवार्य (4 से 6 सप्ताह) है। प्लेसमेंट सेल अवसर साझा करता है, और आप अपने HOD की पूर्व अनुमति से अपनी इंटर्नशिप भी खोज सकते हैं।",
-    "answer": "Internships are strongly recommended after the 4th semester and mandatory for BCA, BBA and BTech students (4 to 6 weeks). The placement cell shares openings, and you may also find your own with prior approval from your HOD."
+    "answer_en": "Contact your placement cell, department internship coordinator, or faculty advisor. Verify opportunities before sharing personal information.",
+    "answer_hi": "प्लेसमेंट सेल, डिपार्टमेंट इंटर्नशिप कोऑर्डिनेटर या फैकल्टी एडवाइज़र से संपर्क करें। निजी जानकारी देने से पहले अवसर की पुष्टि करें।",
+    "answer": "Contact your placement cell, department internship coordinator, or faculty advisor. Verify opportunities before sharing personal information."
   },
   {
     "id": 48,
@@ -991,11 +1019,15 @@
       "duplicate id card ka process kya hai",
       "मेरा आईडी कार्ड खो गया",
       "आईडी कार्ड कैसे बनवाएँ",
-      "डुप्लिकेट आईडी कार्ड कैसे मिलेगा"
+      "डुप्लिकेट आईडी कार्ड कैसे मिलेगा",
+      "I lost my college ID card. How can I get another one?",
+      "मेरा कॉलेज ID कार्ड खो गया है, नया कैसे मिलेगा?",
+      "I lost my student ID card. How can I get a duplicate?",
+      "मेरा स्टूडेंट ID कार्ड खो गया है, डुप्लीकेट कैसे मिलेगा?"
     ],
-    "answer_en": "New students get an ID card within 2 weeks of admission. For a lost card, submit an application with a copy of the FIR or an affidavit and pay Rs 200 at the administrative office to get a duplicate.",
-    "answer_hi": "नए छात्रों को एडमिशन के 2 सप्ताह में आईडी कार्ड मिल जाता है। कार्ड खो जाने पर FIR की कॉपी या शपथ पत्र के साथ आवेदन दें और प्रशासनिक कार्यालय में 200 रुपये जमा कर डुप्लिकेट कार्ड पाएँ।",
-    "answer": "New students get an ID card within 2 weeks of admission. For a lost card, submit an application with a copy of the FIR or an affidavit and pay Rs 200 at the administrative office to get a duplicate."
+    "answer_en": "Contact the student section or ID-card office and follow the official duplicate-card process. Ask about required documents and fees.",
+    "answer_hi": "स्टूडेंट सेक्शन या ID कार्ड ऑफिस से संपर्क करें और डुप्लीकेट कार्ड की आधिकारिक प्रक्रिया अपनाएँ। दस्तावेज़ और फीस पूछें।",
+    "answer": "Contact the student section or ID-card office and follow the official duplicate-card process. Ask about required documents and fees."
   },
   {
     "id": 50,
@@ -1053,9 +1085,9 @@
       "कॉलेज का फोन नंबर बताइए",
       "एडमिशन ऑफिस से संपर्क कैसे करें"
     ],
-    "answer_en": "Student Helpline: 1800-000-0000 (toll-free), available Monday to Saturday, 9:30 AM to 5:30 PM. Admission enquiries: admissions@abes.ac.in.in.",
-    "answer_hi": "स्टूडेंट हेल्पलाइन: 1800-000-0000 (टोल-फ्री), सोमवार से शनिवार, सुबह 9:30 से शाम 5:30 बजे तक। एडमिशन संबंधी पूछताछ: admissions@college.edu.in।",
-    "answer": "Student Helpline: 1800-000-0000 (toll-free), available Monday to Saturday, 9:30 AM to 5:30 PM. Admission enquiries: admissions@abes.ac.in.in."
+    "answer_en": "Student Helpline: 0120-7135112 (toll-free), available Monday to Saturday, 9:30 AM to 5:30 PM. Admission enquiries: admissions@abes.ac.in.",
+    "answer_hi": "स्टूडेंट हेल्पलाइन: 0120-7135112 (टोल-फ्री), सोमवार से शनिवार, सुबह 9:30 से शाम 5:30 बजे तक। एडमिशन संबंधी पूछताछ: admissions@abes.ac.in।",
+    "answer": "Student Helpline: 0120-7135112 (toll-free), available Monday to Saturday, 9:30 AM to 5:30 PM. Admission enquiries: admissions@abes.ac.in."
   },
   {
     "id": 53,
@@ -1073,9 +1105,9 @@
       "शिकायत कहाँ मेल करें",
       "परीक्षा विभाग का ईमेल बताइए"
     ],
-    "answer_en": "General: info@abes.ac.in.in | Admissions: admissions@abes.ac.in.in | Exams: exams@college.edu.in | Accounts: accounts@college.edu.in | Help Desk: helpdesk@college.edu.in.",
-    "answer_hi": "सामान्य: info@college.edu.in | एडमिशन: admissions@college.edu.in | परीक्षा: exams@college.edu.in | अकाउंट्स: accounts@college.edu.in | हेल्प डेस्क: helpdesk@college.edu.in।",
-    "answer": "General: info@abes.ac.in.in | Admissions: admissions@abes.ac.in.in | Exams: exams@college.edu.in | Accounts: accounts@college.edu.in | Help Desk: helpdesk@college.edu.in."
+    "answer_en": "General: info@abes.ac.in | Admissions: admissions@abes.ac.in | Exams: exams@abes.ac.in | Accounts: accounts@abes.ac.in | Help Desk: helpdesk@abes.ac.in.",
+    "answer_hi": "सामान्य: info@abes.ac.in | एडमिशन: admissions@abes.ac.in | परीक्षा: exams@abes.ac.in | अकाउंट्स: accounts@abes.ac.in | हेल्प डेस्क: helpdesk@abes.ac.in।",
+    "answer": "General: info@abes.ac.in | Admissions: admissions@abes.ac.in | Exams: exams@abes.ac.in | Accounts: accounts@abes.ac.in | Help Desk: helpdesk@abes.ac.in."
   },
   {
     "id": 54,
@@ -1111,11 +1143,13 @@
       "wifi nahi chal raha",
       "वाईफाई कैसे कनेक्ट करें",
       "कैंपस में वाईफाई है क्या",
-      "वाईफाई काम नहीं कर रहा"
+      "वाईफाई काम नहीं कर रहा",
+      "College Wi-Fi is not working. What should I do?",
+      "कॉलेज का Wi-Fi नहीं चल रहा, क्या करूँ?"
     ],
-    "answer_en": "Campus-wide Wi-Fi is available. Connect to the 'COLLEGE-STUDENT' network and log in with your enrolment number and portal password. If it isn't working, raise a ticket with the IT Help Desk.",
-    "answer_hi": "पूरे कैंपस में वाई-फाई उपलब्ध है। 'COLLEGE-STUDENT' नेटवर्क से जुड़ें और अपने एनरोलमेंट नंबर व पोर्टल पासवर्ड से लॉगिन करें। काम न करने पर आईटी हेल्प डेस्क में टिकट बनाएँ।",
-    "answer": "Campus-wide Wi-Fi is available. Connect to the 'COLLEGE-STUDENT' network and log in with your enrolment number and portal password. If it isn't working, raise a ticket with the IT Help Desk."
+    "answer_en": "Check whether your device is connected to the correct network and whether your account is active. Contact the campus IT help desk; never share your password in chat.",
+    "answer_hi": "जाँचें कि डिवाइस सही नेटवर्क से जुड़ा है और आपका अकाउंट सक्रिय है। कैंपस IT हेल्प डेस्क से संपर्क करें; पासवर्ड चैट में साझा न करें।",
+    "answer": "Check whether your device is connected to the correct network and whether your account is active. Contact the campus IT help desk; never share your password in chat."
   },
   {
     "id": 56,
@@ -1131,11 +1165,13 @@
       "campus kaise pahunche",
       "बस सुविधा उपलब्ध है क्या",
       "बस का रूट क्या है",
-      "कैंपस तक कैसे पहुँचें"
+      "कैंपस तक कैसे पहुँचें",
+      "Where can I find college bus routes and timings?",
+      "कॉलेज बस के रूट और टाइमिंग कहाँ मिलेंगे?"
     ],
-    "answer_en": "ABES Engineering College runs buses on major city routes. Apply at the transport office for a pass; the annual transport fee depends on the route. The campus is also accessible by metro and auto from the nearest station.",
-    "answer_hi": "ABES इंजीनियरिंग कॉलेज शहर के प्रमुख रूट पर बसें चलाती है। पास के लिए ट्रांसपोर्ट ऑफिस में आवेदन करें; वार्षिक ट्रांसपोर्ट शुल्क रूट पर निर्भर करता है। नज़दीकी स्टेशन से मेट्रो और ऑटो द्वारा भी कैंपस पहुँचा जा सकता है।",
-    "answer": "ABES Engineering College runs buses on major city routes. Apply at the transport office for a pass; the annual transport fee depends on the route. The campus is also accessible by metro and auto from the nearest station."
+    "answer_en": "Check the transport office notice or official student portal for current routes, stops, timings, and contact details.",
+    "answer_hi": "मौजूदा रूट, स्टॉप, समय और संपर्क जानकारी के लिए ट्रांसपोर्ट ऑफिस का नोटिस या आधिकारिक स्टूडेंट पोर्टल देखें।",
+    "answer": "Check the transport office notice or official student portal for current routes, stops, timings, and contact details."
   },
   {
     "id": 57,
@@ -1171,11 +1207,15 @@
       "ragging ki complaint kaise kare",
       "शिकायत कैसे दर्ज करें",
       "रैगिंग की शिकायत कहाँ करें",
-      "उत्पीड़न की रिपोर्ट कैसे करें"
+      "उत्पीड़न की रिपोर्ट कैसे करें",
+      "How can I submit a complaint about a college service?",
+      "कॉलेज की किसी सेवा के खिलाफ शिकायत कैसे करें?",
+      "How do I submit a student grievance?",
+      "स्टूडेंट शिकायत कैसे दर्ज करूँ?"
     ],
-    "answer_en": "Submit complaints through the Grievance Redressal Cell on the student portal or at the cell office. For ragging or harassment, contact the Anti-Ragging Committee at antiragging@college.edu.in or the national helpline 1800-180-5522. Your identity is kept confidential.",
-    "answer_hi": "शिकायत स्टूडेंट पोर्टल पर शिकायत निवारण प्रकोष्ठ में या सेल कार्यालय में दर्ज करें। रैगिंग या उत्पीड़न के लिए antiragging@college.edu.in पर एंटी-रैगिंग कमेटी या राष्ट्रीय हेल्पलाइन 1800-180-5522 से संपर्क करें। आपकी पहचान गोपनीय रखी जाती है।",
-    "answer": "Submit complaints through the Grievance Redressal Cell on the student portal or at the cell office. For ragging or harassment, contact the Anti-Ragging Committee at antiragging@college.edu.in or the national helpline 1800-180-5522. Your identity is kept confidential."
+    "answer_en": "Use the official grievance portal or contact the designated grievance redressal office. Save your complaint reference number for follow-up.",
+    "answer_hi": "आधिकारिक ग्रीवेंस पोर्टल या शिकायत निवारण ऑफिस से संपर्क करें। आगे जानकारी के लिए शिकायत रेफरेंस नंबर सुरक्षित रखें।",
+    "answer": "Use the official grievance portal or contact the designated grievance redressal office. Save your complaint reference number for follow-up."
   },
   {
     "id": 59,
@@ -1296,5 +1336,2130 @@
     "answer_en": "Students must wear decent attire and carry their ID card on campus; a uniform is compulsory for some professional courses. Mobile phones must be on silent in classrooms and labs. Please read the Student Code of Conduct for the full rules.",
     "answer_hi": "कैंपस में शालीन पोशाक पहनना और आईडी कार्ड साथ रखना ज़रूरी है; कुछ प्रोफेशनल कोर्स में यूनिफॉर्म अनिवार्य है। कक्षा और लैब में मोबाइल साइलेंट पर रखें। पूरे नियमों के लिए स्टूडेंट कोड ऑफ कंडक्ट पढ़ें।",
     "answer": "Students must wear decent attire and carry their ID card on campus; a uniform is compulsory for some professional courses. Mobile phones must be on silent in classrooms and labs. Please read the Student Code of Conduct for the full rules."
+  },
+  {
+    "id": 65,
+    "category": "admissions",
+    "intent": "admission",
+    "questions": [
+      "How do I apply for college admission?",
+      "कॉलेज में एडमिशन कैसे लें?"
+    ],
+    "answer": "Visit the official ABES Engineering College admission portal, check eligibility and deadlines, complete the application, and upload the required documents.",
+    "answer_en": "Visit the official ABES Engineering College admission portal, check eligibility and deadlines, complete the application, and upload the required documents.",
+    "answer_hi": "ABES इंजीनियरिंग कॉलेज की आधिकारिक एडमिशन वेबसाइट पर जाएँ, योग्यता और अंतिम तारीख देखें, आवेदन भरें और आवश्यक दस्तावेज़ जमा करें।"
+  },
+  {
+    "id": 66,
+    "category": "admissions",
+    "intent": "admission_docs",
+    "questions": [
+      "Which documents are required for admission?",
+      "एडमिशन के लिए कौन-कौन से दस्तावेज़ चाहिए?"
+    ],
+    "answer": "The required documents may include previous exam mark sheets, transfer or migration certificate, identity proof, photographs, and applicable category or income certificates. Confirm the exact list with ABES Engineering College.",
+    "answer_en": "The required documents may include previous exam mark sheets, transfer or migration certificate, identity proof, photographs, and applicable category or income certificates. Confirm the exact list with ABES Engineering College.",
+    "answer_hi": "आमतौर पर पिछली कक्षा की मार्कशीट, ट्रांसफर या माइग्रेशन सर्टिफिकेट, पहचान पत्र, फोटो और लागू होने पर जाति या आय प्रमाणपत्र चाहिए। सही सूची ABES इंजीनियरिंग कॉलेज से जाँचें।"
+  },
+  {
+    "id": 67,
+    "category": "admissions",
+    "intent": "admission_status",
+    "questions": [
+      "How can I check my admission status?",
+      "एडमिशन का स्टेटस कैसे चेक करें?"
+    ],
+    "answer": "Log in to the official admission portal using your application details. Contact the admission office if the status is not updated.",
+    "answer_en": "Log in to the official admission portal using your application details. Contact the admission office if the status is not updated.",
+    "answer_hi": "अपने आवेदन विवरण से आधिकारिक एडमिशन पोर्टल पर लॉग इन करें। स्टेटस अपडेट न हो तो एडमिशन ऑफिस से संपर्क करें।"
+  },
+  {
+    "id": 68,
+    "category": "academics",
+    "intent": "course_selection",
+    "questions": [
+      "How do I choose the right course or branch?",
+      "सही कोर्स या ब्रांच कैसे चुनें?",
+      "How do I choose electives?",
+      "इलेक्टिव विषय कैसे चुनूँ?"
+    ],
+    "answer": "Compare the syllabus, prerequisites, credits, timetable, and your academic or career interests. Confirm the final choice with your department.",
+    "answer_en": "Compare the syllabus, prerequisites, credits, timetable, and your academic or career interests. Confirm the final choice with your department.",
+    "answer_hi": "सिलेबस, प्री-रिक्विज़िट, क्रेडिट, टाइमटेबल और अपनी रुचि की तुलना करें। अंतिम चयन डिपार्टमेंट से कन्फर्म करें।"
+  },
+  {
+    "id": 69,
+    "category": "academics",
+    "intent": "timetable",
+    "questions": [
+      "Where can I find my class timetable?",
+      "क्लास का टाइमटेबल कहाँ मिलेगा?"
+    ],
+    "answer": "Check the student portal, department notice board, learning management system, or official class group.",
+    "answer_en": "Check the student portal, department notice board, learning management system, or official class group.",
+    "answer_hi": "स्टूडेंट पोर्टल, डिपार्टमेंट नोटिस बोर्ड, लर्निंग मैनेजमेंट सिस्टम या आधिकारिक क्लास ग्रुप में देखें।"
+  },
+  {
+    "id": 70,
+    "category": "academics",
+    "intent": "syllabus",
+    "questions": [
+      "Where can I get the syllabus?",
+      "सिलेबस कहाँ से मिलेगा?"
+    ],
+    "answer": "Download the latest syllabus from the official department website or student portal. Confirm that it matches your current semester and regulation.",
+    "answer_en": "Download the latest syllabus from the official department website or student portal. Confirm that it matches your current semester and regulation.",
+    "answer_hi": "डिपार्टमेंट की आधिकारिक वेबसाइट या स्टूडेंट पोर्टल से नया सिलेबस डाउनलोड करें और अपना सेमेस्टर व रेगुलेशन जाँचें।"
+  },
+  {
+    "id": 71,
+    "category": "academics",
+    "intent": "faculty",
+    "questions": [
+      "How can I contact my teacher or faculty advisor?",
+      "अपने टीचर या फैकल्टी एडवाइज़र से कैसे संपर्क करें?"
+    ],
+    "answer": "Use the official department directory, student portal, or ask the department office for faculty contact and consultation hours.",
+    "answer_en": "Use the official department directory, student portal, or ask the department office for faculty contact and consultation hours.",
+    "answer_hi": "आधिकारिक डिपार्टमेंट डायरेक्टरी या स्टूडेंट पोर्टल देखें, अथवा डिपार्टमेंट ऑफिस से संपर्क विवरण और मिलने का समय पूछें।"
+  },
+  {
+    "id": 72,
+    "category": "attendance",
+    "intent": "attendance",
+    "questions": [
+      "Where can I check my attendance?",
+      "अपनी अटेंडेंस कहाँ चेक करें?"
+    ],
+    "answer": "Log in to the official student portal or attendance system and open the subject-wise attendance section.",
+    "answer_en": "Log in to the official student portal or attendance system and open the subject-wise attendance section.",
+    "answer_hi": "आधिकारिक स्टूडेंट पोर्टल या अटेंडेंस सिस्टम में लॉग इन करके सब्जेक्ट-वाइज अटेंडेंस सेक्शन खोलें।"
+  },
+  {
+    "id": 73,
+    "category": "attendance",
+    "intent": "attendance_short",
+    "questions": [
+      "What if my attendance is below the required percentage?",
+      "अगर मेरी अटेंडेंस कम है तो क्या करूँ?"
+    ],
+    "answer": "Check the current attendance policy and speak to your faculty advisor or department office promptly. Ask about permitted remedies; do not rely on unofficial promises.",
+    "answer_en": "Check the current attendance policy and speak to your faculty advisor or department office promptly. Ask about permitted remedies; do not rely on unofficial promises.",
+    "answer_hi": "ABES इंजीनियरिंग कॉलेज की मौजूदा अटेंडेंस नीति देखें और जल्द फैकल्टी एडवाइज़र या डिपार्टमेंट ऑफिस से बात करें। उपलब्ध आधिकारिक विकल्पों की जानकारी लें।"
+  },
+  {
+    "id": 74,
+    "category": "attendance",
+    "intent": "attendance_error",
+    "questions": [
+      "My attendance is marked absent incorrectly. What should I do?",
+      "मेरी अटेंडेंस गलत तरीके से absent लगी है, क्या करूँ?"
+    ],
+    "answer": "Contact the course instructor or attendance coordinator. Share the course, date, and any relevant proof through the official process.",
+    "answer_en": "Contact the course instructor or attendance coordinator. Share the course, date, and any relevant proof through the official process.",
+    "answer_hi": "कोर्स टीचर या अटेंडेंस कोऑर्डिनेटर से संपर्क करें। विषय, तारीख और उपलब्ध प्रमाण आधिकारिक प्रक्रिया से दें।"
+  },
+  {
+    "id": 75,
+    "category": "examinations",
+    "intent": "result",
+    "questions": [
+      "How can I check my result?",
+      "रिजल्ट कैसे चेक करें?"
+    ],
+    "answer": "Use the official examination portal and enter the requested enrollment or roll number details. Avoid sharing login credentials with anyone.",
+    "answer_en": "Use the official examination portal and enter the requested enrollment or roll number details. Avoid sharing login credentials with anyone.",
+    "answer_hi": "आधिकारिक परीक्षा पोर्टल पर जाकर माँगी गई एनरोलमेंट या रोल नंबर जानकारी भरें। अपना पासवर्ड किसी से साझा न करें।"
+  },
+  {
+    "id": 76,
+    "category": "examinations",
+    "intent": "backlog",
+    "questions": [
+      "I have a backlog or failed a subject. What should I do?",
+      "मेरे एक विषय में बैकलॉग है, क्या करूँ?"
+    ],
+    "answer": "Read the university's supplementary or back-paper rules, note the application deadline, and contact your department or examination office for academic guidance.",
+    "answer_en": "Read the university's supplementary or back-paper rules, note the application deadline, and contact your department or examination office for academic guidance.",
+    "answer_hi": "यूनिवर्सिटी के सप्लीमेंट्री या बैक-पेपर नियम पढ़ें, आवेदन की अंतिम तारीख नोट करें और मार्गदर्शन के लिए डिपार्टमेंट या परीक्षा विभाग से संपर्क करें।"
+  },
+  {
+    "id": 77,
+    "category": "examinations",
+    "intent": "exam_conflict",
+    "questions": [
+      "My exam dates clash. Whom should I contact?",
+      "मेरी दो परीक्षाओं की तारीख एक ही है, किससे संपर्क करूँ?"
+    ],
+    "answer": "Contact the examination office immediately with both exam details. Only the university can confirm whether an adjustment is possible.",
+    "answer_en": "Contact the examination office immediately with both exam details. Only the university can confirm whether an adjustment is possible.",
+    "answer_hi": "दोनों परीक्षाओं का विवरण लेकर तुरंत परीक्षा विभाग से संपर्क करें। बदलाव संभव है या नहीं, इसकी पुष्टि यूनिवर्सिटी ही करेगी।"
+  },
+  {
+    "id": 78,
+    "category": "fees",
+    "intent": "fees",
+    "questions": [
+      "How can I check my college fee dues?",
+      "कॉलेज की बकाया फीस कैसे चेक करें?"
+    ],
+    "answer": "Log in to the student portal and open the fee or accounts section. Contact the accounts office if the amount looks incorrect.",
+    "answer_en": "Log in to the student portal and open the fee or accounts section. Contact the accounts office if the amount looks incorrect.",
+    "answer_hi": "स्टूडेंट पोर्टल में लॉग इन करके फीस या अकाउंट्स सेक्शन खोलें। राशि गलत लगे तो अकाउंट्स ऑफिस से संपर्क करें।"
+  },
+  {
+    "id": 79,
+    "category": "fees",
+    "intent": "fee_payment",
+    "questions": [
+      "How do I pay my semester fee?",
+      "सेमेस्टर फीस कैसे जमा करें?"
+    ],
+    "answer": "Use only payment methods listed on the official ABES Engineering College portal or fee notice. Save the receipt and transaction reference.",
+    "answer_en": "Use only payment methods listed on the official ABES Engineering College portal or fee notice. Save the receipt and transaction reference.",
+    "answer_hi": "केवल ABES इंजीनियरिंग कॉलेज के आधिकारिक पोर्टल या फीस नोटिस में दिए गए पेमेंट तरीके इस्तेमाल करें। रसीद और ट्रांजैक्शन नंबर सुरक्षित रखें।"
+  },
+  {
+    "id": 80,
+    "category": "fees",
+    "intent": "fee_issue",
+    "questions": [
+      "I paid my fee but it still shows pending.",
+      "फीस जमा हो गई लेकिन पोर्टल पर pending दिखा रहा है।"
+    ],
+    "answer": "Keep the payment receipt and transaction reference. Allow the stated processing time, then contact the accounts office if the status remains pending.",
+    "answer_en": "Keep the payment receipt and transaction reference. Allow the stated processing time, then contact the accounts office if the status remains pending.",
+    "answer_hi": "पेमेंट रसीद और ट्रांजैक्शन नंबर सुरक्षित रखें। निर्धारित समय बाद भी pending हो तो अकाउंट्स ऑफिस से संपर्क करें।"
+  },
+  {
+    "id": 81,
+    "category": "scholarships",
+    "intent": "scholarship",
+    "questions": [
+      "How can I apply for a scholarship?",
+      "स्कॉलरशिप के लिए आवेदन कैसे करें?"
+    ],
+    "answer": "Check ABES Engineering College scholarship office and relevant official scholarship portals. Read eligibility, documents, deadlines, and renewal conditions carefully.",
+    "answer_en": "Check ABES Engineering College scholarship office and relevant official scholarship portals. Read eligibility, documents, deadlines, and renewal conditions carefully.",
+    "answer_hi": "ABES इंजीनियरिंग कॉलेज के स्कॉलरशिप ऑफिस और संबंधित आधिकारिक पोर्टल देखें। योग्यता, दस्तावेज़, अंतिम तारीख और रिन्यूअल की शर्तें ध्यान से पढ़ें।"
+  },
+  {
+    "id": 82,
+    "category": "scholarships",
+    "intent": "scholarship_status",
+    "questions": [
+      "How do I check my scholarship status?",
+      "स्कॉलरशिप का स्टेटस कैसे चेक करें?"
+    ],
+    "answer": "Log in to the portal where you submitted the application and review its status. Contact the official help desk for unresolved issues.",
+    "answer_en": "Log in to the portal where you submitted the application and review its status. Contact the official help desk for unresolved issues.",
+    "answer_hi": "जिस पोर्टल पर आवेदन किया था, वहाँ लॉग इन करके स्टेटस देखें। समस्या बनी रहे तो आधिकारिक हेल्प डेस्क से संपर्क करें।"
+  },
+  {
+    "id": 83,
+    "category": "hostel",
+    "intent": "hostel",
+    "questions": [
+      "How can I apply for a hostel room?",
+      "हॉस्टल रूम के लिए आवेदन कैसे करें?"
+    ],
+    "answer": "Check the hostel office notice or student portal for application dates, eligibility, availability, fees, and required documents.",
+    "answer_en": "Check the hostel office notice or student portal for application dates, eligibility, availability, fees, and required documents.",
+    "answer_hi": "हॉस्टल ऑफिस के नोटिस या स्टूडेंट पोर्टल पर आवेदन की तारीख, योग्यता, उपलब्धता, फीस और दस्तावेज़ देखें।"
+  },
+  {
+    "id": 84,
+    "category": "hostel",
+    "intent": "hostel_complaint",
+    "questions": [
+      "I have a problem in my hostel room. Whom should I tell?",
+      "हॉस्टल के कमरे में समस्या है, किसे बताऊँ?"
+    ],
+    "answer": "Report maintenance, water, electricity, or room issues to the hostel warden or official maintenance desk. If there is an immediate safety concern, contact campus security or local emergency services.",
+    "answer_en": "Report maintenance, water, electricity, or room issues to the hostel warden or official maintenance desk. If there is an immediate safety concern, contact campus security or local emergency services.",
+    "answer_hi": "मरम्मत, पानी, बिजली या कमरे की समस्या हॉस्टल वार्डन या आधिकारिक मेंटेनेंस डेस्क को बताएँ। तुरंत सुरक्षा का खतरा हो तो कैंपस सिक्योरिटी या स्थानीय आपातकालीन सेवा से संपर्क करें।"
+  },
+  {
+    "id": 85,
+    "category": "library",
+    "intent": "library",
+    "questions": [
+      "How do I borrow or renew a library book?",
+      "लाइब्रेरी की किताब कैसे लें या रिन्यू करें?"
+    ],
+    "answer": "Use the library account or visit the library desk. Check the due date, renewal limit, and any pending library dues.",
+    "answer_en": "Use the library account or visit the library desk. Check the due date, renewal limit, and any pending library dues.",
+    "answer_hi": "लाइब्रेरी अकाउंट का इस्तेमाल करें या लाइब्रेरी डेस्क पर जाएँ। वापसी की तारीख, रिन्यूअल सीमा और बकाया जाँचें।"
+  },
+  {
+    "id": 86,
+    "category": "it_support",
+    "intent": "portal",
+    "questions": [
+      "I forgot my student portal password.",
+      "मैं स्टूडेंट पोर्टल का पासवर्ड भूल गया हूँ।"
+    ],
+    "answer": "Use the official password-reset option. If it fails, contact ABES Engineering College IT help desk through verified contact details.",
+    "answer_en": "Use the official password-reset option. If it fails, contact ABES Engineering College IT help desk through verified contact details.",
+    "answer_hi": "आधिकारिक पासवर्ड रीसेट विकल्प इस्तेमाल करें। काम न करे तो सत्यापित संपर्क जानकारी से ABES इंजीनियरिंग कॉलेज IT हेल्प डेस्क से बात करें।"
+  },
+  {
+    "id": 87,
+    "category": "student_services",
+    "intent": "certificate",
+    "questions": [
+      "How can I get a bonafide or character certificate?",
+      "बोनाफाइड या कैरेक्टर सर्टिफिकेट कैसे मिलेगा?"
+    ],
+    "answer": "Check the student portal or contact the student section for the application form, required documents, fee, and processing time.",
+    "answer_en": "Check the student portal or contact the student section for the application form, required documents, fee, and processing time.",
+    "answer_hi": "आवेदन फॉर्म, दस्तावेज़, फीस और समय-सीमा के लिए स्टूडेंट पोर्टल या स्टूडेंट सेक्शन से संपर्क करें।"
+  },
+  {
+    "id": 88,
+    "category": "student_services",
+    "intent": "transcript",
+    "questions": [
+      "How do I request an academic transcript?",
+      "अकादमिक ट्रांसक्रिप्ट कैसे प्राप्त करें?",
+      "How do I apply for an official transcript?",
+      "ऑफिशियल ट्रांसक्रिप्ट के लिए कैसे आवेदन करूँ?"
+    ],
+    "answer": "Check the examination office instructions for the application form, fee, number of copies, delivery method, and processing time.",
+    "answer_en": "Check the examination office instructions for the application form, fee, number of copies, delivery method, and processing time.",
+    "answer_hi": "फॉर्म, फीस, कॉपी की संख्या, डिलीवरी और समय के लिए परीक्षा विभाग के निर्देश देखें।"
+  },
+  {
+    "id": 89,
+    "category": "placements",
+    "intent": "placement",
+    "questions": [
+      "How can I register for campus placements?",
+      "कैंपस प्लेसमेंट के लिए रजिस्टर कैसे करें?"
+    ],
+    "answer": "Follow the placement cell's official registration instructions, complete your student profile, and check eligibility and deadlines.",
+    "answer_en": "Follow the placement cell's official registration instructions, complete your student profile, and check eligibility and deadlines.",
+    "answer_hi": "प्लेसमेंट सेल के आधिकारिक निर्देशों का पालन करें, स्टूडेंट प्रोफाइल पूरी करें और योग्यता व अंतिम तारीख देखें।"
+  },
+  {
+    "id": 90,
+    "category": "academics",
+    "intent": "project",
+    "questions": [
+      "I need help choosing or completing a college project.",
+      "कॉलेज प्रोजेक्ट चुनने या पूरा करने में मदद चाहिए।"
+    ],
+    "answer": "Discuss the subject, scope, timeline, and evaluation criteria with your project guide. Break the work into research, design, implementation, testing, and documentation.",
+    "answer_en": "Discuss the subject, scope, timeline, and evaluation criteria with your project guide. Break the work into research, design, implementation, testing, and documentation.",
+    "answer_hi": "अपने प्रोजेक्ट गाइड से विषय, दायरा, समय और मूल्यांकन के बारे में बात करें। काम को रिसर्च, डिजाइन, इम्प्लीमेंटेशन, टेस्टिंग और डॉक्यूमेंटेशन में बाँटें।"
+  },
+  {
+    "id": 91,
+    "category": "academics",
+    "intent": "internals",
+    "questions": [
+      "I missed an internal test or assignment deadline. What should I do?",
+      "मेरा इंटरनल टेस्ट या असाइनमेंट छूट गया, क्या करूँ?"
+    ],
+    "answer": "Contact the course instructor as soon as possible, explain the situation honestly, and ask whether an official makeup or extension process exists.",
+    "answer_en": "Contact the course instructor as soon as possible, explain the situation honestly, and ask whether an official makeup or extension process exists.",
+    "answer_hi": "जितनी जल्दी हो कोर्स टीचर से संपर्क करें, स्थिति स्पष्ट बताएँ और पूछें कि आधिकारिक मेकअप टेस्ट या एक्सटेंशन की सुविधा है या नहीं।"
+  },
+  {
+    "id": 92,
+    "category": "labs",
+    "intent": "lab",
+    "questions": [
+      "My lab equipment or computer is not working.",
+      "लैब का कंप्यूटर या उपकरण काम नहीं कर रहा।"
+    ],
+    "answer": "Inform the lab instructor or technician. Do not attempt repairs on electrical or laboratory equipment yourself.",
+    "answer_en": "Inform the lab instructor or technician. Do not attempt repairs on electrical or laboratory equipment yourself.",
+    "answer_hi": "लैब इंचार्ज या टेक्नीशियन को बताएँ। इलेक्ट्रिकल या लैब उपकरण की मरम्मत खुद करने की कोशिश न करें।"
+  },
+  {
+    "id": 93,
+    "category": "safety_and_wellbeing",
+    "intent": "ragging",
+    "questions": [
+      "I am facing ragging or bullying in college. What can I do?",
+      "कॉलेज में रैगिंग या बुलिंग हो रही है, क्या करूँ?",
+      "रैगिंग की शिकायत कहां करें",
+      "anti ragging helpline",
+      "ragging complaint",
+      "what to do if ragging happens",
+      "एंटी रैगिंग हेल्पलाइन"
+    ],
+    "answer": "You deserve to feel safe. Contact ABES Engineering College anti-ragging or grievance committee, a trusted faculty member, or campus authorities. If you are in immediate danger, seek urgent help from local emergency services.",
+    "answer_en": "You deserve to feel safe. Contact ABES Engineering College anti-ragging or grievance committee, a trusted faculty member, or campus authorities. If you are in immediate danger, seek urgent help from local emergency services.",
+    "answer_hi": "आपकी सुरक्षा महत्वपूर्ण है। ABES इंजीनियरिंग कॉलेज की एंटी-रैगिंग या शिकायत समिति, भरोसेमंद शिक्षक या कैंपस प्रशासन से संपर्क करें। तुरंत खतरा हो तो स्थानीय आपातकालीन सेवा से मदद लें।"
+  },
+  {
+    "id": 94,
+    "category": "safety_and_wellbeing",
+    "intent": "harassment",
+    "questions": [
+      "How do I report harassment or discrimination on campus?",
+      "कैंपस में उत्पीड़न या भेदभाव की शिकायत कैसे करें?",
+      "How can I report harassment or discrimination?",
+      "उत्पीड़न या भेदभाव की शिकायत कैसे करूँ?"
+    ],
+    "answer": "Use the relevant official college committee or grievance process. You may ask a trusted staff member to help you understand the reporting options.",
+    "answer_en": "Use the relevant official college committee or grievance process. You may ask a trusted staff member to help you understand the reporting options.",
+    "answer_hi": "ABES इंजीनियरिंग कॉलेज की संबंधित आधिकारिक समिति या शिकायत प्रक्रिया अपनाएँ। रिपोर्टिंग विकल्प समझने के लिए भरोसेमंद स्टाफ सदस्य की मदद ले सकते हैं।"
+  },
+  {
+    "id": 95,
+    "category": "safety_and_wellbeing",
+    "intent": "mental_wellbeing",
+    "questions": [
+      "I feel stressed or overwhelmed by college. Where can I get support?",
+      "कॉलेज की वजह से बहुत तनाव महसूस हो रहा है, मदद कहाँ मिलेगी?"
+    ],
+    "answer": "Consider speaking with a trusted person, faculty advisor, or ABES Engineering College counselor if available. If you feel unsafe or need urgent support, contact local emergency services or a trusted adult immediately.",
+    "answer_en": "Consider speaking with a trusted person, faculty advisor, or ABES Engineering College counselor if available. If you feel unsafe or need urgent support, contact local emergency services or a trusted adult immediately.",
+    "answer_hi": "किसी भरोसेमंद व्यक्ति, फैकल्टी एडवाइज़र या ABES इंजीनियरिंग कॉलेज काउंसलर से बात करें। अगर आप असुरक्षित महसूस कर रहे हैं या तुरंत मदद चाहिए, तो भरोसेमंद वयस्क या स्थानीय आपातकालीन सेवा से संपर्क करें।"
+  },
+  {
+    "id": 96,
+    "category": "campus_services",
+    "intent": "lost_found",
+    "questions": [
+      "I lost something on campus. Where should I ask?",
+      "कैंपस में मेरी कोई चीज़ खो गई है, कहाँ पूछूँ?",
+      "I lost something on campus. Where should I report it?",
+      "कैंपस में मेरी चीज़ खो गई है, कहाँ बताऊँ?"
+    ],
+    "answer": "Contact campus security, reception, or the official lost-and-found desk. Avoid posting sensitive personal details publicly.",
+    "answer_en": "Contact campus security, reception, or the official lost-and-found desk. Avoid posting sensitive personal details publicly.",
+    "answer_hi": "कैंपस सिक्योरिटी, रिसेप्शन या Lost and Found डेस्क से संपर्क करें। संवेदनशील निजी जानकारी सार्वजनिक न करें।"
+  },
+  {
+    "id": 97,
+    "category": "campus_services",
+    "intent": "food",
+    "questions": [
+      "Where can I find the canteen menu or timings?",
+      "कैंटीन का मेन्यू और टाइमिंग कहाँ मिलेगी?"
+    ],
+    "answer": "Check the canteen notice board or ask the canteen manager for current menu, prices, and opening hours.",
+    "answer_en": "Check the canteen notice board or ask the canteen manager for current menu, prices, and opening hours.",
+    "answer_hi": "मौजूदा मेन्यू, कीमत और खुलने के समय के लिए कैंटीन नोटिस बोर्ड देखें या कैंटीन मैनेजर से पूछें।"
+  },
+  {
+    "id": 98,
+    "category": "campus_services",
+    "intent": "holiday",
+    "questions": [
+      "Is the college open today?",
+      "क्या आज कॉलेज खुला है?"
+    ],
+    "answer": "Check the latest official holiday notice, academic calendar, or ABES Engineering College announcement channel. The ABES Help Desk may not have live closure information.",
+    "answer_en": "Check the latest official holiday notice, academic calendar, or ABES Engineering College announcement channel. The ABES Help Desk may not have live closure information.",
+    "answer_hi": "नवीनतम आधिकारिक छुट्टी नोटिस, अकादमिक कैलेंडर या ABES इंजीनियरिंग कॉलेज अनाउंसमेंट चैनल देखें। ABES हेल्प डेस्क के पास लाइव जानकारी होना जरूरी नहीं है।"
+  },
+  {
+    "id": 99,
+    "category": "student_services",
+    "intent": "transfer",
+    "questions": [
+      "How do I apply for a transfer or migration certificate?",
+      "ट्रांसफर या माइग्रेशन सर्टिफिकेट के लिए आवेदन कैसे करें?"
+    ],
+    "answer": "Contact the student section or examination office and check the official application, clearance, fee, and document requirements.",
+    "answer_en": "Contact the student section or examination office and check the official application, clearance, fee, and document requirements.",
+    "answer_hi": "स्टूडेंट सेक्शन या परीक्षा विभाग से संपर्क करें और आवेदन, क्लियरेंस, फीस व दस्तावेज़ की आधिकारिक जरूरतें जाँचें।"
+  },
+  {
+    "id": 100,
+    "category": "admissions",
+    "intent": "withdrawal",
+    "questions": [
+      "How do I withdraw from a course or college?",
+      "कोर्स या कॉलेज छोड़ने की प्रक्रिया क्या है?"
+    ],
+    "answer": "Speak with the admissions or student records office and review the official withdrawal, refund, and document-return policies before submitting a request.",
+    "answer_en": "Speak with the admissions or student records office and review the official withdrawal, refund, and document-return policies before submitting a request.",
+    "answer_hi": "आवेदन देने से पहले एडमिशन या स्टूडेंट रिकॉर्ड्स ऑफिस से बात करें और आधिकारिक withdrawal, refund तथा दस्तावेज़ वापसी नीति पढ़ें।"
+  },
+  {
+    "id": 101,
+    "category": "general",
+    "intent": "general_help",
+    "questions": [
+      "Who should I contact if the chatbot cannot answer?",
+      "अगर चैटबॉट जवाब न दे तो किससे संपर्क करूँ?"
+    ],
+    "answer": "Contact the relevant department office or the official ABES Engineering College help desk. The ABES Help Desk should not guess deadlines, policies, fees, or personal account information.",
+    "answer_en": "Contact the relevant department office or the official ABES Engineering College help desk. The ABES Help Desk should not guess deadlines, policies, fees, or personal account information.",
+    "answer_hi": "संबंधित डिपार्टमेंट ऑफिस या ABES इंजीनियरिंग कॉलेज के आधिकारिक हेल्प डेस्क से संपर्क करें। ABES हेल्प डेस्क को तारीख, नीति, फीस या निजी अकाउंट की जानकारी का अनुमान नहीं लगाना चाहिए।"
+  },
+  {
+    "id": 102,
+    "category": "academics",
+    "intent": "course_registration",
+    "questions": [
+      "How do I register for my semester courses?",
+      "मैं सेमेस्टर के कोर्स में रजिस्ट्रेशन कैसे करूँ?"
+    ],
+    "answer": "Use the official student portal during the registration window. Check prerequisites and obtain advisor or department approval if required.",
+    "answer_en": "Use the official student portal during the registration window. Check prerequisites and obtain advisor or department approval if required.",
+    "answer_hi": "रजिस्ट्रेशन अवधि में आधिकारिक स्टूडेंट पोर्टल का उपयोग करें। प्री-रिक्विज़िट जाँचें और जरूरत हो तो एडवाइज़र या डिपार्टमेंट से अनुमति लें।"
+  },
+  {
+    "id": 103,
+    "category": "academics",
+    "intent": "academic_advisor",
+    "questions": [
+      "How can I contact my academic advisor or HOD?",
+      "अपने अकादमिक एडवाइज़र या HOD से कैसे संपर्क करूँ?"
+    ],
+    "answer": "Use the official department directory or contact the department office for verified contact details and consultation hours.",
+    "answer_en": "Use the official department directory or contact the department office for verified contact details and consultation hours.",
+    "answer_hi": "सत्यापित संपर्क जानकारी और मिलने के समय के लिए आधिकारिक डिपार्टमेंट डायरेक्टरी या ऑफिस से संपर्क करें।"
+  },
+  {
+    "id": 104,
+    "category": "admissions_cutoffs",
+    "intent": "btech_eligibility",
+    "questions": [
+      "What is the eligibility for B.Tech admission?",
+      "B.Tech एडमिशन की योग्यता क्या है?"
+    ],
+    "answer": "Eligibility and accepted entrance exams can change by admission year and institution. Check the current official admission brochure for subject, marks, and entrance requirements.",
+    "answer_en": "Eligibility and accepted entrance exams can change by admission year and institution. Check the current official admission brochure for subject, marks, and entrance requirements.",
+    "answer_hi": "योग्यता और मान्य प्रवेश परीक्षाएँ साल और संस्थान के अनुसार बदल सकती हैं। विषय, अंक और प्रवेश परीक्षा की शर्तें वर्तमान आधिकारिक एडमिशन ब्रोशर में देखें।"
+  },
+  {
+    "id": 105,
+    "category": "admissions_cutoffs",
+    "intent": "mca_mba_eligibility",
+    "questions": [
+      "What are the eligibility criteria for MCA or MBA?",
+      "MCA या MBA की योग्यता क्या है?"
+    ],
+    "answer": "Requirements differ by program and admission year. Check the official prospectus for degree, subject, minimum marks, and entrance-test requirements.",
+    "answer_en": "Requirements differ by program and admission year. Check the official prospectus for degree, subject, minimum marks, and entrance-test requirements.",
+    "answer_hi": "शर्तें प्रोग्राम और प्रवेश वर्ष के अनुसार अलग होती हैं। डिग्री, विषय, न्यूनतम अंक और प्रवेश परीक्षा के लिए आधिकारिक प्रॉस्पेक्टस देखें।"
+  },
+  {
+    "id": 106,
+    "category": "admissions_cutoffs",
+    "intent": "jee_cuet_cutoff",
+    "questions": [
+      "What is the latest JEE or CUET cutoff?",
+      "लेटेस्ट JEE या CUET कटऑफ क्या है?"
+    ],
+    "answer": "Cutoffs vary by institution, course, category, quota, and counselling round. Refer to the official counselling authority and current-year cutoff notices.",
+    "answer_en": "Cutoffs vary by institution, course, category, quota, and counselling round. Refer to the official counselling authority and current-year cutoff notices.",
+    "answer_hi": "कटऑफ संस्थान, कोर्स, श्रेणी, कोटा और काउंसलिंग राउंड के अनुसार बदलती है। आधिकारिक काउंसलिंग अथॉरिटी की मौजूदा कटऑफ देखें।"
+  },
+  {
+    "id": 107,
+    "category": "attendance",
+    "intent": "attendance_percentage",
+    "questions": [
+      "What is the minimum attendance required?",
+      "कम से कम कितनी अटेंडेंस जरूरी है?"
+    ],
+    "answer": "The required percentage depends on the current university and college rules. Check the latest academic regulations or ask your department office.",
+    "answer_en": "The required percentage depends on the current university and college rules. Check the latest academic regulations or ask your department office.",
+    "answer_hi": "जरूरी प्रतिशत यूनिवर्सिटी और ABES इंजीनियरिंग कॉलेज के मौजूदा नियमों पर निर्भर करता है। नवीनतम अकादमिक नियम देखें या डिपार्टमेंट ऑफिस से पूछें।"
+  },
+  {
+    "id": 108,
+    "category": "attendance",
+    "intent": "attendance_correction",
+    "questions": [
+      "My attendance is marked incorrectly. How can I correct it?",
+      "मेरी अटेंडेंस गलत लगी है, इसे कैसे ठीक करवाऊँ?"
+    ],
+    "answer": "Contact the course instructor or attendance coordinator with the subject, date, and relevant supporting information through the official process.",
+    "answer_en": "Contact the course instructor or attendance coordinator with the subject, date, and relevant supporting information through the official process.",
+    "answer_hi": "विषय, तारीख और उपलब्ध प्रमाण के साथ आधिकारिक प्रक्रिया से कोर्स टीचर या अटेंडेंस कोऑर्डिनेटर से संपर्क करें।"
+  },
+  {
+    "id": 109,
+    "category": "attendance",
+    "intent": "attendance_shortage",
+    "questions": [
+      "My attendance is short. What should I do?",
+      "मेरी अटेंडेंस कम है, क्या करूँ?"
+    ],
+    "answer": "Speak promptly with your faculty advisor or department office. Ask about the official shortage, medical, or condonation policy; approval is not guaranteed.",
+    "answer_en": "Speak promptly with your faculty advisor or department office. Ask about the official shortage, medical, or condonation policy; approval is not guaranteed.",
+    "answer_hi": "जल्द फैकल्टी एडवाइज़र या डिपार्टमेंट ऑफिस से बात करें। शॉर्टेज, मेडिकल या कंडोनेशन की आधिकारिक नीति पूछें; मंजूरी की गारंटी नहीं होती।"
+  },
+  {
+    "id": 110,
+    "category": "campus_facilities",
+    "intent": "canteen",
+    "questions": [
+      "Where can I find the canteen menu and timings?",
+      "कैंटीन का मेन्यू और टाइमिंग कहाँ मिलेगी?"
+    ],
+    "answer": "Check the canteen notice board or ask the canteen manager for current menu, prices, and opening hours.",
+    "answer_en": "Check the canteen notice board or ask the canteen manager for current menu, prices, and opening hours.",
+    "answer_hi": "मौजूदा मेन्यू, कीमत और समय के लिए कैंटीन नोटिस बोर्ड देखें या कैंटीन मैनेजर से पूछें।"
+  },
+  {
+    "id": 111,
+    "category": "campus_facilities",
+    "intent": "sports",
+    "questions": [
+      "How can I use sports facilities or join a college team?",
+      "स्पोर्ट्स फैसिलिटी कैसे इस्तेमाल करूँ या कॉलेज टीम में कैसे शामिल होऊँ?"
+    ],
+    "answer": "Contact the sports office or physical education department for facility timings, registration, trials, and equipment rules.",
+    "answer_en": "Contact the sports office or physical education department for facility timings, registration, trials, and equipment rules.",
+    "answer_hi": "फैसिलिटी के समय, रजिस्ट्रेशन, ट्रायल और उपकरण नियमों के लिए स्पोर्ट्स ऑफिस या फिजिकल एजुकेशन डिपार्टमेंट से संपर्क करें।"
+  },
+  {
+    "id": 112,
+    "category": "campus_facilities",
+    "intent": "dress_code_fest",
+    "questions": [
+      "What is the dress code and where are tech-fest updates posted?",
+      "ड्रेस कोड क्या है और टेक फेस्ट की जानकारी कहाँ मिलेगी?"
+    ],
+    "answer": "Follow the latest official student handbook and event notices. Ask the student affairs office or event organizers if a rule is unclear.",
+    "answer_en": "Follow the latest official student handbook and event notices. Ask the student affairs office or event organizers if a rule is unclear.",
+    "answer_hi": "नवीनतम आधिकारिक स्टूडेंट हैंडबुक और इवेंट नोटिस देखें। नियम स्पष्ट न हो तो स्टूडेंट अफेयर्स ऑफिस या आयोजकों से पूछें।"
+  },
+  {
+    "id": 113,
+    "category": "helpline_offices",
+    "intent": "office_contacts",
+    "questions": [
+      "How can I find the Director, Dean, Registrar, or HOD contact details?",
+      "Director, Dean, Registrar या HOD का संपर्क कैसे मिलेगा?"
+    ],
+    "answer": "Use the official college website's administration or department directory. Verify phone numbers and email addresses before contacting anyone.",
+    "answer_en": "Use the official college website's administration or department directory. Verify phone numbers and email addresses before contacting anyone.",
+    "answer_hi": "ABES इंजीनियरिंग कॉलेज की आधिकारिक वेबसाइट पर प्रशासन या डिपार्टमेंट डायरेक्टरी देखें। संपर्क करने से पहले फोन नंबर और ईमेल सत्यापित करें।"
+  },
+  {
+    "id": 114,
+    "category": "helpline_offices",
+    "intent": "office_hours",
+    "questions": [
+      "What are the office timings?",
+      "ऑफिस का समय क्या है?"
+    ],
+    "answer": "Office hours may differ by office, weekday, and holiday schedule. Check the latest official notice or call the relevant office.",
+    "answer_en": "Office hours may differ by office, weekday, and holiday schedule. Check the latest official notice or call the relevant office.",
+    "answer_hi": "ऑफिस का समय विभाग, दिन और छुट्टियों के अनुसार बदल सकता है। नवीनतम आधिकारिक नोटिस देखें या संबंधित ऑफिस में फोन करें।"
+  },
+  {
+    "id": 115,
+    "category": "helpline_offices",
+    "intent": "complaint_escalation",
+    "questions": [
+      "Where do I escalate an unresolved student issue?",
+      "स्टूडेंट की समस्या हल न हो तो आगे शिकायत कहाँ करें?"
+    ],
+    "answer": "First contact the responsible department. If unresolved, use the official grievance process or contact the designated student grievance officer.",
+    "answer_en": "First contact the responsible department. If unresolved, use the official grievance process or contact the designated student grievance officer.",
+    "answer_hi": "पहले संबंधित विभाग से संपर्क करें। समाधान न मिले तो आधिकारिक ग्रीवेंस प्रक्रिया या निर्धारित शिकायत अधिकारी से संपर्क करें।"
+  },
+  {
+    "id": 116,
+    "category": "certificates_bonafide",
+    "intent": "bonafide",
+    "questions": [
+      "How do I request a bonafide certificate?",
+      "बोनाफाइड सर्टिफिकेट कैसे बनवाऊँ?"
+    ],
+    "answer": "Apply through the student portal if available, or contact the student section. Confirm required documents, fees, and processing time.",
+    "answer_en": "Apply through the student portal if available, or contact the student section. Confirm required documents, fees, and processing time.",
+    "answer_hi": "यदि सुविधा हो तो स्टूडेंट पोर्टल से आवेदन करें, अन्यथा स्टूडेंट सेक्शन से संपर्क करें। दस्तावेज़, फीस और समय की पुष्टि करें।"
+  },
+  {
+    "id": 117,
+    "category": "certificates_bonafide",
+    "intent": "migration_degree",
+    "questions": [
+      "How can I get my degree or migration certificate?",
+      "डिग्री या माइग्रेशन सर्टिफिकेट कैसे मिलेगा?"
+    ],
+    "answer": "Contact the examination or student records office and follow the official application and clearance process. Requirements depend on the document and institution.",
+    "answer_en": "Contact the examination or student records office and follow the official application and clearance process. Requirements depend on the document and institution.",
+    "answer_hi": "परीक्षा विभाग या स्टूडेंट रिकॉर्ड्स ऑफिस से संपर्क करके आधिकारिक आवेदन और क्लियरेंस प्रक्रिया अपनाएँ। शर्तें दस्तावेज़ और संस्थान पर निर्भर हैं।"
+  },
+  {
+    "id": 118,
+    "category": "examinations",
+    "intent": "aktu_schedule",
+    "questions": [
+      "Where can I check the AKTU exam schedule?",
+      "AKTU परीक्षा का शेड्यूल कहाँ चेक करूँ?"
+    ],
+    "answer": "Check the latest examination circular and timetable on AKTU's official website or your college examination cell. Confirm the session and course before relying on a date.",
+    "answer_en": "Check the latest examination circular and timetable on AKTU's official website or your college examination cell. Confirm the session and course before relying on a date.",
+    "answer_hi": "AKTU की आधिकारिक वेबसाइट पर नवीनतम परीक्षा सर्कुलर और टाइमटेबल देखें या ABES इंजीनियरिंग कॉलेज परीक्षा सेल से पुष्टि करें। तारीख देखने से पहले सेशन और कोर्स जाँचें।"
+  },
+  {
+    "id": 119,
+    "category": "examinations",
+    "intent": "internal_test",
+    "questions": [
+      "I missed an internal test. What should I do?",
+      "मेरा इंटरनल टेस्ट छूट गया, क्या करूँ?"
+    ],
+    "answer": "Contact the subject teacher and department as soon as possible. Ask whether an officially permitted makeup test or alternative assessment is available.",
+    "answer_en": "Contact the subject teacher and department as soon as possible. Ask whether an officially permitted makeup test or alternative assessment is available.",
+    "answer_hi": "जितनी जल्दी हो विषय शिक्षक और डिपार्टमेंट से संपर्क करें। पूछें कि आधिकारिक मेकअप टेस्ट या वैकल्पिक मूल्यांकन उपलब्ध है या नहीं।"
+  },
+  {
+    "id": 120,
+    "category": "examinations",
+    "intent": "backlog_result",
+    "questions": [
+      "How do I check backlog rules and results?",
+      "बैकलॉग के नियम और रिजल्ट कैसे चेक करूँ?"
+    ],
+    "answer": "Refer to the current university examination regulations and official result portal. Contact the examination cell for paper codes, forms, deadlines, and result discrepancies.",
+    "answer_en": "Refer to the current university examination regulations and official result portal. Contact the examination cell for paper codes, forms, deadlines, and result discrepancies.",
+    "answer_hi": "मौजूदा यूनिवर्सिटी परीक्षा नियम और आधिकारिक रिजल्ट पोर्टल देखें। पेपर कोड, फॉर्म, तारीख या रिजल्ट की गलती के लिए परीक्षा सेल से संपर्क करें।"
+  },
+  {
+    "id": 121,
+    "category": "fee_structure",
+    "intent": "tuition_fee",
+    "questions": [
+      "What is the tuition fee for my course?",
+      "मेरे कोर्स की ट्यूशन फीस कितनी है?"
+    ],
+    "answer": "Fees vary by program, year, category, and admission type. Check the current official fee structure or contact the accounts office; do not rely on old brochures.",
+    "answer_en": "Fees vary by program, year, category, and admission type. Check the current official fee structure or contact the accounts office; do not rely on old brochures.",
+    "answer_hi": "फीस प्रोग्राम, वर्ष, श्रेणी और एडमिशन प्रकार के अनुसार बदलती है। मौजूदा आधिकारिक फीस स्ट्रक्चर देखें या अकाउंट्स ऑफिस से पूछें।"
+  },
+  {
+    "id": 122,
+    "category": "fee_structure",
+    "intent": "payment_deadline",
+    "questions": [
+      "What is the last date to pay fees?",
+      "फीस जमा करने की आखिरी तारीख क्या है?"
+    ],
+    "answer": "Check the latest fee notice or student portal for your semester. Contact accounts if the deadline or late-fee rule is unclear.",
+    "answer_en": "Check the latest fee notice or student portal for your semester. Contact accounts if the deadline or late-fee rule is unclear.",
+    "answer_hi": "अपने सेमेस्टर के लिए नवीनतम फीस नोटिस या स्टूडेंट पोर्टल देखें। तारीख या लेट फीस का नियम स्पष्ट न हो तो अकाउंट्स से पूछें।"
+  },
+  {
+    "id": 123,
+    "category": "fee_structure",
+    "intent": "installment_refund",
+    "questions": [
+      "Can I pay fees in installments or request a refund?",
+      "क्या फीस किस्तों में जमा कर सकते हैं या रिफंड मिल सकता है?"
+    ],
+    "answer": "Installment and refund options depend on ABES Engineering College's current policy. Submit a request to the accounts office and obtain written confirmation.",
+    "answer_en": "Installment and refund options depend on ABES Engineering College's current policy. Submit a request to the accounts office and obtain written confirmation.",
+    "answer_hi": "किस्त और रिफंड की सुविधा संस्थान की मौजूदा नीति पर निर्भर करती है। अकाउंट्स ऑफिस में आवेदन करें और लिखित पुष्टि लें।"
+  },
+  {
+    "id": 124,
+    "category": "hostel_mess",
+    "intent": "hostel_room",
+    "questions": [
+      "Are AC and non-AC hostel rooms available?",
+      "हॉस्टल में AC और non-AC कमरे उपलब्ध हैं?"
+    ],
+    "answer": "Room types, availability, and charges change each year. Contact the hostel office for the current room options, allotment rules, and fee details.",
+    "answer_en": "Room types, availability, and charges change each year. Contact the hostel office for the current room options, allotment rules, and fee details.",
+    "answer_hi": "कमरे के प्रकार, उपलब्धता और फीस हर साल बदल सकती है। मौजूदा विकल्प, आवंटन नियम और फीस के लिए हॉस्टल ऑफिस से पूछें।"
+  },
+  {
+    "id": 125,
+    "category": "hostel_mess",
+    "intent": "mess_menu",
+    "questions": [
+      "Where can I check the mess menu?",
+      "मेस का मेन्यू कहाँ देखूँ?"
+    ],
+    "answer": "Check the hostel or mess notice board, official student portal, or ask the mess supervisor for the current menu and meal timings.",
+    "answer_en": "Check the hostel or mess notice board, official student portal, or ask the mess supervisor for the current menu and meal timings.",
+    "answer_hi": "मौजूदा मेन्यू और खाने के समय के लिए हॉस्टल या मेस नोटिस बोर्ड, आधिकारिक पोर्टल देखें या मेस सुपरवाइज़र से पूछें।"
+  },
+  {
+    "id": 126,
+    "category": "hostel_mess",
+    "intent": "curfew_rules",
+    "questions": [
+      "What are the hostel curfew and visitor rules?",
+      "हॉस्टल के कर्फ्यू और विज़िटर नियम क्या हैं?"
+    ],
+    "answer": "Refer to the latest hostel handbook and notices. Ask the warden to clarify permissions, timings, and emergency exceptions.",
+    "answer_en": "Refer to the latest hostel handbook and notices. Ask the warden to clarify permissions, timings, and emergency exceptions.",
+    "answer_hi": "नवीनतम हॉस्टल हैंडबुक और नोटिस देखें। अनुमति, समय और आपातकालीन छूट के लिए वार्डन से पुष्टि करें।"
+  },
+  {
+    "id": 127,
+    "category": "it_support",
+    "intent": "portal_login",
+    "questions": [
+      "I cannot log in to the student portal. What should I do?",
+      "मैं स्टूडेंट पोर्टल में लॉगिन नहीं कर पा रहा हूँ, क्या करूँ?"
+    ],
+    "answer": "Check your username and use the official password-reset process. If the problem continues, contact IT support using verified college contact details.",
+    "answer_en": "Check your username and use the official password-reset process. If the problem continues, contact IT support using verified college contact details.",
+    "answer_hi": "यूज़रनेम जाँचें और आधिकारिक पासवर्ड रीसेट प्रक्रिया अपनाएँ। समस्या बनी रहे तो ABES इंजीनियरिंग कॉलेज के सत्यापित IT सपोर्ट से संपर्क करें।"
+  },
+  {
+    "id": 128,
+    "category": "it_support",
+    "intent": "wifi_email",
+    "questions": [
+      "How do I get campus Wi-Fi or college email access?",
+      "कैंपस Wi-Fi या कॉलेज ईमेल कैसे मिलेगा?"
+    ],
+    "answer": "Follow the IT department's account activation instructions. Never share passwords or one-time codes in chat or with unofficial contacts.",
+    "answer_en": "Follow the IT department's account activation instructions. Never share passwords or one-time codes in chat or with unofficial contacts.",
+    "answer_hi": "IT विभाग के अकाउंट एक्टिवेशन निर्देशों का पालन करें। पासवर्ड या OTP चैट में या अनजान व्यक्ति से साझा न करें।"
+  },
+  {
+    "id": 129,
+    "category": "it_support",
+    "intent": "technical_issue",
+    "questions": [
+      "My college app or website is not working.",
+      "कॉलेज ऐप या वेबसाइट काम नहीं कर रही है।"
+    ],
+    "answer": "Check official maintenance notices, try an updated browser, and report the error message and time to the IT help desk. Do not send your password.",
+    "answer_en": "Check official maintenance notices, try an updated browser, and report the error message and time to the IT help desk. Do not send your password.",
+    "answer_hi": "मेंटेनेंस नोटिस देखें, अपडेटेड ब्राउज़र आज़माएँ और एरर व समय IT हेल्प डेस्क को बताएँ। पासवर्ड न भेजें।"
+  },
+  {
+    "id": 130,
+    "category": "labs",
+    "intent": "lab_schedule",
+    "questions": [
+      "When are lab sessions scheduled?",
+      "लैब सेशन कब होते हैं?"
+    ],
+    "answer": "Check your department timetable or ask the lab instructor. Lab batches and room assignments may differ from lecture schedules.",
+    "answer_en": "Check your department timetable or ask the lab instructor. Lab batches and room assignments may differ from lecture schedules.",
+    "answer_hi": "डिपार्टमेंट टाइमटेबल देखें या लैब इंस्ट्रक्टर से पूछें। लैब बैच और रूम लेक्चर टाइमटेबल से अलग हो सकते हैं।"
+  },
+  {
+    "id": 131,
+    "category": "labs",
+    "intent": "equipment_issue",
+    "questions": [
+      "What should I do if lab equipment is faulty?",
+      "लैब का उपकरण खराब हो तो क्या करूँ?"
+    ],
+    "answer": "Stop using the equipment and inform the lab instructor or technician. Do not attempt electrical repairs yourself.",
+    "answer_en": "Stop using the equipment and inform the lab instructor or technician. Do not attempt electrical repairs yourself.",
+    "answer_hi": "उपकरण का उपयोग रोकें और लैब इंस्ट्रक्टर या टेक्नीशियन को बताएँ। इलेक्ट्रिकल मरम्मत खुद न करें।"
+  },
+  {
+    "id": 132,
+    "category": "labs",
+    "intent": "lab_record",
+    "questions": [
+      "How do I submit a lab record or practical file?",
+      "लैब रिकॉर्ड या प्रैक्टिकल फाइल कैसे जमा करूँ?"
+    ],
+    "answer": "Follow the subject instructor's format, submission deadline, and evaluation instructions. Check whether a printed or digital submission is required.",
+    "answer_en": "Follow the subject instructor's format, submission deadline, and evaluation instructions. Check whether a printed or digital submission is required.",
+    "answer_hi": "विषय शिक्षक का फॉर्मेट, अंतिम तारीख और मूल्यांकन निर्देश मानें। पता करें कि प्रिंटेड या डिजिटल फाइल जमा करनी है।"
+  },
+  {
+    "id": 133,
+    "category": "central_library",
+    "intent": "library_hours",
+    "questions": [
+      "What are the central library timings?",
+      "सेंट्रल लाइब्रेरी का समय क्या है?"
+    ],
+    "answer": "Library hours may change during exams, weekends, and holidays. Check the library's latest notice or contact the library desk.",
+    "answer_en": "Library hours may change during exams, weekends, and holidays. Check the library's latest notice or contact the library desk.",
+    "answer_hi": "परीक्षा, वीकेंड और छुट्टियों में समय बदल सकता है। लाइब्रेरी का नवीनतम नोटिस देखें या डेस्क से पूछें।"
+  },
+  {
+    "id": 134,
+    "category": "central_library",
+    "intent": "ieee_access",
+    "questions": [
+      "How can I access IEEE or other e-resources?",
+      "IEEE या अन्य ई-रिसोर्स कैसे एक्सेस करूँ?"
+    ],
+    "answer": "Use the library's official e-resource page and follow campus authentication instructions. Ask library staff whether off-campus access is available.",
+    "answer_en": "Use the library's official e-resource page and follow campus authentication instructions. Ask library staff whether off-campus access is available.",
+    "answer_hi": "लाइब्रेरी के आधिकारिक ई-रिसोर्स पेज और कैंपस लॉगिन निर्देशों का पालन करें। ऑफ-कैंपस एक्सेस के लिए लाइब्रेरी स्टाफ से पूछें।"
+  },
+  {
+    "id": 135,
+    "category": "central_library",
+    "intent": "book_rules",
+    "questions": [
+      "How many books can I issue and for how long?",
+      "कितनी किताबें और कितने दिनों के लिए इश्यू कर सकते हैं?"
+    ],
+    "answer": "Book limits, loan periods, renewals, and fines depend on library membership rules. Check your library account or ask the circulation desk.",
+    "answer_en": "Book limits, loan periods, renewals, and fines depend on library membership rules. Check your library account or ask the circulation desk.",
+    "answer_hi": "किताबों की संख्या, अवधि, रिन्यूअल और जुर्माना लाइब्रेरी नियमों पर निर्भर करते हैं। अपना लाइब्रेरी अकाउंट या इश्यू डेस्क देखें।"
+  },
+  {
+    "id": 136,
+    "category": "placements_ctc",
+    "intent": "recruiters",
+    "questions": [
+      "Which companies visit for campus placements?",
+      "कैंपस प्लेसमेंट के लिए कौन-सी कंपनियाँ आती हैं?"
+    ],
+    "answer": "Recruiters vary by placement season and eligibility. Check the placement cell's current recruiter list and official announcements.",
+    "answer_en": "Recruiters vary by placement season and eligibility. Check the placement cell's current recruiter list and official announcements.",
+    "answer_hi": "कंपनियाँ प्लेसमेंट सीज़न और योग्यता के अनुसार बदलती हैं। प्लेसमेंट सेल की मौजूदा कंपनी सूची और आधिकारिक घोषणाएँ देखें।"
+  },
+  {
+    "id": 137,
+    "category": "placements_ctc",
+    "intent": "highest_package",
+    "questions": [
+      "What is the highest placement package, and is it 42 LPA?",
+      "सबसे बड़ा प्लेसमेंट पैकेज कितना है? क्या 42 LPA है?"
+    ],
+    "answer": "A 42 LPA figure should be treated as unverified until confirmed by ABES Engineering College's latest official placement report. Check the year, program, role, and whether the figure is domestic or international.",
+    "answer_en": "A 42 LPA figure should be treated as unverified until confirmed by ABES Engineering College's latest official placement report. Check the year, program, role, and whether the figure is domestic or international.",
+    "answer_hi": "42 LPA के आँकड़े को ABES इंजीनियरिंग कॉलेज की नवीनतम आधिकारिक प्लेसमेंट रिपोर्ट से पुष्टि होने तक सत्यापित न मानें। वर्ष, प्रोग्राम, रोल और घरेलू या अंतरराष्ट्रीय पैकेज जाँचें।"
+  },
+  {
+    "id": 138,
+    "category": "safety_and_wellbeing",
+    "intent": "anti_ragging",
+    "questions": [
+      "How do I report ragging or bullying?",
+      "रैगिंग या बुलिंग की शिकायत कैसे करूँ?"
+    ],
+    "answer": "Contact ABES Engineering College anti-ragging committee, trusted faculty member, or campus authorities through official channels. If in immediate danger, seek urgent help from local emergency services.",
+    "answer_en": "Contact ABES Engineering College anti-ragging committee, trusted faculty member, or campus authorities through official channels. If in immediate danger, seek urgent help from local emergency services.",
+    "answer_hi": "ABES इंजीनियरिंग कॉलेज की एंटी-रैगिंग समिति, भरोसेमंद शिक्षक या कैंपस प्रशासन से आधिकारिक माध्यम से संपर्क करें। तुरंत खतरा हो तो स्थानीय आपातकालीन सेवा से मदद लें।"
+  },
+  {
+    "id": 139,
+    "category": "safety_and_wellbeing",
+    "intent": "counselling",
+    "questions": [
+      "I feel stressed or overwhelmed. Is counselling available?",
+      "मुझे बहुत तनाव हो रहा है, क्या काउंसलिंग उपलब्ध है?"
+    ],
+    "answer": "Ask the student affairs office whether a college counselor or support service is available. You can also speak with a trusted person; seek urgent local help if you feel unsafe.",
+    "answer_en": "Ask the student affairs office whether a college counselor or support service is available. You can also speak with a trusted person; seek urgent local help if you feel unsafe.",
+    "answer_hi": "स्टूडेंट अफेयर्स ऑफिस से ABES इंजीनियरिंग कॉलेज काउंसलर या सहायता सेवा के बारे में पूछें। किसी भरोसेमंद व्यक्ति से भी बात करें; असुरक्षित महसूस हो तो तुरंत स्थानीय मदद लें।"
+  },
+  {
+    "id": 140,
+    "category": "scholarships_aid",
+    "intent": "up_scholarship",
+    "questions": [
+      "How do I apply for the UP scholarship?",
+      "UP स्कॉलरशिप के लिए आवेदन कैसे करूँ?"
+    ],
+    "answer": "Use the official UP scholarship portal and check the current scheme, eligibility, dates, institution verification, and required documents.",
+    "answer_en": "Use the official UP scholarship portal and check the current scheme, eligibility, dates, institution verification, and required documents.",
+    "answer_hi": "आधिकारिक UP स्कॉलरशिप पोर्टल पर मौजूदा योजना, योग्यता, तारीख, संस्थान सत्यापन और जरूरी दस्तावेज़ जाँचें।"
+  },
+  {
+    "id": 141,
+    "category": "scholarships_aid",
+    "intent": "merit_waiver",
+    "questions": [
+      "Does the college offer merit-based fee waivers?",
+      "क्या कॉलेज मेरिट के आधार पर फीस में छूट देता है?"
+    ],
+    "answer": "Merit waivers depend on the current college policy, academic performance, and available schemes. Contact the scholarship or accounts office for written criteria.",
+    "answer_en": "Merit waivers depend on the current college policy, academic performance, and available schemes. Contact the scholarship or accounts office for written criteria.",
+    "answer_hi": "मेरिट छूट ABES इंजीनियरिंग कॉलेज की मौजूदा नीति, शैक्षणिक प्रदर्शन और उपलब्ध योजनाओं पर निर्भर करती है। लिखित शर्तों के लिए स्कॉलरशिप या अकाउंट्स ऑफिस से पूछें।"
+  },
+  {
+    "id": 142,
+    "category": "scholarships_aid",
+    "intent": "ews_aid",
+    "questions": [
+      "Is there an EWS or financial-aid scheme?",
+      "क्या EWS या आर्थिक सहायता योजना है?"
+    ],
+    "answer": "Check the current college and government scheme notices for eligibility, income limits, certificates, and application deadlines.",
+    "answer_en": "Check the current college and government scheme notices for eligibility, income limits, certificates, and application deadlines.",
+    "answer_hi": "योग्यता, आय सीमा, प्रमाणपत्र और आवेदन की अंतिम तारीख के लिए ABES इंजीनियरिंग कॉलेज और सरकारी योजनाओं के मौजूदा नोटिस देखें।"
+  },
+  {
+    "id": 143,
+    "category": "general_help_desk",
+    "intent": "hello",
+    "questions": [
+      "Hello!",
+      "नमस्ते!"
+    ],
+    "answer": "Hello! Welcome to the ABES Student Support Help Desk. I can help with academics, admissions, attendance, exams, fees, hostel, placements, and campus services. What would you like to know?",
+    "answer_en": "Hello! Welcome to the ABES Student Support Help Desk. I can help with academics, admissions, attendance, exams, fees, hostel, placements, and campus services. What would you like to know?",
+    "answer_hi": "नमस्ते! ABES स्टूडेंट सपोर्ट हेल्प डेस्क में आपका स्वागत है। मैं पढ़ाई, एडमिशन, अटेंडेंस, परीक्षा, फीस, हॉस्टल, प्लेसमेंट और कैंपस सेवाओं में मदद कर सकता हूँ। आप क्या जानना चाहेंगे?"
+  },
+  {
+    "id": 144,
+    "category": "class_timetable",
+    "intent": "lecture_slots",
+    "questions": [
+      "Where can I find lecture slots and my class timetable?",
+      "लेक्चर स्लॉट और क्लास टाइमटेबल कहाँ मिलेगा?"
+    ],
+    "answer": "Check the official student portal, department notice board, or timetable shared by your class coordinator. Verify room and batch details.",
+    "answer_en": "Check the official student portal, department notice board, or timetable shared by your class coordinator. Verify room and batch details.",
+    "answer_hi": "आधिकारिक स्टूडेंट पोर्टल, डिपार्टमेंट नोटिस बोर्ड या क्लास कोऑर्डिनेटर द्वारा साझा टाइमटेबल देखें। रूम और बैच की पुष्टि करें।"
+  },
+  {
+    "id": 145,
+    "category": "class_timetable",
+    "intent": "timetable_conflict",
+    "questions": [
+      "My timetable has overlapping classes. What should I do?",
+      "मेरे टाइमटेबल में दो क्लास एक साथ हैं, क्या करूँ?"
+    ],
+    "answer": "Take a screenshot or note the subject, section, and time conflict, then report it to your class coordinator or department office.",
+    "answer_en": "Take a screenshot or note the subject, section, and time conflict, then report it to your class coordinator or department office.",
+    "answer_hi": "विषय, सेक्शन और समय की समस्या नोट करें या स्क्रीनशॉट लें, फिर क्लास कोऑर्डिनेटर या डिपार्टमेंट ऑफिस को बताएँ।"
+  },
+  {
+    "id": 146,
+    "category": "academics",
+    "intent": "exam_preparation",
+    "questions": [
+      "How can I prepare a study plan for semester exams?",
+      "सेमेस्टर परीक्षा के लिए स्टडी प्लान कैसे बनाऊँ?"
+    ],
+    "answer": "List your subjects and exam dates, divide topics into daily goals, practice previous papers, and reserve time for revision.",
+    "answer_en": "List your subjects and exam dates, divide topics into daily goals, practice previous papers, and reserve time for revision.",
+    "answer_hi": "अपने विषय और परीक्षा की तारीखें लिखें, टॉपिक को रोज़ के लक्ष्य में बाँटें, पिछले पेपर हल करें और रिवीजन का समय रखें।"
+  },
+  {
+    "id": 147,
+    "category": "academics",
+    "intent": "notes_material",
+    "questions": [
+      "Where can I get lecture notes and study material?",
+      "लेक्चर नोट्स और स्टडी मटेरियल कहाँ मिलेगा?"
+    ],
+    "answer": "Check the learning management system, official class group, department portal, or ask the subject teacher for approved material.",
+    "answer_en": "Check the learning management system, official class group, department portal, or ask the subject teacher for approved material.",
+    "answer_hi": "लर्निंग मैनेजमेंट सिस्टम, आधिकारिक क्लास ग्रुप या डिपार्टमेंट पोर्टल देखें, अथवा विषय शिक्षक से सामग्री पूछें।"
+  },
+  {
+    "id": 148,
+    "category": "academics",
+    "intent": "credit_system",
+    "questions": [
+      "What are credits and how do they affect my degree?",
+      "क्रेडिट क्या होते हैं और डिग्री पर इनका क्या असर है?"
+    ],
+    "answer": "Credits represent the academic weight of a course. Your program handbook explains required credits and progression rules.",
+    "answer_en": "Credits represent the academic weight of a course. Your program handbook explains required credits and progression rules.",
+    "answer_hi": "क्रेडिट किसी कोर्स का अकादमिक भार बताते हैं। जरूरी क्रेडिट और आगे बढ़ने के नियम आपके प्रोग्राम हैंडबुक में दिए होते हैं।"
+  },
+  {
+    "id": 149,
+    "category": "academics",
+    "intent": "add_drop",
+    "questions": [
+      "Can I add or drop a course after registration?",
+      "रजिस्ट्रेशन के बाद कोर्स add या drop कर सकता हूँ?"
+    ],
+    "answer": "This depends on ABES Engineering College's add/drop window and approval rules. Contact your academic office before changing enrollment.",
+    "answer_en": "This depends on ABES Engineering College's add/drop window and approval rules. Contact your academic office before changing enrollment.",
+    "answer_hi": "यह संस्थान की add/drop अवधि और अनुमति के नियमों पर निर्भर करता है। एनरोलमेंट बदलने से पहले अकादमिक ऑफिस से पूछें।"
+  },
+  {
+    "id": 150,
+    "category": "academics",
+    "intent": "academic_probation",
+    "questions": [
+      "What happens if my academic performance is poor?",
+      "अगर मेरा अकादमिक प्रदर्शन खराब है तो क्या होगा?"
+    ],
+    "answer": "Review your academic regulations and meet your advisor to discuss improvement plans, retakes, and any academic-standing requirements.",
+    "answer_en": "Review your academic regulations and meet your advisor to discuss improvement plans, retakes, and any academic-standing requirements.",
+    "answer_hi": "अकादमिक नियम देखें और सुधार योजना, री-अटेम्प्ट तथा अकादमिक स्थिति की शर्तों पर एडवाइज़र से बात करें।"
+  },
+  {
+    "id": 151,
+    "category": "academics",
+    "intent": "attendance_leave",
+    "questions": [
+      "How do I apply for academic leave?",
+      "अकादमिक छुट्टी के लिए आवेदन कैसे करूँ?"
+    ],
+    "answer": "Ask your department about the approved leave form, supporting documents, submission deadline, and attendance implications.",
+    "answer_en": "Ask your department about the approved leave form, supporting documents, submission deadline, and attendance implications.",
+    "answer_hi": "स्वीकृत लीव फॉर्म, जरूरी दस्तावेज़, जमा करने की तारीख और अटेंडेंस पर असर के लिए डिपार्टमेंट से पूछें।"
+  },
+  {
+    "id": 152,
+    "category": "admissions_cutoffs",
+    "intent": "counselling_process",
+    "questions": [
+      "How does college counselling work?",
+      "कॉलेज काउंसलिंग कैसे होती है?"
+    ],
+    "answer": "Follow the official counselling schedule, register on the authorized portal, fill choices carefully, and track allotment and reporting instructions.",
+    "answer_en": "Follow the official counselling schedule, register on the authorized portal, fill choices carefully, and track allotment and reporting instructions.",
+    "answer_hi": "आधिकारिक काउंसलिंग शेड्यूल देखें, अधिकृत पोर्टल पर रजिस्टर करें, विकल्प सावधानी से भरें और सीट आवंटन व रिपोर्टिंग निर्देश देखें।"
+  },
+  {
+    "id": 153,
+    "category": "admissions_cutoffs",
+    "intent": "seat_allotment",
+    "questions": [
+      "I got a seat allotment. What should I do next?",
+      "मुझे सीट allot हुई है, अब क्या करना चाहिए?"
+    ],
+    "answer": "Read the allotment letter, confirm the acceptance deadline, pay any required fee through the official portal, and complete document verification.",
+    "answer_en": "Read the allotment letter, confirm the acceptance deadline, pay any required fee through the official portal, and complete document verification.",
+    "answer_hi": "अलॉटमेंट लेटर पढ़ें, स्वीकृति की अंतिम तारीख देखें, जरूरी फीस आधिकारिक पोर्टल से दें और दस्तावेज़ सत्यापन पूरा करें।"
+  },
+  {
+    "id": 154,
+    "category": "admissions_cutoffs",
+    "intent": "branch_change",
+    "questions": [
+      "Can I change my branch after admission?",
+      "एडमिशन के बाद ब्रांच बदल सकता हूँ?"
+    ],
+    "answer": "Branch-change policies vary and may depend on vacancies and academic performance. Ask the academic office for the current written policy.",
+    "answer_en": "Branch-change policies vary and may depend on vacancies and academic performance. Ask the academic office for the current written policy.",
+    "answer_hi": "ब्रांच बदलने के नियम अलग होते हैं और सीट खाली होने या प्रदर्शन पर निर्भर कर सकते हैं। मौजूदा लिखित नीति अकादमिक ऑफिस से लें।"
+  },
+  {
+    "id": 155,
+    "category": "admissions_cutoffs",
+    "intent": "lateral_entry",
+    "questions": [
+      "Is lateral entry available for B.Tech?",
+      "क्या B.Tech में lateral entry उपलब्ध है?"
+    ],
+    "answer": "Availability and eligibility depend on current state, university, and college admission rules. Check the current official brochure.",
+    "answer_en": "Availability and eligibility depend on current state, university, and college admission rules. Check the current official brochure.",
+    "answer_hi": "उपलब्धता और योग्यता मौजूदा राज्य, यूनिवर्सिटी और ABES इंजीनियरिंग कॉलेज के एडमिशन नियमों पर निर्भर करती है। आधिकारिक ब्रोशर देखें।"
+  },
+  {
+    "id": 156,
+    "category": "admissions_cutoffs",
+    "intent": "document_verification",
+    "questions": [
+      "What happens during admission document verification?",
+      "एडमिशन डॉक्यूमेंट वेरिफिकेशन में क्या होता है?"
+    ],
+    "answer": "The institution checks original documents against submitted details. Bring the items listed in the official checklist and ask about any discrepancy promptly.",
+    "answer_en": "The institution checks original documents against submitted details. Bring the items listed in the official checklist and ask about any discrepancy promptly.",
+    "answer_hi": "संस्थान जमा की गई जानकारी से मूल दस्तावेज़ मिलाता है। आधिकारिक चेकलिस्ट के अनुसार दस्तावेज़ लाएँ और गलती हो तो तुरंत बताएँ।"
+  },
+  {
+    "id": 157,
+    "category": "admissions_cutoffs",
+    "intent": "admission_refund",
+    "questions": [
+      "Can I get a refund if I cancel admission?",
+      "एडमिशन कैंसल करने पर फीस रिफंड मिलेगी?"
+    ],
+    "answer": "Refund eligibility and deadlines depend on the current official policy. Submit a written cancellation request and keep its acknowledgement.",
+    "answer_en": "Refund eligibility and deadlines depend on the current official policy. Submit a written cancellation request and keep its acknowledgement.",
+    "answer_hi": "रिफंड की पात्रता और समय-सीमा मौजूदा आधिकारिक नीति पर निर्भर करती है। लिखित कैंसलेशन आवेदन दें और उसकी रसीद रखें।"
+  },
+  {
+    "id": 158,
+    "category": "attendance",
+    "intent": "medical_leave",
+    "questions": [
+      "How do I submit a medical leave request?",
+      "मेडिकल लीव कैसे जमा करूँ?"
+    ],
+    "answer": "Follow ABES Engineering College leave process and ask whether a medical certificate or other supporting document is required. Approval depends on policy.",
+    "answer_en": "Follow ABES Engineering College leave process and ask whether a medical certificate or other supporting document is required. Approval depends on policy.",
+    "answer_hi": "ABES इंजीनियरिंग कॉलेज की लीव प्रक्रिया अपनाएँ और पूछें कि मेडिकल सर्टिफिकेट या अन्य प्रमाण चाहिए या नहीं। मंजूरी नीति पर निर्भर करती है।"
+  },
+  {
+    "id": 159,
+    "category": "attendance",
+    "intent": "attendance_update",
+    "questions": [
+      "When does attendance get updated?",
+      "अटेंडेंस कब अपडेट होती है?"
+    ],
+    "answer": "Update frequency varies by department and system. Ask your instructor or attendance coordinator for the expected update cycle.",
+    "answer_en": "Update frequency varies by department and system. Ask your instructor or attendance coordinator for the expected update cycle.",
+    "answer_hi": "अपडेट का समय विभाग और सिस्टम के अनुसार अलग हो सकता है। अपने शिक्षक या अटेंडेंस कोऑर्डिनेटर से पूछें।"
+  },
+  {
+    "id": 160,
+    "category": "attendance",
+    "intent": "attendance_subjectwise",
+    "questions": [
+      "Can I see attendance for each subject separately?",
+      "क्या हर विषय की अटेंडेंस अलग-अलग देख सकता हूँ?"
+    ],
+    "answer": "Open the attendance section in the student portal and select the subject-wise view, if available. Otherwise request a statement from your department.",
+    "answer_en": "Open the attendance section in the student portal and select the subject-wise view, if available. Otherwise request a statement from your department.",
+    "answer_hi": "स्टूडेंट पोर्टल में अटेंडेंस सेक्शन खोलकर subject-wise view चुनें। सुविधा न हो तो डिपार्टमेंट से विवरण माँगें।"
+  },
+  {
+    "id": 161,
+    "category": "attendance",
+    "intent": "attendance_proxy_policy",
+    "questions": [
+      "What is the college policy on proxy attendance?",
+      "प्रॉक्सी अटेंडेंस पर कॉलेज की क्या नीति है?"
+    ],
+    "answer": "Use the official attendance rules and ask your department about disciplinary consequences. Attendance records should be accurate and genuine.",
+    "answer_en": "Use the official attendance rules and ask your department about disciplinary consequences. Attendance records should be accurate and genuine.",
+    "answer_hi": "आधिकारिक अटेंडेंस नियम देखें और अनुशासनात्मक कार्रवाई के बारे में डिपार्टमेंट से पूछें। अटेंडेंस रिकॉर्ड सही और वास्तविक होना चाहिए।"
+  },
+  {
+    "id": 162,
+    "category": "attendance",
+    "intent": "attendance_calculation",
+    "questions": [
+      "How is my attendance percentage calculated?",
+      "मेरी अटेंडेंस प्रतिशत कैसे निकलती है?"
+    ],
+    "answer": "It is generally calculated as classes attended divided by total classes held, multiplied by 100. Confirm how your college treats approved leave or cancelled classes.",
+    "answer_en": "It is generally calculated as classes attended divided by total classes held, multiplied by 100. Confirm how your college treats approved leave or cancelled classes.",
+    "answer_hi": "आमतौर पर उपस्थित कक्षाओं की संख्या को कुल हुई कक्षाओं से भाग देकर 100 से गुणा किया जाता है। स्वीकृत छुट्टी या रद्द कक्षाओं का नियम ABES इंजीनियरिंग कॉलेज से पूछें।"
+  },
+  {
+    "id": 163,
+    "category": "attendance",
+    "intent": "attendance_notice",
+    "questions": [
+      "Where are attendance shortage notices published?",
+      "अटेंडेंस शॉर्टेज का नोटिस कहाँ आता है?"
+    ],
+    "answer": "Check the student portal, department notice board, official email, and class announcements regularly.",
+    "answer_en": "Check the student portal, department notice board, official email, and class announcements regularly.",
+    "answer_hi": "स्टूडेंट पोर्टल, डिपार्टमेंट नोटिस board, आधिकारिक ईमेल और क्लास अनाउंसमेंट नियमित रूप से देखें।"
+  },
+  {
+    "id": 164,
+    "category": "campus_facilities",
+    "intent": "gym_facility",
+    "questions": [
+      "Does the campus have a gym and how can I join?",
+      "क्या कैंपस में जिम है और कैसे जॉइन करें?"
+    ],
+    "answer": "Ask the sports or student affairs office about availability, membership, timings, safety rules, and any fee.",
+    "answer_en": "Ask the sports or student affairs office about availability, membership, timings, safety rules, and any fee.",
+    "answer_hi": "उपलब्धता, सदस्यता, समय, सुरक्षा नियम और फीस के लिए स्पोर्ट्स या स्टूडेंट अफेयर्स ऑफिस से पूछें।"
+  },
+  {
+    "id": 165,
+    "category": "campus_facilities",
+    "intent": "parking",
+    "questions": [
+      "Where can students park two-wheelers or cars?",
+      "स्टूडेंट अपनी बाइक या कार कहाँ पार्क करें?"
+    ],
+    "answer": "Check the campus parking map and vehicle-registration rules with campus administration or security.",
+    "answer_en": "Check the campus parking map and vehicle-registration rules with campus administration or security.",
+    "answer_hi": "कैंपस पार्किंग मैप और वाहन रजिस्ट्रेशन नियम प्रशासन या सिक्योरिटी से पता करें।"
+  },
+  {
+    "id": 166,
+    "category": "campus_facilities",
+    "intent": "medical_room",
+    "questions": [
+      "Where is the campus medical room?",
+      "कैंपस मेडिकल रूम कहाँ है?"
+    ],
+    "answer": "Check the campus map or ask reception/security for the medical room location and operating hours. For emergencies, contact local emergency services.",
+    "answer_en": "Check the campus map or ask reception/security for the medical room location and operating hours. For emergencies, contact local emergency services.",
+    "answer_hi": "कैंपस मैप देखें या रिसेप्शन/सिक्योरिटी से मेडिकल रूम की जगह और समय पूछें। आपात स्थिति में स्थानीय आपातकालीन सेवा से संपर्क करें।"
+  },
+  {
+    "id": 167,
+    "category": "campus_facilities",
+    "intent": "wifi_location",
+    "questions": [
+      "Where can I use student Wi-Fi on campus?",
+      "कैंपस में स्टूडेंट Wi-Fi कहाँ इस्तेमाल कर सकते हैं?"
+    ],
+    "answer": "Refer to the IT department's campus Wi-Fi coverage and access instructions. Availability may differ by building.",
+    "answer_en": "Refer to the IT department's campus Wi-Fi coverage and access instructions. Availability may differ by building.",
+    "answer_hi": "IT विभाग के Wi-Fi कवरेज और एक्सेस निर्देश देखें। सुविधा अलग-अलग बिल्डिंग में अलग हो सकती है।"
+  },
+  {
+    "id": 168,
+    "category": "campus_facilities",
+    "intent": "event_registration",
+    "questions": [
+      "How do I register for a college event or tech fest?",
+      "कॉलेज इवेंट या टेक फेस्ट में रजिस्ट्रेशन कैसे करूँ?"
+    ],
+    "answer": "Use the event's official registration link or contact the organizing committee. Check eligibility, deadlines, and event rules.",
+    "answer_en": "Use the event's official registration link or contact the organizing committee. Check eligibility, deadlines, and event rules.",
+    "answer_hi": "इवेंट का आधिकारिक रजिस्ट्रेशन लिंक इस्तेमाल करें या आयोजन समिति से संपर्क करें। योग्यता, तारीख और नियम देखें।"
+  },
+  {
+    "id": 169,
+    "category": "campus_facilities",
+    "intent": "accessibility",
+    "questions": [
+      "Are accessibility facilities available for students with disabilities?",
+      "दिव्यांग छात्रों के लिए accessibility सुविधा उपलब्ध है?"
+    ],
+    "answer": "Contact student affairs or campus administration to ask about accessible routes, classrooms, accommodations, and support services.",
+    "answer_en": "Contact student affairs or campus administration to ask about accessible routes, classrooms, accommodations, and support services.",
+    "answer_hi": "सुलभ रास्तों, क्लासरूम, आवश्यक सुविधाओं और सहायता सेवाओं के लिए स्टूडेंट अफेयर्स या कैंपस प्रशासन से संपर्क करें।"
+  },
+  {
+    "id": 170,
+    "category": "helpline_offices",
+    "intent": "registrar_role",
+    "questions": [
+      "What does the Registrar office handle?",
+      "Registrar ऑफिस कौन-से काम देखता है?"
+    ],
+    "answer": "The Registrar office commonly handles academic records, official notices, enrollment administration, and institutional documentation. Confirm the exact services with your college.",
+    "answer_en": "The Registrar office commonly handles academic records, official notices, enrollment administration, and institutional documentation. Confirm the exact services with your college.",
+    "answer_hi": "Registrar ऑफिस आमतौर पर अकादमिक रिकॉर्ड, आधिकारिक नोटिस, एनरोलमेंट प्रशासन और संस्थागत दस्तावेज़ देखता है। सही सेवाएँ ABES इंजीनियरिंग कॉलेज से पुष्टि करें।"
+  },
+  {
+    "id": 171,
+    "category": "helpline_offices",
+    "intent": "dean_role",
+    "questions": [
+      "When should I contact the Dean's office?",
+      "Dean ऑफिस से कब संपर्क करना चाहिए?"
+    ],
+    "answer": "Contact the relevant Dean's office for matters within its academic or student-affairs responsibility. Start with your department if you are unsure.",
+    "answer_en": "Contact the relevant Dean's office for matters within its academic or student-affairs responsibility. Start with your department if you are unsure.",
+    "answer_hi": "अपने अकादमिक या स्टूडेंट-अफेयर्स विषय के लिए संबंधित Dean ऑफिस से संपर्क करें। समझ न आए तो पहले डिपार्टमेंट से पूछें।"
+  },
+  {
+    "id": 172,
+    "category": "helpline_offices",
+    "intent": "hod_appointment",
+    "questions": [
+      "How can I book an appointment with my HOD?",
+      "HOD से मिलने का समय कैसे लें?"
+    ],
+    "answer": "Contact the department office or use the official appointment process. Include your purpose and preferred available time.",
+    "answer_en": "Contact the department office or use the official appointment process. Include your purpose and preferred available time.",
+    "answer_hi": "डिपार्टमेंट ऑफिस या आधिकारिक अपॉइंटमेंट प्रक्रिया से संपर्क करें। मिलने का कारण और सुविधाजनक समय बताएँ।"
+  },
+  {
+    "id": 173,
+    "category": "helpline_offices",
+    "intent": "accounts_contact",
+    "questions": [
+      "How do I contact the accounts department?",
+      "अकाउंट्स डिपार्टमेंट से कैसे संपर्क करूँ?"
+    ],
+    "answer": "Use the official college website or student portal to find verified accounts-office contact details and working hours.",
+    "answer_en": "Use the official college website or student portal to find verified accounts-office contact details and working hours.",
+    "answer_hi": "सत्यापित संपर्क जानकारी और समय के लिए ABES इंजीनियरिंग कॉलेज की आधिकारिक वेबसाइट या स्टूडेंट पोर्टल देखें।"
+  },
+  {
+    "id": 174,
+    "category": "helpline_offices",
+    "intent": "women_cell",
+    "questions": [
+      "How can I contact the women's grievance or support cell?",
+      "महिला शिकायत या सहायता सेल से कैसे संपर्क करूँ?"
+    ],
+    "answer": "Use the official college website or student handbook to find the designated committee and confidential reporting process.",
+    "answer_en": "Use the official college website or student handbook to find the designated committee and confidential reporting process.",
+    "answer_hi": "निर्धारित समिति और गोपनीय शिकायत प्रक्रिया के लिए ABES इंजीनियरिंग कॉलेज की आधिकारिक वेबसाइट या स्टूडेंट हैंडबुक देखें।"
+  },
+  {
+    "id": 175,
+    "category": "helpline_offices",
+    "intent": "anti_ragging_contact",
+    "questions": [
+      "Where can I find the anti-ragging committee details?",
+      "एंटी-रैगिंग समिति की जानकारी कहाँ मिलेगी?"
+    ],
+    "answer": "Check the official college anti-ragging page, notices, and student handbook for committee contacts and reporting channels.",
+    "answer_en": "Check the official college anti-ragging page, notices, and student handbook for committee contacts and reporting channels.",
+    "answer_hi": "समिति के संपर्क और शिकायत माध्यम के लिए ABES इंजीनियरिंग कॉलेज का आधिकारिक एंटी-रैगिंग पेज, नोटिस और स्टूडेंट हैंडबुक देखें।"
+  },
+  {
+    "id": 176,
+    "category": "certificates_bonafide",
+    "intent": "character_certificate",
+    "questions": [
+      "How can I request a character certificate?",
+      "कैरेक्टर सर्टिफिकेट कैसे बनवाऊँ?"
+    ],
+    "answer": "Contact the student section and check the application format, clearance requirements, fee, and processing time.",
+    "answer_en": "Contact the student section and check the application format, clearance requirements, fee, and processing time.",
+    "answer_hi": "स्टूडेंट सेक्शन से आवेदन फॉर्मेट, क्लियरेंस, फीस और प्रक्रिया का समय पता करें।"
+  },
+  {
+    "id": 177,
+    "category": "certificates_bonafide",
+    "intent": "provisional_certificate",
+    "questions": [
+      "How do I get a provisional degree certificate?",
+      "प्रोविजनल डिग्री सर्टिफिकेट कैसे मिलेगा?"
+    ],
+    "answer": "Apply through the examination or student records office after checking result declaration and clearance requirements.",
+    "answer_en": "Apply through the examination or student records office after checking result declaration and clearance requirements.",
+    "answer_hi": "रिजल्ट घोषित होने और क्लियरेंस की शर्तें जाँचकर परीक्षा विभाग या स्टूडेंट रिकॉर्ड्स ऑफिस में आवेदन करें।"
+  },
+  {
+    "id": 178,
+    "category": "certificates_bonafide",
+    "intent": "duplicate_marksheet",
+    "questions": [
+      "How can I get a duplicate marksheet?",
+      "डुप्लीकेट मार्कशीट कैसे मिलेगी?"
+    ],
+    "answer": "Ask the examination office for the duplicate-document form, identity proof, fee, affidavit if required, and expected processing time.",
+    "answer_en": "Ask the examination office for the duplicate-document form, identity proof, fee, affidavit if required, and expected processing time.",
+    "answer_hi": "डुप्लीकेट दस्तावेज़ फॉर्म, पहचान प्रमाण, फीस, जरूरत हो तो एफिडेविट और समय के लिए परीक्षा विभाग से पूछें।"
+  },
+  {
+    "id": 179,
+    "category": "certificates_bonafide",
+    "intent": "noc",
+    "questions": [
+      "How do I request a No Objection Certificate (NOC)?",
+      "NOC के लिए आवेदन कैसे करूँ?"
+    ],
+    "answer": "Contact the department or student section and ask which purpose-specific NOC form, approvals, and clearances are required.",
+    "answer_en": "Contact the department or student section and ask which purpose-specific NOC form, approvals, and clearances are required.",
+    "answer_hi": "डिपार्टमेंट या स्टूडेंट सेक्शन से पूछें कि किस उद्देश्य का NOC फॉर्म, अनुमति और क्लियरेंस चाहिए।"
+  },
+  {
+    "id": 180,
+    "category": "certificates_bonafide",
+    "intent": "certificate_tracking",
+    "questions": [
+      "How can I track my certificate request?",
+      "सर्टिफिकेट आवेदन का स्टेटस कैसे ट्रैक करूँ?"
+    ],
+    "answer": "Use the application reference number on the student portal, if tracking is supported, or contact the issuing office.",
+    "answer_en": "Use the application reference number on the student portal, if tracking is supported, or contact the issuing office.",
+    "answer_hi": "यदि सुविधा हो तो स्टूडेंट पोर्टल पर आवेदन रेफरेंस नंबर डालें, अन्यथा जारी करने वाले ऑफिस से संपर्क करें।"
+  },
+  {
+    "id": 181,
+    "category": "certificates_bonafide",
+    "intent": "name_correction",
+    "questions": [
+      "How can I correct my name on college records?",
+      "कॉलेज रिकॉर्ड में नाम कैसे ठीक करवाऊँ?"
+    ],
+    "answer": "Contact the student records office and ask for the official correction procedure and supporting legal or academic documents.",
+    "answer_en": "Contact the student records office and ask for the official correction procedure and supporting legal or academic documents.",
+    "answer_hi": "आधिकारिक सुधार प्रक्रिया और जरूरी कानूनी या अकादमिक दस्तावेज़ के लिए स्टूडेंट रिकॉर्ड्स ऑफिस से संपर्क करें।"
+  },
+  {
+    "id": 182,
+    "category": "examinations",
+    "intent": "exam_form",
+    "questions": [
+      "How do I fill out the university examination form?",
+      "यूनिवर्सिटी परीक्षा फॉर्म कैसे भरूँ?"
+    ],
+    "answer": "Use the official examination portal, verify subjects and personal details, pay through approved methods, and save the confirmation.",
+    "answer_en": "Use the official examination portal, verify subjects and personal details, pay through approved methods, and save the confirmation.",
+    "answer_hi": "आधिकारिक परीक्षा पोर्टल पर विषय और निजी विवरण जाँचें, स्वीकृत तरीके से फीस दें और कन्फर्मेशन सुरक्षित रखें।"
+  },
+  {
+    "id": 183,
+    "category": "examinations",
+    "intent": "exam_center",
+    "questions": [
+      "How can I find my examination center?",
+      "मेरा परीक्षा केंद्र कैसे पता चलेगा?"
+    ],
+    "answer": "Check the admit card and official examination notice. If details conflict, contact the examination cell before exam day.",
+    "answer_en": "Check the admit card and official examination notice. If details conflict, contact the examination cell before exam day.",
+    "answer_hi": "एडमिट कार्ड और आधिकारिक परीक्षा नोटिस देखें। जानकारी अलग हो तो परीक्षा से पहले परीक्षा सेल से संपर्क करें।"
+  },
+  {
+    "id": 184,
+    "category": "examinations",
+    "intent": "exam_rules",
+    "questions": [
+      "Where can I read exam hall rules?",
+      "परीक्षा हॉल के नियम कहाँ पढ़ूँ?"
+    ],
+    "answer": "Read the instructions printed on the admit card and the latest examination guidelines. Follow permitted stationery and reporting-time rules.",
+    "answer_en": "Read the instructions printed on the admit card and the latest examination guidelines. Follow permitted stationery and reporting-time rules.",
+    "answer_hi": "एडमिट कार्ड पर दिए निर्देश और नवीनतम परीक्षा गाइडलाइन पढ़ें। अनुमत स्टेशनरी और रिपोर्टिंग समय का पालन करें।"
+  },
+  {
+    "id": 185,
+    "category": "examinations",
+    "intent": "answer_sheet_issue",
+    "questions": [
+      "What if there is an error in my exam answer sheet details?",
+      "उत्तर पुस्तिका में मेरी जानकारी गलत है तो क्या करूँ?"
+    ],
+    "answer": "Inform the invigilator immediately and follow the examination cell's procedure. Do not make unauthorized changes yourself.",
+    "answer_en": "Inform the invigilator immediately and follow the examination cell's procedure. Do not make unauthorized changes yourself.",
+    "answer_hi": "तुरंत इनविजिलेटर को बताएँ और परीक्षा सेल की प्रक्रिया अपनाएँ। खुद से अनधिकृत बदलाव न करें।"
+  },
+  {
+    "id": 186,
+    "category": "examinations",
+    "intent": "reappear_form",
+    "questions": [
+      "How do I apply for a reappear exam?",
+      "री-अपीयर परीक्षा के लिए आवेदन कैसे करूँ?"
+    ],
+    "answer": "Check the current university notification for eligibility, paper codes, fees, and deadline, then submit the form through the official portal.",
+    "answer_en": "Check the current university notification for eligibility, paper codes, fees, and deadline, then submit the form through the official portal.",
+    "answer_hi": "योग्यता, पेपर कोड, फीस और अंतिम तारीख के लिए मौजूदा यूनिवर्सिटी नोटिस देखें और आधिकारिक पोर्टल से फॉर्म भरें।"
+  },
+  {
+    "id": 187,
+    "category": "examinations",
+    "intent": "result_error",
+    "questions": [
+      "My result shows absent or incomplete incorrectly. What should I do?",
+      "रिजल्ट में गलत absent या incomplete दिख रहा है, क्या करूँ?"
+    ],
+    "answer": "Save a copy of the result and contact the examination office with your roll number, subject code, and supporting details.",
+    "answer_en": "Save a copy of the result and contact the examination office with your roll number, subject code, and supporting details.",
+    "answer_hi": "रिजल्ट की कॉपी रखें और रोल नंबर, विषय कोड तथा प्रमाण के साथ परीक्षा विभाग से संपर्क करें।"
+  },
+  {
+    "id": 188,
+    "category": "fee_structure",
+    "intent": "fee_receipt",
+    "questions": [
+      "How can I download my fee receipt?",
+      "फीस की रसीद कैसे डाउनलोड करूँ?"
+    ],
+    "answer": "Open payment history in the official student portal and download the receipt. Contact accounts if the transaction is missing.",
+    "answer_en": "Open payment history in the official student portal and download the receipt. Contact accounts if the transaction is missing.",
+    "answer_hi": "आधिकारिक स्टूडेंट पोर्टल में पेमेंट हिस्ट्री खोलकर रसीद डाउनलोड करें। ट्रांजैक्शन न दिखे तो अकाउंट्स से संपर्क करें।"
+  },
+  {
+    "id": 189,
+    "category": "fee_structure",
+    "intent": "payment_failed",
+    "questions": [
+      "My online fee payment failed but money was deducted.",
+      "ऑनलाइन फीस पेमेंट फेल हुआ लेकिन पैसे कट गए।"
+    ],
+    "answer": "Save the bank or payment-gateway reference and check the portal's reconciliation time. Contact the accounts office and payment provider through official channels if unresolved.",
+    "answer_en": "Save the bank or payment-gateway reference and check the portal's reconciliation time. Contact the accounts office and payment provider through official channels if unresolved.",
+    "answer_hi": "बैंक या पेमेंट गेटवे रेफरेंस सुरक्षित रखें और पोर्टल का मिलान समय देखें। समस्या बनी रहे तो आधिकारिक माध्यम से अकाउंट्स ऑफिस और पेमेंट प्रदाता से संपर्क करें।"
+  },
+  {
+    "id": 190,
+    "category": "fee_structure",
+    "intent": "fee_breakdown",
+    "questions": [
+      "Where can I see the full fee breakdown?",
+      "पूरी फीस का ब्रेकडाउन कहाँ मिलेगा?"
+    ],
+    "answer": "Check the official fee circular for tuition, examination, hostel, transport, and other applicable charges.",
+    "answer_en": "Check the official fee circular for tuition, examination, hostel, transport, and other applicable charges.",
+    "answer_hi": "ट्यूशन, परीक्षा, हॉस्टल, ट्रांसपोर्ट और अन्य लागू शुल्क के लिए आधिकारिक फीस सर्कुलर देखें।"
+  },
+  {
+    "id": 191,
+    "category": "fee_structure",
+    "intent": "fee_loan",
+    "questions": [
+      "Can the college provide fee-payment support or an education-loan letter?",
+      "क्या कॉलेज फीस सहायता या एजुकेशन लोन लेटर दे सकता है?"
+    ],
+    "answer": "Ask the accounts or student section whether it issues fee certificates, bonafide letters, or other documents required by a lender.",
+    "answer_en": "Ask the accounts or student section whether it issues fee certificates, bonafide letters, or other documents required by a lender.",
+    "answer_hi": "अकाउंट्स या स्टूडेंट सेक्शन से पूछें कि फीस सर्टिफिकेट, बोनाफाइड या बैंक के लिए जरूरी दस्तावेज़ जारी होते हैं या नहीं।"
+  },
+  {
+    "id": 192,
+    "category": "fee_structure",
+    "intent": "fee_discrepancy",
+    "questions": [
+      "My fee portal shows an incorrect balance.",
+      "फीस पोर्टल पर गलत बकाया दिख रहा है।"
+    ],
+    "answer": "Download the fee ledger and receipts, then raise a written query with the accounts office. Do not pay a disputed amount twice without clarification.",
+    "answer_en": "Download the fee ledger and receipts, then raise a written query with the accounts office. Do not pay a disputed amount twice without clarification.",
+    "answer_hi": "फीस लेजर और रसीद डाउनलोड करके अकाउंट्स ऑफिस में लिखित शिकायत दें। पुष्टि के बिना विवादित राशि दोबारा न भरें।"
+  },
+  {
+    "id": 193,
+    "category": "hostel_mess",
+    "intent": "hostel_application",
+    "questions": [
+      "When does hostel registration open?",
+      "हॉस्टल रजिस्ट्रेशन कब शुरू होगा?"
+    ],
+    "answer": "Hostel application dates are announced by the hostel office. Check official notices and submit the form before the stated deadline.",
+    "answer_en": "Hostel application dates are announced by the hostel office. Check official notices and submit the form before the stated deadline.",
+    "answer_hi": "हॉस्टल आवेदन की तारीख हॉस्टल ऑफिस घोषित करता है। आधिकारिक नोटिस देखें और समय पर फॉर्म जमा करें।"
+  },
+  {
+    "id": 194,
+    "category": "hostel_mess",
+    "intent": "hostel_fee",
+    "questions": [
+      "Where can I find hostel and mess charges?",
+      "हॉस्टल और मेस फीस कहाँ मिलेगी?"
+    ],
+    "answer": "Refer to the current hostel fee circular or contact the hostel accounts desk for room, mess, security deposit, and other charges.",
+    "answer_en": "Refer to the current hostel fee circular or contact the hostel accounts desk for room, mess, security deposit, and other charges.",
+    "answer_hi": "रूम, मेस, सिक्योरिटी डिपॉजिट और अन्य शुल्क के लिए मौजूदा हॉस्टल फीस सर्कुलर या हॉस्टल अकाउंट्स डेस्क देखें।"
+  },
+  {
+    "id": 195,
+    "category": "hostel_mess",
+    "intent": "hostel_complaint_process",
+    "questions": [
+      "How do I file a hostel maintenance complaint?",
+      "हॉस्टल मेंटेनेंस की शिकायत कैसे करूँ?"
+    ],
+    "answer": "Report the issue to the warden or maintenance desk and note the complaint reference. For urgent safety issues, contact campus security.",
+    "answer_en": "Report the issue to the warden or maintenance desk and note the complaint reference. For urgent safety issues, contact campus security.",
+    "answer_hi": "वार्डन या मेंटेनेंस डेस्क को समस्या बताएँ और शिकायत नंबर नोट करें। तुरंत सुरक्षा की समस्या हो तो कैंपस सिक्योरिटी से संपर्क करें।"
+  },
+  {
+    "id": 196,
+    "category": "hostel_mess",
+    "intent": "hostel_leave",
+    "questions": [
+      "How do I get permission to leave the hostel overnight?",
+      "हॉस्टल से रात में बाहर जाने की अनुमति कैसे मिलेगी?"
+    ],
+    "answer": "Follow the hostel out-pass or leave process and obtain approval from the authorized warden before leaving.",
+    "answer_en": "Follow the hostel out-pass or leave process and obtain approval from the authorized warden before leaving.",
+    "answer_hi": "हॉस्टल का आउट-पास या लीव प्रोसेस अपनाएँ और जाने से पहले अधिकृत वार्डन की अनुमति लें।"
+  },
+  {
+    "id": 197,
+    "category": "hostel_mess",
+    "intent": "hostel_wifi",
+    "questions": [
+      "Is Wi-Fi available in hostel rooms?",
+      "क्या हॉस्टल रूम में Wi-Fi उपलब्ध है?"
+    ],
+    "answer": "Availability and access rules vary by hostel block. Ask the hostel office or IT help desk for current coverage and login instructions.",
+    "answer_en": "Availability and access rules vary by hostel block. Ask the hostel office or IT help desk for current coverage and login instructions.",
+    "answer_hi": "उपलब्धता और नियम हॉस्टल ब्लॉक के अनुसार बदलते हैं। कवरेज और लॉगिन निर्देश के लिए हॉस्टल ऑफिस या IT हेल्प डेस्क से पूछें।"
+  },
+  {
+    "id": 198,
+    "category": "hostel_mess",
+    "intent": "hostel_vacating",
+    "questions": [
+      "How do I vacate my hostel room?",
+      "हॉस्टल रूम खाली कैसे करूँ?"
+    ],
+    "answer": "Submit the official vacating request, complete room inspection and dues clearance, and return keys or property as instructed.",
+    "answer_en": "Submit the official vacating request, complete room inspection and dues clearance, and return keys or property as instructed.",
+    "answer_hi": "आधिकारिक रूम खाली करने का आवेदन दें, निरीक्षण और बकाया क्लियरेंस पूरा करें तथा निर्देशानुसार चाबी या सामान लौटाएँ।"
+  },
+  {
+    "id": 199,
+    "category": "it_support",
+    "intent": "lms_access",
+    "questions": [
+      "How do I access the learning management system?",
+      "Learning Management System कैसे खोलूँ?"
+    ],
+    "answer": "Use the account provided by ABES Engineering College and follow the official LMS login instructions. Contact IT support if your account is not activated.",
+    "answer_en": "Use the account provided by ABES Engineering College and follow the official LMS login instructions. Contact IT support if your account is not activated.",
+    "answer_hi": "ABES इंजीनियरिंग कॉलेज द्वारा दिए अकाउंट से आधिकारिक LMS लॉगिन निर्देश अपनाएँ। अकाउंट एक्टिव न हो तो IT सपोर्ट से संपर्क करें।"
+  },
+  {
+    "id": 200,
+    "category": "it_support",
+    "intent": "email_reset",
+    "questions": [
+      "How do I reset my college email password?",
+      "कॉलेज ईमेल का पासवर्ड कैसे रीसेट करूँ?"
+    ],
+    "answer": "Use the official college email password-reset page or contact the IT help desk. Never share your password or OTP.",
+    "answer_en": "Use the official college email password-reset page or contact the IT help desk. Never share your password or OTP.",
+    "answer_hi": "ABES इंजीनियरिंग कॉलेज की आधिकारिक ईमेल पासवर्ड रीसेट सुविधा या IT हेल्प डेस्क का उपयोग करें। पासवर्ड या OTP साझा न करें।"
+  },
+  {
+    "id": 201,
+    "category": "it_support",
+    "intent": "software_access",
+    "questions": [
+      "How can I get licensed academic software?",
+      "लाइसेंस वाला अकादमिक सॉफ्टवेयर कैसे मिलेगा?"
+    ],
+    "answer": "Check the IT department or library software portal for student licenses, eligibility, installation instructions, and usage terms.",
+    "answer_en": "Check the IT department or library software portal for student licenses, eligibility, installation instructions, and usage terms.",
+    "answer_hi": "स्टूडेंट लाइसेंस, योग्यता, इंस्टॉलेशन निर्देश और उपयोग शर्तों के लिए IT विभाग या लाइब्रेरी सॉफ्टवेयर पोर्टल देखें।"
+  },
+  {
+    "id": 202,
+    "category": "it_support",
+    "intent": "account_locked",
+    "questions": [
+      "My student account is locked.",
+      "मेरा स्टूडेंट अकाउंट लॉक हो गया है।"
+    ],
+    "answer": "Use the official account recovery process or contact IT support with your student ID through a verified channel. Do not send passwords in chat.",
+    "answer_en": "Use the official account recovery process or contact IT support with your student ID through a verified channel. Do not send passwords in chat.",
+    "answer_hi": "आधिकारिक अकाउंट रिकवरी प्रक्रिया अपनाएँ या सत्यापित माध्यम से स्टूडेंट ID के साथ IT सपोर्ट से संपर्क करें। चैट में पासवर्ड न भेजें।"
+  },
+  {
+    "id": 203,
+    "category": "it_support",
+    "intent": "cyber_security",
+    "questions": [
+      "I received a suspicious college email or link. What should I do?",
+      "कॉलेज के नाम से संदिग्ध ईमेल या लिंक आया है, क्या करूँ?"
+    ],
+    "answer": "Do not open attachments or enter credentials. Report the message to ABES Engineering College IT/security team using an official contact channel.",
+    "answer_en": "Do not open attachments or enter credentials. Report the message to ABES Engineering College IT/security team using an official contact channel.",
+    "answer_hi": "अटैचमेंट न खोलें और लॉगिन जानकारी न भरें। आधिकारिक संपर्क से ABES इंजीनियरिंग कॉलेज IT/सिक्योरिटी टीम को रिपोर्ट करें।"
+  },
+  {
+    "id": 204,
+    "category": "it_support",
+    "intent": "portal_profile",
+    "questions": [
+      "How do I update my phone number or email in the portal?",
+      "पोर्टल में फोन नंबर या ईमेल कैसे बदलूँ?"
+    ],
+    "answer": "Use the profile-update feature if enabled, or contact the student records office with the required verification documents.",
+    "answer_en": "Use the profile-update feature if enabled, or contact the student records office with the required verification documents.",
+    "answer_hi": "यदि सुविधा हो तो प्रोफाइल अपडेट करें, अन्यथा जरूरी सत्यापन दस्तावेज़ के साथ स्टूडेंट रिकॉर्ड्स ऑफिस से संपर्क करें।"
+  },
+  {
+    "id": 205,
+    "category": "labs",
+    "intent": "lab_batch",
+    "questions": [
+      "How can I check my lab batch and room number?",
+      "अपना लैब बैच और रूम नंबर कैसे पता करूँ?"
+    ],
+    "answer": "Check the department timetable or ask your class coordinator or lab instructor for the latest batch allocation.",
+    "answer_en": "Check the department timetable or ask your class coordinator or lab instructor for the latest batch allocation.",
+    "answer_hi": "डिपार्टमेंट टाइमटेबल देखें या नवीनतम बैच आवंटन के लिए क्लास कोऑर्डिनेटर या लैब इंस्ट्रक्टर से पूछें।"
+  },
+  {
+    "id": 206,
+    "category": "labs",
+    "intent": "lab_safety",
+    "questions": [
+      "What safety rules should I follow in the laboratory?",
+      "लैब में कौन-से सुरक्षा नियम मानने चाहिए?"
+    ],
+    "answer": "Follow posted lab instructions, wear required protective equipment, and use instruments only under authorized supervision.",
+    "answer_en": "Follow posted lab instructions, wear required protective equipment, and use instruments only under authorized supervision.",
+    "answer_hi": "लैब के निर्देश मानें, जरूरी सुरक्षा उपकरण पहनें और उपकरण केवल अधिकृत निगरानी में इस्तेमाल करें।"
+  },
+  {
+    "id": 207,
+    "category": "labs",
+    "intent": "lab_attendance",
+    "questions": [
+      "How is lab attendance counted?",
+      "लैब की अटेंडेंस कैसे गिनी जाती है?"
+    ],
+    "answer": "Lab attendance rules may differ from lecture attendance. Check the course outline and ask the lab instructor for the official policy.",
+    "answer_en": "Lab attendance rules may differ from lecture attendance. Check the course outline and ask the lab instructor for the official policy.",
+    "answer_hi": "लैब अटेंडेंस के नियम लेक्चर से अलग हो सकते हैं। कोर्स आउटलाइन देखें और आधिकारिक नीति लैब इंस्ट्रक्टर से पूछें।"
+  },
+  {
+    "id": 208,
+    "category": "labs",
+    "intent": "lab_viva",
+    "questions": [
+      "How should I prepare for a practical viva?",
+      "प्रैक्टिकल वाइवा की तैयारी कैसे करूँ?"
+    ],
+    "answer": "Review the experiment objective, theory, circuit or procedure, observations, calculations, and safety precautions. Ask your instructor for the syllabus scope.",
+    "answer_en": "Review the experiment objective, theory, circuit or procedure, observations, calculations, and safety precautions. Ask your instructor for the syllabus scope.",
+    "answer_hi": "एक्सपेरिमेंट का उद्देश्य, थ्योरी, सर्किट या प्रक्रिया, ऑब्जर्वेशन, गणना और सुरक्षा सावधानियाँ दोहराएँ। सिलेबस की सीमा शिक्षक से पूछें।"
+  },
+  {
+    "id": 209,
+    "category": "labs",
+    "intent": "lab_submission",
+    "questions": [
+      "What if I missed a lab submission deadline?",
+      "लैब सबमिशन की तारीख छूट गई तो क्या करूँ?"
+    ],
+    "answer": "Contact the instructor promptly, explain the situation, and ask whether a late submission is permitted under course rules.",
+    "answer_en": "Contact the instructor promptly, explain the situation, and ask whether a late submission is permitted under course rules.",
+    "answer_hi": "जल्द इंस्ट्रक्टर से संपर्क करें, स्थिति बताएँ और पूछें कि कोर्स नियमों के अनुसार लेट सबमिशन संभव है या नहीं।"
+  },
+  {
+    "id": 210,
+    "category": "labs",
+    "intent": "lab_booking",
+    "questions": [
+      "Can I use a lab outside scheduled class hours?",
+      "क्या निर्धारित क्लास के अलावा लैब इस्तेमाल कर सकता हूँ?"
+    ],
+    "answer": "Ask the department or lab supervisor about supervised access, booking, availability, and permission requirements.",
+    "answer_en": "Ask the department or lab supervisor about supervised access, booking, availability, and permission requirements.",
+    "answer_hi": "सुपरवाइज़्ड एक्सेस, बुकिंग, उपलब्धता और अनुमति के लिए डिपार्टमेंट या लैब सुपरवाइज़र से पूछें।"
+  },
+  {
+    "id": 211,
+    "category": "central_library",
+    "intent": "library_membership",
+    "questions": [
+      "How do I activate my library membership?",
+      "लाइब्रेरी मेंबरशिप कैसे एक्टिवेट करूँ?"
+    ],
+    "answer": "Visit the library desk or follow the student portal instructions with your valid college ID.",
+    "answer_en": "Visit the library desk or follow the student portal instructions with your valid college ID.",
+    "answer_hi": "वैध ABES इंजीनियरिंग कॉलेज ID के साथ लाइब्रेरी डेस्क जाएँ या स्टूडेंट पोर्टल के निर्देश अपनाएँ।"
+  },
+  {
+    "id": 212,
+    "category": "central_library",
+    "intent": "library_fine",
+    "questions": [
+      "How can I check or pay a library fine?",
+      "लाइब्रेरी का जुर्माना कैसे चेक या जमा करूँ?"
+    ],
+    "answer": "Check your library account or ask the circulation desk for the fine details and approved payment method.",
+    "answer_en": "Check your library account or ask the circulation desk for the fine details and approved payment method.",
+    "answer_hi": "जुर्माने की जानकारी और स्वीकृत पेमेंट तरीके के लिए लाइब्रेरी अकाउंट या इश्यू डेस्क देखें।"
+  },
+  {
+    "id": 213,
+    "category": "central_library",
+    "intent": "library_lost_book",
+    "questions": [
+      "What should I do if I lose a borrowed book?",
+      "इश्यू की हुई किताब खो जाए तो क्या करूँ?"
+    ],
+    "answer": "Inform the library promptly and follow its replacement or compensation policy. Do not wait until the due date passes.",
+    "answer_en": "Inform the library promptly and follow its replacement or compensation policy. Do not wait until the due date passes.",
+    "answer_hi": "लाइब्रेरी को तुरंत बताएँ और उसकी रिप्लेसमेंट या मुआवज़ा नीति अपनाएँ। ड्यू डेट निकलने तक इंतजार न करें।"
+  },
+  {
+    "id": 214,
+    "category": "central_library",
+    "intent": "library_digital",
+    "questions": [
+      "Can I access digital journals from home?",
+      "क्या घर से डिजिटल जर्नल एक्सेस कर सकता हूँ?"
+    ],
+    "answer": "Off-campus access depends on the library's subscriptions and authentication system. Check the e-resource page or ask library staff.",
+    "answer_en": "Off-campus access depends on the library's subscriptions and authentication system. Check the e-resource page or ask library staff.",
+    "answer_hi": "घर से एक्सेस लाइब्रेरी की सदस्यता और लॉगिन सिस्टम पर निर्भर करता है। ई-रिसोर्स पेज देखें या लाइब्रेरी स्टाफ से पूछें।"
+  },
+  {
+    "id": 215,
+    "category": "central_library",
+    "intent": "library_reading_room",
+    "questions": [
+      "Is the reading room open during exams?",
+      "क्या परीक्षा के समय रीडिंग रूम खुला रहता है?"
+    ],
+    "answer": "Exam-period hours may differ. Check the library's current notice for extended hours and entry requirements.",
+    "answer_en": "Exam-period hours may differ. Check the library's current notice for extended hours and entry requirements.",
+    "answer_hi": "परीक्षा के समय समय बदल सकता है। अतिरिक्त समय और प्रवेश नियमों के लिए लाइब्रेरी का नया नोटिस देखें।"
+  },
+  {
+    "id": 216,
+    "category": "central_library",
+    "intent": "library_reserve",
+    "questions": [
+      "Can I reserve a book that is currently issued?",
+      "जो किताब इश्यू है, क्या उसे रिज़र्व कर सकता हूँ?"
+    ],
+    "answer": "Ask the library whether a waiting-list or reservation facility is available for that title.",
+    "answer_en": "Ask the library whether a waiting-list or reservation facility is available for that title.",
+    "answer_hi": "उस किताब के लिए वेटिंग लिस्ट या रिज़र्वेशन सुविधा उपलब्ध है या नहीं, लाइब्रेरी से पूछें।"
+  },
+  {
+    "id": 217,
+    "category": "placements_ctc",
+    "intent": "placement_training",
+    "questions": [
+      "Does the college provide aptitude and interview training?",
+      "क्या कॉलेज aptitude और interview की ट्रेनिंग देता है?"
+    ],
+    "answer": "Ask the placement cell for the current training calendar, eligibility, registration process, and available practice resources.",
+    "answer_en": "Ask the placement cell for the current training calendar, eligibility, registration process, and available practice resources.",
+    "answer_hi": "मौजूदा ट्रेनिंग कैलेंडर, योग्यता, रजिस्ट्रेशन और अभ्यास सामग्री के लिए प्लेसमेंट सेल से पूछें।"
+  },
+  {
+    "id": 218,
+    "category": "placements_ctc",
+    "intent": "resume_review",
+    "questions": [
+      "Who can review my resume?",
+      "मेरा रिज्यूमे कौन चेक कर सकता है?"
+    ],
+    "answer": "Contact the placement cell, career services, or a faculty mentor for resume feedback and approved templates.",
+    "answer_en": "Contact the placement cell, career services, or a faculty mentor for resume feedback and approved templates.",
+    "answer_hi": "रिज्यूमे फीडबैक और स्वीकृत फॉर्मेट के लिए प्लेसमेंट सेल, करियर सर्विस या फैकल्टी मेंटर से संपर्क करें।"
+  },
+  {
+    "id": 219,
+    "category": "placements_ctc",
+    "intent": "placement_backlog",
+    "questions": [
+      "Can students with backlogs sit for placements?",
+      "क्या बैकलॉग वाले छात्र प्लेसमेंट में बैठ सकते हैं?"
+    ],
+    "answer": "Company and college eligibility rules differ. Check each placement notice for active-backlog, history-of-backlog, and CGPA conditions.",
+    "answer_en": "Company and college eligibility rules differ. Check each placement notice for active-backlog, history-of-backlog, and CGPA conditions.",
+    "answer_hi": "कंपनी और ABES इंजीनियरिंग कॉलेज के नियम अलग होते हैं। हर प्लेसमेंट नोटिस में active backlog, पुराने backlog और CGPA की शर्तें देखें।"
+  },
+  {
+    "id": 220,
+    "category": "placements_ctc",
+    "intent": "placement_offer",
+    "questions": [
+      "I received a placement offer. What should I check?",
+      "मुझे प्लेसमेंट ऑफर मिला है, क्या जाँचूँ?"
+    ],
+    "answer": "Review the role, location, compensation structure, bond or service agreement, joining conditions, and official offer letter. Ask the placement cell about unclear terms.",
+    "answer_en": "Review the role, location, compensation structure, bond or service agreement, joining conditions, and official offer letter. Ask the placement cell about unclear terms.",
+    "answer_hi": "रोल, लोकेशन, वेतन संरचना, बॉन्ड या सर्विस एग्रीमेंट, जॉइनिंग शर्तें और ऑफर लेटर जाँचें। अस्पष्ट शर्तें प्लेसमेंट सेल से पूछें।"
+  },
+  {
+    "id": 221,
+    "category": "placements_ctc",
+    "intent": "internship_noc",
+    "questions": [
+      "Do I need an NOC for an off-campus internship?",
+      "ऑफ-कैंपस इंटर्नशिप के लिए NOC चाहिए?"
+    ],
+    "answer": "Requirements vary by college and program. Ask your department or internship coordinator before accepting or starting the internship.",
+    "answer_en": "Requirements vary by college and program. Ask your department or internship coordinator before accepting or starting the internship.",
+    "answer_hi": "जरूरत ABES इंजीनियरिंग कॉलेज और प्रोग्राम के अनुसार बदलती है। इंटर्नशिप स्वीकार या शुरू करने से पहले डिपार्टमेंट या कोऑर्डिनेटर से पूछें।"
+  },
+  {
+    "id": 222,
+    "category": "placements_ctc",
+    "intent": "placement_statistics",
+    "questions": [
+      "Where can I find verified placement statistics?",
+      "सही प्लेसमेंट आँकड़े कहाँ मिलेंगे?"
+    ],
+    "answer": "Use the latest official placement report and check its batch year, number of eligible students, placed students, median package, and methodology.",
+    "answer_en": "Use the latest official placement report and check its batch year, number of eligible students, placed students, median package, and methodology.",
+    "answer_hi": "नवीनतम आधिकारिक प्लेसमेंट रिपोर्ट देखें और बैच वर्ष, पात्र छात्रों, प्लेस हुए छात्रों, median package और गणना का तरीका जाँचें।"
+  },
+  {
+    "id": 223,
+    "category": "safety_and_wellbeing",
+    "intent": "emergency_contact",
+    "questions": [
+      "Whom should I contact for an emergency on campus?",
+      "कैंपस में इमरजेंसी होने पर किससे संपर्क करूँ?"
+    ],
+    "answer": "Contact campus security or the official emergency response number displayed by ABES Engineering College. If urgent help is needed, contact local emergency services.",
+    "answer_en": "Contact campus security or the official emergency response number displayed by ABES Engineering College. If urgent help is needed, contact local emergency services.",
+    "answer_hi": "ABES इंजीनियरिंग कॉलेज द्वारा प्रदर्शित कैंपस सिक्योरिटी या आधिकारिक इमरजेंसी नंबर पर संपर्क करें। तुरंत सहायता चाहिए तो स्थानीय आपातकालीन सेवा से संपर्क करें।"
+  },
+  {
+    "id": 224,
+    "category": "safety_and_wellbeing",
+    "intent": "medical_support",
+    "questions": [
+      "Where can I get first aid on campus?",
+      "कैंपस में फर्स्ट एड कहाँ मिलेगा?"
+    ],
+    "answer": "Ask reception, campus security, or the medical room for first-aid support and operating hours.",
+    "answer_en": "Ask reception, campus security, or the medical room for first-aid support and operating hours.",
+    "answer_hi": "फर्स्ट एड और समय के लिए रिसेप्शन, कैंपस सिक्योरिटी या मेडिकल रूम से पूछें।"
+  },
+  {
+    "id": 225,
+    "category": "safety_and_wellbeing",
+    "intent": "confidential_complaint",
+    "questions": [
+      "Can I make a confidential complaint?",
+      "क्या मैं गोपनीय शिकायत कर सकता हूँ?"
+    ],
+    "answer": "Ask the relevant college committee about its confidentiality policy, reporting channels, and limits to confidentiality before submitting details.",
+    "answer_en": "Ask the relevant college committee about its confidentiality policy, reporting channels, and limits to confidentiality before submitting details.",
+    "answer_hi": "विवरण देने से पहले संबंधित ABES इंजीनियरिंग कॉलेज समिति से गोपनीयता नीति, शिकायत माध्यम और उसकी सीमाओं के बारे में पूछें।"
+  },
+  {
+    "id": 226,
+    "category": "safety_and_wellbeing",
+    "intent": "disability_support",
+    "questions": [
+      "How do I request academic accommodations?",
+      "अकादमिक सुविधाओं में विशेष सहायता कैसे माँगूँ?"
+    ],
+    "answer": "Contact the student support or disability services office and ask about documentation and the formal accommodation process.",
+    "answer_en": "Contact the student support or disability services office and ask about documentation and the formal accommodation process.",
+    "answer_hi": "दस्तावेज़ और औपचारिक सुविधा प्रक्रिया के लिए स्टूडेंट सपोर्ट या disability services ऑफिस से संपर्क करें।"
+  },
+  {
+    "id": 227,
+    "category": "safety_and_wellbeing",
+    "intent": "financial_stress",
+    "questions": [
+      "I am worried about paying my college fees. Where can I seek help?",
+      "कॉलेज फीस भरने को लेकर परेशानी है, मदद कहाँ मिलेगी?"
+    ],
+    "answer": "Contact the scholarship, financial-aid, or accounts office to ask about approved assistance, installment options, and deadlines.",
+    "answer_en": "Contact the scholarship, financial-aid, or accounts office to ask about approved assistance, installment options, and deadlines.",
+    "answer_hi": "स्वीकृत सहायता, किस्त और तारीख के बारे में स्कॉलरशिप, फाइनेंशियल एड या अकाउंट्स ऑफिस से संपर्क करें।"
+  },
+  {
+    "id": 228,
+    "category": "safety_and_wellbeing",
+    "intent": "peer_conflict",
+    "questions": [
+      "I have a conflict with another student. What should I do?",
+      "दूसरे छात्र से विवाद है, क्या करूँ?"
+    ],
+    "answer": "If safe, seek help from a faculty advisor, student affairs office, or counselor. Report threats or immediate safety concerns to campus authorities.",
+    "answer_en": "If safe, seek help from a faculty advisor, student affairs office, or counselor. Report threats or immediate safety concerns to campus authorities.",
+    "answer_hi": "यदि सुरक्षित हो तो फैकल्टी एडवाइज़र, स्टूडेंट अफेयर्स ऑफिस या काउंसलर से मदद लें। धमकी या तुरंत सुरक्षा समस्या कैंपस प्रशासन को बताएँ।"
+  },
+  {
+    "id": 229,
+    "category": "scholarships_aid",
+    "intent": "scholarship_documents",
+    "questions": [
+      "Which documents are usually needed for scholarships?",
+      "स्कॉलरशिप के लिए आमतौर पर कौन-से दस्तावेज़ चाहिए?"
+    ],
+    "answer": "Requirements vary by scheme. Common examples include academic records, income or category certificates where applicable, bank details, and identity documents. Follow the current scheme checklist.",
+    "answer_en": "Requirements vary by scheme. Common examples include academic records, income or category certificates where applicable, bank details, and identity documents. Follow the current scheme checklist.",
+    "answer_hi": "जरूरत योजना के अनुसार बदलती है। आम तौर पर मार्कशीट, लागू होने पर आय या श्रेणी प्रमाणपत्र, बैंक विवरण और पहचान पत्र माँगे जा सकते हैं। मौजूदा चेकलिस्ट देखें।"
+  },
+  {
+    "id": 230,
+    "category": "scholarships_aid",
+    "intent": "scholarship_renewal",
+    "questions": [
+      "How do I renew my scholarship?",
+      "स्कॉलरशिप रिन्यू कैसे करूँ?"
+    ],
+    "answer": "Check the renewal window, academic progress conditions, attendance requirements if applicable, and documents on the official scheme portal.",
+    "answer_en": "Check the renewal window, academic progress conditions, attendance requirements if applicable, and documents on the official scheme portal.",
+    "answer_hi": "आधिकारिक योजना पोर्टल पर रिन्यूअल अवधि, अकादमिक प्रगति, लागू अटेंडेंस शर्तें और दस्तावेज़ देखें।"
+  },
+  {
+    "id": 231,
+    "category": "scholarships_aid",
+    "intent": "scholarship_rejected",
+    "questions": [
+      "My scholarship application was rejected. What can I do?",
+      "मेरी स्कॉलरशिप एप्लीकेशन रिजेक्ट हो गई, क्या करूँ?"
+    ],
+    "answer": "Read the rejection reason, check whether corrections or an appeal are allowed, and contact the official scholarship help desk before the deadline.",
+    "answer_en": "Read the rejection reason, check whether corrections or an appeal are allowed, and contact the official scholarship help desk before the deadline.",
+    "answer_hi": "रिजेक्शन का कारण पढ़ें, सुधार या अपील की सुविधा जाँचें और अंतिम तारीख से पहले आधिकारिक हेल्प डेस्क से संपर्क करें।"
+  },
+  {
+    "id": 232,
+    "category": "scholarships_aid",
+    "intent": "bank_verification",
+    "questions": [
+      "My scholarship bank verification is pending.",
+      "मेरी स्कॉलरशिप बैंक वेरिफिकेशन pending है।"
+    ],
+    "answer": "Check the portal instructions and confirm that the submitted bank details match your documents. Contact the scheme help desk for unresolved verification.",
+    "answer_en": "Check the portal instructions and confirm that the submitted bank details match your documents. Contact the scheme help desk for unresolved verification.",
+    "answer_hi": "पोर्टल के निर्देश देखें और बैंक विवरण दस्तावेज़ों से मिलाएँ। वेरिफिकेशन न हो तो योजना हेल्प डेस्क से संपर्क करें।"
+  },
+  {
+    "id": 233,
+    "category": "scholarships_aid",
+    "intent": "fee_waiver_eligibility",
+    "questions": [
+      "Who is eligible for a fee waiver?",
+      "फीस माफी के लिए कौन पात्र है?"
+    ],
+    "answer": "Eligibility depends on ABES Engineering College's current policy and the relevant scheme. Check income, merit, category, and renewal conditions in the official notice.",
+    "answer_en": "Eligibility depends on ABES Engineering College's current policy and the relevant scheme. Check income, merit, category, and renewal conditions in the official notice.",
+    "answer_hi": "पात्रता संस्थान की मौजूदा नीति और योजना पर निर्भर करती है। आधिकारिक नोटिस में आय, मेरिट, श्रेणी और रिन्यूअल शर्तें देखें।"
+  },
+  {
+    "id": 234,
+    "category": "scholarships_aid",
+    "intent": "scholarship_disbursement",
+    "questions": [
+      "When will scholarship money be credited?",
+      "स्कॉलरशिप के पैसे कब आएँगे?"
+    ],
+    "answer": "Disbursement timing depends on verification and the scheme authority. Track the official portal and contact its help desk if the stated timeline passes.",
+    "answer_en": "Disbursement timing depends on verification and the scheme authority. Track the official portal and contact its help desk if the stated timeline passes.",
+    "answer_hi": "पैसे आने का समय वेरिफिकेशन और योजना प्राधिकरण पर निर्भर करता है। आधिकारिक पोर्टल ट्रैक करें और तय समय निकलने पर हेल्प डेस्क से पूछें।"
+  },
+  {
+    "id": 235,
+    "category": "general_help_desk",
+    "intent": "bot_language",
+    "questions": [
+      "Can I chat in Hindi and English?",
+      "क्या मैं हिंदी और इंग्लिश दोनों में बात कर सकता हूँ?"
+    ],
+    "answer": "Yes. You can ask in English or Hindi. You can also try mixed Hindi-English messages; if the answer is unclear, rephrase the question.",
+    "answer_en": "Yes. You can ask in English or Hindi. You can also try mixed Hindi-English messages; if the answer is unclear, rephrase the question.",
+    "answer_hi": "हाँ। आप हिंदी या इंग्लिश में सवाल पूछ सकते हैं। मिक्स हिंदी-इंग्लिश भी आज़मा सकते हैं; जवाब स्पष्ट न हो तो सवाल दूसरे तरीके से लिखें।"
+  },
+  {
+    "id": 236,
+    "category": "general_help_desk",
+    "intent": "bot_human_support",
+    "questions": [
+      "Can I talk to a real person?",
+      "क्या मैं किसी असली व्यक्ति से बात कर सकता हूँ?"
+    ],
+    "answer": "I can guide you, but I cannot transfer a call unless ABES Engineering College has connected an official live-support service. Contact the relevant office through verified details.",
+    "answer_en": "I can guide you, but I cannot transfer a call unless ABES Engineering College has connected an official live-support service. Contact the relevant office through verified details.",
+    "answer_hi": "मैं मार्गदर्शन कर सकता हूँ, लेकिन ABES इंजीनियरिंग कॉलेज की आधिकारिक लाइव-सपोर्ट सुविधा जुड़ी न हो तो कॉल ट्रांसफर नहीं कर सकता। सत्यापित संपर्क से संबंधित ऑफिस से बात करें।"
+  },
+  {
+    "id": 237,
+    "category": "general_help_desk",
+    "intent": "bot_wrong_answer",
+    "questions": [
+      "What should I do if the help desk gives an unexpected answer?",
+      "अगर हेल्प डेस्क अनपेक्षित जवाब दे तो क्या करूँ?"
+    ],
+    "answer": "Please verify important details with official ABES Engineering College notices or the responsible department office, and report the issue to the help desk.",
+    "answer_en": "Please verify important details with official ABES Engineering College notices or the responsible department office, and report the issue to the help desk.",
+    "answer_hi": "महत्वपूर्ण जानकारी आधिकारिक ABES ABES इंजीनियरिंग कॉलेज नोटिस या संबंधित ऑफिस से सत्यापित करें और समस्या की सूचना हेल्प डेस्क को दें।"
+  },
+  {
+    "id": 238,
+    "category": "general_help_desk",
+    "intent": "bot_privacy",
+    "questions": [
+      "Is it safe to share my password or OTP with the help desk?",
+      "क्या हेल्प डेस्क को पासवर्ड या OTP देना सुरक्षित है?"
+    ],
+    "answer": "No. Never share passwords, OTPs, banking PINs, or other secret credentials in chat.",
+    "answer_en": "No. Never share passwords, OTPs, banking PINs, or other secret credentials in chat.",
+    "answer_hi": "नहीं। चैट में पासवर्ड, OTP, बैंक PIN या अन्य गोपनीय जानकारी कभी साझा न करें।"
+  },
+  {
+    "id": 239,
+    "category": "general_help_desk",
+    "intent": "bot_feedback",
+    "questions": [
+      "How can I give feedback about this help desk?",
+      "इस हेल्प डेस्क को फीडबैक कैसे दूँ?"
+    ],
+    "answer": "Use the feedback option if available, or contact the student help desk with your question and suggestions.",
+    "answer_en": "Use the feedback option if available, or contact the student help desk with your question and suggestions.",
+    "answer_hi": "फीडबैक विकल्प का उपयोग करें या अपने सुझाव और सवाल स्टूडेंट हेल्प डेस्क को ईमेल करें।"
+  },
+  {
+    "id": 240,
+    "category": "general_help_desk",
+    "intent": "bot_unknown",
+    "questions": [
+      "The help desk did not understand my question. What should I try?",
+      "हेल्प डेस्क मेरा सवाल नहीं समझ पाया, क्या करूँ?"
+    ],
+    "answer": "Try a shorter sentence, mention the specific topic (e.g. fees, hostel, exams, attendance), or use the voice search button. You can also contact helpdesk@abes.ac.in.",
+    "answer_en": "Try a shorter sentence, mention the specific topic (e.g. fees, hostel, exams, attendance), or use the voice search button. You can also contact helpdesk@abes.ac.in.",
+    "answer_hi": "छोटा वाक्य लिखें, विषय (जैसे फीस, हॉस्टल, परीक्षा, अटेंडेंस) स्पष्ट करें या वॉयस सर्च का उपयोग करें। आप helpdesk@abes.ac.in पर भी संपर्क कर सकते हैं।"
   }
 ]

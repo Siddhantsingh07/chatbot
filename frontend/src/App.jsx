@@ -15,8 +15,64 @@ import { fetchHealth } from './services/api';
 import './styles/global.css';
 import './styles/App.css';
 
+const CATEGORY_DEFAULT_QUERIES = {
+  admissions: {
+    en: 'What is the admission process and eligibility criteria?',
+    hi: 'एडमिशन प्रक्रिया और पात्रता क्या है?',
+  },
+  fees: {
+    en: 'What is the fee structure and how can I pay the fees?',
+    hi: 'कॉलेज फीस स्ट्रक्चर क्या है और फीस कैसे जमा करें?',
+  },
+  scholarships: {
+    en: 'What scholarships are available and how to apply?',
+    hi: 'कौन-कौन सी स्कॉलरशिप उपलब्ध हैं और आवेदन कैसे करें?',
+  },
+  exams: {
+    en: 'When are the exams and what is the schedule?',
+    hi: 'परीक्षाएं कब हैं और टाइमटेबल क्या है?',
+  },
+  timetable: {
+    en: 'Where can I find my class timetable?',
+    hi: 'क्लास का टाइमटेबल कहाँ मिलेगा?',
+  },
+  hostel: {
+    en: 'What are the hostel facilities, availability, and fees?',
+    hi: 'हॉस्टल की सुविधा, उपलब्धता और फीस क्या है?',
+  },
+  placements: {
+    en: 'Tell me about college placements and average package',
+    hi: 'कॉलेज प्लेसमेंट और औसत पैकेज के बारे में बताइए',
+  },
+  library: {
+    en: 'What are the library timings and book borrowing rules?',
+    hi: 'लाइब्रेरी का समय और किताबें जारी करवाने के नियम क्या हैं?',
+  },
+  campus: {
+    en: 'What facilities are available on campus?',
+    hi: 'कैंपस में कौन-कौन सी सुविधाएं उपलब्ध हैं?',
+  },
+  documents: {
+    en: 'How to get a bonafide certificate, transcript, or ID card?',
+    hi: 'बोनाफाइड सर्टिफिकेट या मार्कशीट कैसे प्राप्त करें?',
+  },
+  contact: {
+    en: 'What is the helpline number and email ID of the college?',
+    hi: 'कॉलेज का हेल्पलाइन नंबर और ईमेल आईडी क्या है?',
+  },
+  attendance: {
+    en: 'What is the minimum attendance requirement?',
+    hi: 'कॉलेज में कितने प्रतिशत अटेंडेंस अनिवार्य है?',
+  },
+  academics: {
+    en: 'Where can I get the syllabus and academic calendar?',
+    hi: 'सिलेबस और एकेडमिक कैलेंडर कहाँ मिलेगा?',
+  },
+};
+
 export default function App() {
-  const { messages, isLoading, error, submit, clearChat } = useChat();
+  const [language, setLanguage] = useState('en'); // 'en' or 'hi'
+  const { messages, isLoading, error, submit, clearChat } = useChat(language);
   const { categories } = useCategories();
 
   const [leftSidebarOpen, setLeftSidebarOpen] = useState(false);
@@ -24,7 +80,6 @@ export default function App() {
   const [isOnline, setIsOnline] = useState(null);
   const [geminiActive, setGeminiActive] = useState(false);
   const [darkMode, setDarkMode] = useState(false);
-  const [language, setLanguage] = useState('en'); // 'en' or 'hi'
   const [activeCategory, setActiveCategory] = useState(null);
 
   // Apply dark mode to <body>
@@ -64,11 +119,13 @@ export default function App() {
   const handleCategoryClick = useCallback(
     (cat) => {
       setActiveCategory(cat);
-      submit(`Tell me about ${cat} at ABES Engineering College`);
+      const categoryConfig = CATEGORY_DEFAULT_QUERIES[cat];
+      const query = categoryConfig ? (categoryConfig[language] || categoryConfig.en) : `What are the details regarding ${cat}?`;
+      submit(query);
       setLeftSidebarOpen(false);
       setRightSidebarOpen(false);
     },
-    [submit]
+    [submit, language]
   );
 
   const handleStarterClick = useCallback(

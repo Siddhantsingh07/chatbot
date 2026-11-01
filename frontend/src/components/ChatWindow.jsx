@@ -84,6 +84,28 @@ export default function ChatWindow({
           {messages.map((msg) => (
             <MessageBubble key={msg.id} message={msg} />
           ))}
+
+          {/* Quick starter cards at the beginning of the conversation */}
+          {messages.length <= 1 && !isLoading && (
+            <div className="starters-container-inline">
+              <div className="starters-label">⚡ Quick Topics:</div>
+              <div className="starters-grid">
+                {QUICK_STARTERS.map((s) => (
+                  <button
+                    key={s.title}
+                    className="starter-card"
+                    onClick={() => onStarterClick && onStarterClick(s.query)}
+                  >
+                    <div className="starter-icon">{s.icon}</div>
+                    <div className="starter-content">
+                      <div className="starter-title">{s.title}</div>
+                      <div className="starter-desc">{s.desc}</div>
+                    </div>
+                  </button>
+                ))}
+              </div>
+            </div>
+          )}
         </div>
       )}
 

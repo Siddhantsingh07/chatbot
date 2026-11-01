@@ -63,30 +63,17 @@ export default function MessageBubble({ message }) {
         <div className={`message-bubble ${isBot ? 'bubble--bot' : 'bubble--user'}`}>
           <div className="bubble-text">{text}</div>
 
-          {/* Action Row for Bot: TTS and Category Badge */}
-          {isBot && (
+          {/* Action Row for Bot: TTS Speaker Button */}
+          {isBot && window.speechSynthesis && (
             <div className="bubble-footer">
-              <div className="footer-left">
-                {category && (
-                  <span className="category-tag">📁 {category}</span>
-                )}
-                {confidence != null && (
-                  <span className="confidence-tag">
-                    🎯 {Math.round(confidence * 100)}% Match
-                  </span>
-                )}
-              </div>
-
-              {window.speechSynthesis && (
-                <button
-                  className={`speak-btn ${isSpeaking ? 'speaking' : ''}`}
-                  onClick={handleSpeak}
-                  title={isSpeaking ? 'Stop speaking' : 'Listen to answer'}
-                  aria-label="Text to speech"
-                >
-                  {isSpeaking ? '🔊 Stop' : '🔈 Listen'}
-                </button>
-              )}
+              <button
+                className={`speak-btn ${isSpeaking ? 'speaking' : ''}`}
+                onClick={handleSpeak}
+                title={isSpeaking ? 'Stop speaking' : 'Listen to answer'}
+                aria-label="Text to speech"
+              >
+                {isSpeaking ? '🔊 Stop' : '🔈 Listen'}
+              </button>
             </div>
           )}
         </div>

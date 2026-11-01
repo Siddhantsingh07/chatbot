@@ -42,11 +42,11 @@ def chat(request: ChatRequest, db: Session = Depends(get_db)):
     if not user_message:
         raise HTTPException(status_code=422, detail="Message cannot be empty.")
 
-    # 1. Run local FAQ intent matching
+    # 1. Run local FAQ intent matching (includes time-based greeting detection)
     result = match_intent(user_message, db)
 
-    # 2. If Gemini is configured, generate conversational grounded response
-    if is_gemini_available():
+    # 2. If Gemini is configured and message is not a direct greeting, generate conversational grounded response
+    if is_gemini_available() and result.get("intent") != "greeting":
         try:
             categories_rows = db.query(distinct(FAQ.category)).all()
             all_categories = [r[0] for r in categories_rows]
@@ -145,6 +145,20 @@ def get_history(
         history=[HistoryItem.model_validate(r) for r in records],
         total=len(records),
     )
+
+
+# ─── GET /api/greeting ───────────────────────────────────────────────────────
+
+@router.get("/greeting")
+def get_greeting():
+    """Return dynamic time-based greeting for initial session display."""
+    from app.nlp import get_time_greeting
+    time_greeting = get_time_greeting()
+    return {
+        "time_greeting": time_greeting,
+        "welcome_en": f"{time_greeting} Welcome to ABES Student Support Help Desk. How can I help you today?",
+        "welcome_hi": f"{time_greeting} ABES स्टूडेंट सपोर्ट हेल्प डेस्क में आपका स्वागत है। मैं आपकी क्या सहायता कर सकता हूँ?",
+    }
 
 
 # ─── GET /api/health ─────────────────────────────────────────────────────────

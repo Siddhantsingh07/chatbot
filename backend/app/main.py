@@ -3,6 +3,14 @@ main.py – FastAPI application entry point.
 """
 import logging
 import sys
+
+if hasattr(sys.stdout, "reconfigure"):
+    try:
+        sys.stdout.reconfigure(encoding="utf-8")
+        sys.stderr.reconfigure(encoding="utf-8")
+    except Exception:
+        pass
+
 from contextlib import asynccontextmanager
 
 from fastapi import FastAPI
@@ -25,7 +33,7 @@ logger = logging.getLogger(__name__)
 
 @asynccontextmanager
 async def lifespan(app: FastAPI):
-    logger.info("=== University Chatbot API – Starting up ===")
+    logger.info("=== ABES Student Support Help Desk API – Starting up ===")
 
     Base.metadata.create_all(bind=engine)
     logger.info("Database tables created / verified.")
@@ -47,14 +55,14 @@ async def lifespan(app: FastAPI):
 
     logger.info("Startup complete. Ready to serve requests.")
     yield
-    logger.info("=== University Chatbot API – Shutting down ===")
+    logger.info("=== ABES Student Support Help Desk API – Shutting down ===")
 
 
 app = FastAPI(
-    title="University Student Support Chatbot API",
+    title="ABES Student Support Help Desk API",
     description=(
-        "AI-powered FAQ chatbot for university students using "
-        "TF-IDF intent matching with scikit-learn."
+        "AI-powered Help Desk for ABES Engineering College students using "
+        "TF-IDF intent matching and Google Gemini."
     ),
     version="1.0.0",
     lifespan=lifespan,

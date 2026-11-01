@@ -1,0 +1,7 @@
+column_name,data_type,sample_value_1,sample_value_2,sample_value_3,nullable,description_fill_in
+session_id,String (Alphanumeric),S0001,S0002,S0003,No,Unique alphanumeric session identifier generated for each student conversation session with the ABES Student Support Help Desk.
+user_query_type,Categorical (String),query_type_1,query_type_2,query_type_3,No,"Classification of the student interaction modality and complexity (query_type_1: Direct FAQ retrieval, query_type_2: Voice STT query, query_type_3: Conversational time-aware greeting, query_type_4: Multi-turn category exploration, query_type_5: Grievance or administrative escalation inquiry)."
+intent,Categorical (String),admissions,fees,hostel,No,"Classified domain intent corresponding to ABES Engineering College administrative and academic services (admissions, fees, exams, hostel, schedule, library, grievance)."
+confidence_score,Float (Numeric [0.0 - 1.0]),0.682,0.802,0.896,No,Mathematical cosine similarity and intent classification confidence score produced by the Scikit-Learn TF-IDF vectorizer model (threshold: 0.25).
+escalated,Integer / Binary (0 or 1),0,0,1,No,"Binary escalation flag indicating whether human administrative intervention was triggered (0 = Query resolved autonomously by Help Desk, 1 = Escalated to Dean, HOD, or Student Grievance Cell)."
+user_rating,Integer (Numeric [1 - 5]),5,4,3,No,Student satisfaction feedback score captured on a 5-point Likert scale upon query resolution (1 = Poor/Unsatisfied to 5 = Excellent/Highly Satisfied).
